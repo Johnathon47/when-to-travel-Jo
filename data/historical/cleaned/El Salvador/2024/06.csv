@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+El Salvador,San Salvador,2024-06-01 08:15:00,29.0,84,1011.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-06-02 08:00:00,25.0,79,1017.0,Sunny,1.0000080000000002
+El Salvador,San Salvador,2024-06-03 08:15:00,30.0,70,1010.0,Partly cloudy,1.694458
+El Salvador,San Salvador,2024-06-04 08:15:00,23.0,100,1016.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-06-05 08:15:00,24.0,100,1016.0,Overcast,1.0000080000000002
+El Salvador,San Salvador,2024-06-06 08:00:00,24.0,94,1016.0,Mist,1.0000080000000002
+El Salvador,San Salvador,2024-06-07 08:00:00,25.2,83,1015.0,Partly cloudy,1.11112
+El Salvador,San Salvador,2024-06-08 08:15:00,25.0,89,1017.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-06-09 08:15:00,23.1,100,1016.0,Fog,11.888984
+El Salvador,San Salvador,2024-06-10 08:15:00,24.2,94,1014.0,Partly cloudy,1.8889040000000001
+El Salvador,San Salvador,2024-06-11 08:00:00,24.2,89,1014.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-06-12 08:15:00,23.4,100,1016.0,Light rain,1.11112
+El Salvador,San Salvador,2024-06-13 08:00:00,27.4,89,1012.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-06-14 08:00:00,23.7,83,1011.0,Patchy rain nearby,1.0000080000000002
+El Salvador,San Salvador,2024-06-15 08:00:00,22.8,93,1011.0,Light drizzle,1.0000080000000002
+El Salvador,San Salvador,2024-06-16 07:45:00,21.3,99,1009.0,Moderate rain,1.3055660000000002
+El Salvador,San Salvador,2024-06-17 08:00:00,21.4,98,1010.0,Light rain,2.111128
+El Salvador,San Salvador,2024-06-18 08:00:00,21.2,100,1014.0,Light drizzle,1.694458
+El Salvador,San Salvador,2024-06-19 07:45:00,20.1,100,1009.0,Heavy rain,1.611124
+El Salvador,San Salvador,2024-06-20 07:45:00,21.3,100,1013.0,Moderate rain,1.11112
+El Salvador,San Salvador,2024-06-21 07:30:00,23.2,100,1011.0,Moderate rain,1.0000080000000002
+El Salvador,San Salvador,2024-06-22 07:45:00,26.3,89,1013.0,Partly cloudy,3.111136
+El Salvador,San Salvador,2024-06-23 07:45:00,26.0,100,1011.0,Sunny,1.0000080000000002
+El Salvador,San Salvador,2024-06-25 07:15:00,22.2,96,1014.0,Mist,1.11112
+El Salvador,San Salvador,2024-06-26 07:30:00,25.2,100,1012.0,Partly cloudy,1.8889040000000001
+El Salvador,San Salvador,2024-06-27 07:15:00,22.1,100,1015.0,Fog,1.694458
+El Salvador,San Salvador,2024-06-28 07:15:00,25.0,94,1011.0,Partly cloudy,1.694458
+El Salvador,San Salvador,2024-06-29 06:45:00,24.2,100,1011.0,Light rain,1.11112
+El Salvador,San Salvador,2024-06-30 07:30:00,26.2,94,1013.0,Partly cloudy,1.8889040000000001

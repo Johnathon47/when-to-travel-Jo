@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Poland,Warsaw,2025-07-01 10:45:00,21.0,43,1021.0,Sunny,3.111136
+Poland,Warsaw,2025-07-02 10:45:00,26.2,37,1020.0,Sunny,1.3889
+Poland,Warsaw,2025-07-03 10:30:00,30.3,35,1015.0,Sunny,4.3055900000000005
+Poland,Warsaw,2025-07-04 11:00:00,19.2,49,1023.0,Overcast,3.6111400000000002
+Poland,Warsaw,2025-07-05 10:30:00,22.0,35,1020.0,Sunny,3.388916

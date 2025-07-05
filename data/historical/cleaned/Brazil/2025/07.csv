@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Brazil,Bras,2025-07-01 05:00:00,22.2,89,1013.0,Clear,1.0000080000000002
+Brazil,Bras,2025-07-02 04:30:00,22.0,99,1013.0,Light rain shower,1.0000080000000002
+Brazil,Bras,2025-07-03 04:30:00,21.8,98,1014.0,Fog,1.0000080000000002
+Brazil,Bras,2025-07-04 05:00:00,21.1,99,1014.0,Light rain shower,1.0000080000000002
+Brazil,Bras,2025-07-05 04:30:00,22.1,94,1014.0,Mist,1.11112

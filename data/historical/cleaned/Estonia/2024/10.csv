@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Estonia,Tallinn,2024-10-01 13:00:00,10.2,58,1028.0,Sunny,5.111152
+Estonia,Tallinn,2024-10-02 12:30:00,9.3,93,1013.0,Light rain,6.305606
+Estonia,Tallinn,2024-10-03 12:30:00,9.2,71,1017.0,Overcast,4.111144
+Estonia,Tallinn,2024-10-04 12:45:00,10.0,62,1017.0,Partly cloudy,3.6111400000000002
+Estonia,Tallinn,2024-10-05 12:30:00,13.2,67,1018.0,Light drizzle,4.888928000000001
+Estonia,Tallinn,2024-10-06 12:15:00,12.3,71,1015.0,Partly cloudy,6.194494000000001
+Estonia,Tallinn,2024-10-07 12:45:00,13.2,77,1010.0,Partly cloudy,2.8889120000000004
+Estonia,Tallinn,2024-10-08 12:45:00,11.1,71,1014.0,Partly cloudy,3.8889200000000006
+Estonia,Tallinn,2024-10-09 12:45:00,8.2,87,1005.0,Light rain,10.305638000000002
+Estonia,Tallinn,2024-10-10 12:45:00,12.1,94,996.0,Overcast,5.888936
+Estonia,Tallinn,2024-10-11 12:45:00,13.1,67,998.0,Partly cloudy,7.50006
+Estonia,Tallinn,2024-10-12 12:45:00,12.0,67,1015.0,Partly cloudy,6.000048000000001
+Estonia,Tallinn,2024-10-13 12:30:00,10.3,66,1014.0,Sunny,4.500036000000001
+Estonia,Tallinn,2024-10-14 12:30:00,9.4,74,1008.0,Overcast,1.0000080000000002
+Estonia,Tallinn,2024-10-15 12:30:00,9.1,76,1012.0,Partly cloudy,7.111168000000001
+Estonia,Tallinn,2024-10-16 12:30:00,10.2,66,1028.0,Sunny,5.888936
+Estonia,Tallinn,2024-10-17 12:30:00,11.4,76,1029.0,Partly cloudy,5.694490000000001
+Estonia,Tallinn,2024-10-18 12:30:00,11.8,60,1026.0,Sunny,6.500052
+Estonia,Tallinn,2024-10-19 12:15:00,11.2,62,1027.0,Sunny,5.611156
+Estonia,Tallinn,2024-10-20 12:30:00,9.2,71,1027.0,Sunny,6.694498000000001
+Estonia,Tallinn,2024-10-21 12:15:00,11.4,64,1016.0,Partly Cloudy,9.000072000000001
+Estonia,Tallinn,2024-10-22 12:15:00,12.4,77,1017.0,Partly cloudy,6.000048000000001
+Estonia,Tallinn,2024-10-23 12:15:00,11.1,62,1014.0,Partly cloudy,9.888968000000002
+Estonia,Tallinn,2024-10-24 12:15:00,12.3,71,1021.0,Partly cloudy,6.6111640000000005
+Estonia,Tallinn,2024-10-25 12:15:00,12.1,82,1021.0,Partly cloudy,2.194462
+Estonia,Tallinn,2024-10-26 12:15:00,10.2,82,1020.0,Partly cloudy,5.00004
+Estonia,Tallinn,2024-10-27 11:15:00,9.0,87,1018.0,Partly cloudy,3.3055820000000002
+Estonia,Tallinn,2024-10-28 11:15:00,9.1,81,1012.0,Partly cloudy,7.50006
+Estonia,Tallinn,2024-10-29 11:00:00,7.3,66,1019.0,Partly cloudy,4.611148000000001
+Estonia,Tallinn,2024-10-30 11:00:00,10.1,66,1002.0,Partly cloudy,8.111176
+Estonia,Tallinn,2024-10-31 11:00:00,6.1,75,1008.0,Partly cloudy,7.000056000000001

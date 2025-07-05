@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Kazakhstan,Astana,2024-10-01 15:00:00,23.4,22,1020.0,Sunny,3.111136
+Kazakhstan,Astana,2024-10-02 14:30:00,14.0,47,1020.0,Sunny,8.88896
+Kazakhstan,Astana,2024-10-03 14:30:00,12.1,30,1029.0,Sunny,6.000048000000001
+Kazakhstan,Astana,2024-10-04 14:45:00,14.7,26,1029.0,Sunny,4.3055900000000005
+Kazakhstan,Astana,2024-10-05 14:30:00,18.1,24,1019.0,Sunny,3.388916
+Kazakhstan,Astana,2024-10-06 14:15:00,18.0,20,1013.0,Partly cloudy,4.3055900000000005
+Kazakhstan,Astana,2024-10-07 14:45:00,15.0,44,1024.0,Sunny,5.111152
+Kazakhstan,Astana,2024-10-08 14:45:00,18.2,37,1025.0,Sunny,5.611156
+Kazakhstan,Astana,2024-10-09 14:45:00,22.2,27,1016.0,Sunny,4.888928000000001
+Kazakhstan,Astana,2024-10-10 14:45:00,18.1,34,1006.0,Partly cloudy,4.611148000000001
+Kazakhstan,Astana,2024-10-11 14:45:00,8.5,63,1003.0,Light drizzle,5.194486
+Kazakhstan,Astana,2024-10-12 14:45:00,-0.7,82,1021.0,Blizzard,9.388964
+Kazakhstan,Astana,2024-10-13 14:30:00,-1.8,80,1028.0,Partly cloudy,8.805626
+Kazakhstan,Astana,2024-10-14 14:30:00,1.2,64,1024.0,Partly cloudy,7.888952000000001
+Kazakhstan,Astana,2024-10-15 14:30:00,2.1,64,1023.0,Partly cloudy,6.388940000000001
+Kazakhstan,Astana,2024-10-16 14:30:00,6.3,49,1027.0,Sunny,5.111152
+Kazakhstan,Astana,2024-10-17 14:30:00,6.0,42,1034.0,Sunny,1.8055700000000001
+Kazakhstan,Astana,2024-10-18 14:30:00,10.2,37,1030.0,Sunny,1.694458
+Kazakhstan,Astana,2024-10-19 14:15:00,11.4,35,1027.0,Sunny,2.50002
+Kazakhstan,Astana,2024-10-20 14:30:00,10.6,33,1025.0,Sunny,3.8889200000000006
+Kazakhstan,Astana,2024-10-21 14:15:00,6.3,93,1014.0,Light rain,3.5000280000000004
+Kazakhstan,Astana,2024-10-22 14:15:00,10.6,58,1013.0,Cloudy,4.888928000000001
+Kazakhstan,Astana,2024-10-23 14:15:00,7.1,59,1012.0,Patchy rain nearby,7.388948000000001
+Kazakhstan,Astana,2024-10-24 14:15:00,8.4,66,1012.0,Overcast,8.000064000000002
+Kazakhstan,Astana,2024-10-25 14:15:00,10.8,62,1016.0,Patchy rain nearby,7.888952000000001
+Kazakhstan,Astana,2024-10-26 14:15:00,9.3,93,1016.0,Light rain,3.5000280000000004
+Kazakhstan,Astana,2024-10-27 14:15:00,5.9,85,1019.0,Light drizzle,3.6111400000000002
+Kazakhstan,Astana,2024-10-28 14:15:00,2.0,93,1008.0,Light sleet,10.805642
+Kazakhstan,Astana,2024-10-29 14:00:00,3.3,75,1022.0,Partly cloudy,4.805594000000001
+Kazakhstan,Astana,2024-10-30 14:00:00,4.2,81,1022.0,Partly cloudy,4.888928000000001
+Kazakhstan,Astana,2024-10-31 14:00:00,4.0,85,1026.0,Overcast,5.888936

@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Russia,Moscow,2025-06-01 11:45:00,19.0,60,1010.0,Partly Cloudy,4.888928000000001
+Russia,Moscow,2025-06-02 12:00:00,19.3,35,1015.0,Sunny,4.388924
+Russia,Moscow,2025-06-03 12:00:00,20.1,53,1011.0,Partly cloudy,5.500044000000001
+Russia,Moscow,2025-06-04 12:00:00,19.0,46,1012.0,Partly cloudy,5.611156
+Russia,Moscow,2025-06-05 11:45:00,23.2,31,1018.0,Sunny,2.3889080000000003
+Russia,Moscow,2025-06-06 12:00:00,23.0,57,1012.0,Patchy rain nearby,4.888928000000001
+Russia,Moscow,2025-06-07 11:45:00,26.1,54,1012.0,Thundery outbreaks in nearby,4.388924
+Russia,Moscow,2025-06-08 11:45:00,26.2,58,1012.0,Thundery outbreaks in nearby,6.194494000000001
+Russia,Moscow,2025-06-09 12:00:00,26.2,58,1007.0,Patchy light rain,7.50006
+Russia,Moscow,2025-06-10 12:00:00,18.4,49,1015.0,Sunny,4.194478
+Russia,Moscow,2025-06-11 12:00:00,17.2,52,1017.0,Partly cloudy,2.194462
+Russia,Moscow,2025-06-12 11:45:00,21.3,43,1012.0,Partly Cloudy,3.6111400000000002
+Russia,Moscow,2025-06-13 12:00:00,17.3,63,1007.0,Moderate or heavy rain with thunder,6.194494000000001
+Russia,Moscow,2025-06-14 12:00:00,13.0,94,1008.0,Patchy light rain with thunder,4.3055900000000005
+Russia,Moscow,2025-06-15 11:45:00,14.4,88,1009.0,Overcast,4.000032000000001
+Russia,Moscow,2025-06-16 12:00:00,22.4,43,1008.0,Sunny,3.8055860000000004
+Russia,Moscow,2025-06-17 12:00:00,22.3,57,1007.0,Moderate or heavy rain with thunder,2.3055740000000005
+Russia,Moscow,2025-06-18 12:00:00,15.4,94,1005.0,Light rain,1.0000080000000002
+Russia,Moscow,2025-06-19 12:00:00,14.0,94,998.0,Moderate rain,5.694490000000001
+Russia,Moscow,2025-06-20 11:45:00,13.2,88,999.0,Light rain,4.3055900000000005
+Russia,Moscow,2025-06-21 12:00:00,14.0,72,1008.0,Partly cloudy,6.000048000000001
+Russia,Moscow,2025-06-22 11:45:00,15.3,72,1009.0,Light rain,3.8055860000000004
+Russia,Moscow,2025-06-23 12:00:00,18.1,45,1011.0,Partly Cloudy,3.3055820000000002
+Russia,Moscow,2025-06-24 11:45:00,20.4,53,1007.0,Partly cloudy,6.500052
+Russia,Moscow,2025-06-25 11:45:00,18.3,56,1000.0,Light rain shower,6.388940000000001
+Russia,Moscow,2025-06-26 11:45:00,16.1,72,998.0,Partly cloudy,4.111144
+Russia,Moscow,2025-06-27 12:00:00,15.4,51,1008.0,Partly cloudy,5.111152
+Russia,Moscow,2025-06-28 11:45:00,20.1,43,1006.0,Partly Cloudy,1.8889040000000001
+Russia,Moscow,2025-06-29 11:45:00,19.2,68,1003.0,Patchy rain nearby,4.3055900000000005
+Russia,Moscow,2025-06-30 11:45:00,11.0,94,989.0,Overcast,6.694498000000001

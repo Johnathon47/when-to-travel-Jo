@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Sweden,Stockholm,2025-07-01 10:45:00,24.4,39,1017.0,Sunny,2.6944660000000002
+Sweden,Stockholm,2025-07-02 10:45:00,20.2,56,1015.0,Partly Cloudy,2.0000160000000005
+Sweden,Stockholm,2025-07-03 10:30:00,19.1,88,1004.0,Light rain shower,5.805602
+Sweden,Stockholm,2025-07-04 11:00:00,17.3,39,1017.0,Sunny,4.000032000000001
+Sweden,Stockholm,2025-07-05 10:45:00,15.2,77,1009.0,Partly cloudy,3.0000240000000007

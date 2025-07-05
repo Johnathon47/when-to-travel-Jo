@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vatican City,Vatican City,2024-10-01 11:45:00,20.0,60,1018.0,Sunny,1.3055660000000002
+Vatican City,Vatican City,2024-10-02 11:30:00,20.1,73,1012.0,Partly cloudy,5.611156
+Vatican City,Vatican City,2024-10-03 11:30:00,23.1,73,1004.0,Light rain,6.194494000000001
+Vatican City,Vatican City,2024-10-04 11:45:00,20.3,64,1008.0,Moderate rain,6.111160000000001
+Vatican City,Vatican City,2024-10-05 11:30:00,20.4,55,1011.0,Light rain shower,3.8055860000000004
+Vatican City,Vatican City,2024-10-06 11:15:00,18.3,77,1014.0,Sunny,1.0000080000000002
+Vatican City,Vatican City,2024-10-07 11:45:00,19.1,60,1018.0,Partly cloudy,2.3055740000000005
+Vatican City,Vatican City,2024-10-08 11:45:00,23.1,65,1013.0,Partly cloudy,7.888952000000001
+Vatican City,Vatican City,2024-10-09 11:45:00,22.3,73,1012.0,Partly cloudy,3.6111400000000002
+Vatican City,Vatican City,2024-10-10 11:45:00,24.3,69,1006.0,Partly cloudy,7.50006
+Vatican City,Vatican City,2024-10-11 11:45:00,20.3,68,1011.0,Sunny,2.0000160000000005
+Vatican City,Vatican City,2024-10-12 11:45:00,21.3,78,1017.0,Partly cloudy,1.3055660000000002
+Vatican City,Vatican City,2024-10-13 11:30:00,21.4,56,1020.0,Sunny,1.11112
+Vatican City,Vatican City,2024-10-14 11:30:00,21.1,73,1021.0,Sunny,1.0000080000000002
+Vatican City,Vatican City,2024-10-15 11:30:00,22.3,73,1020.0,Sunny,1.0000080000000002
+Vatican City,Vatican City,2024-10-16 11:30:00,23.7,53,1020.0,Partly Cloudy,1.611124
+Vatican City,Vatican City,2024-10-17 11:30:00,24.3,65,1020.0,Partly cloudy,2.805578
+Vatican City,Vatican City,2024-10-18 11:30:00,20.3,88,1017.0,Partly cloudy,2.194462
+Vatican City,Vatican City,2024-10-19 11:15:00,17.4,100,1012.0,Moderate rain,1.8055700000000001
+Vatican City,Vatican City,2024-10-20 11:30:00,19.3,83,1018.0,Partly cloudy,1.611124
+Vatican City,Vatican City,2024-10-21 11:15:00,17.9,82,1024.0,Partly Cloudy,2.3055740000000005
+Vatican City,Vatican City,2024-10-22 11:15:00,22.1,78,1026.0,Sunny,1.694458
+Vatican City,Vatican City,2024-10-23 11:15:00,20.3,100,1027.0,Light rain,1.0000080000000002
+Vatican City,Vatican City,2024-10-24 11:15:00,22.5,67,1027.0,Partly Cloudy,2.194462
+Vatican City,Vatican City,2024-10-25 11:15:00,20.4,83,1024.0,Sunny,1.3889
+Vatican City,Vatican City,2024-10-26 11:15:00,22.3,69,1022.0,Sunny,2.50002
+Vatican City,Vatican City,2024-10-27 10:15:00,21.1,73,1023.0,Sunny,2.194462
+Vatican City,Vatican City,2024-10-28 10:15:00,19.3,83,1026.0,Sunny,1.8055700000000001
+Vatican City,Vatican City,2024-10-29 10:00:00,20.7,61,1025.0,Sunny,1.3889
+Vatican City,Vatican City,2024-10-30 10:00:00,20.4,61,1023.0,Sunny,1.694458
+Vatican City,Vatican City,2024-10-31 10:00:00,18.0,94,1023.0,Sunny,1.0000080000000002

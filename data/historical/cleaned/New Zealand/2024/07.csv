@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+New Zealand,Wellington,2024-07-01 01:30:00,13.4,77,1012.0,Partly cloudy,11.388980000000002
+New Zealand,Wellington,2024-07-02 01:15:00,13.4,77,998.0,Partly cloudy,8.305622
+New Zealand,Wellington,2024-07-03 01:15:00,11.3,66,1013.0,Clear,13.305662000000002
+New Zealand,Wellington,2024-07-04 01:00:00,10.4,76,1026.0,Partly cloudy,11.888984
+New Zealand,Wellington,2024-07-05 01:15:00,5.3,93,1026.0,Clear,1.694458
+New Zealand,Wellington,2024-07-06 00:45:00,8.3,87,1016.0,Clear,5.305598000000001
+New Zealand,Wellington,2024-07-07 01:15:00,6.3,87,1017.0,Clear,2.50002
+New Zealand,Wellington,2024-07-08 01:00:00,11.0,76,1022.0,Partly cloudy,5.305598000000001
+New Zealand,Wellington,2024-07-09 01:00:00,8.4,81,1035.0,Partly cloudy,1.11112
+New Zealand,Wellington,2024-07-10 00:45:00,6.0,87,1039.0,Clear,3.111136
+New Zealand,Wellington,2024-07-11 01:00:00,11.3,76,1040.0,Partly cloudy,9.694522000000001
+New Zealand,Wellington,2024-07-12 00:45:00,10.0,71,1037.0,Partly cloudy,10.805642
+New Zealand,Wellington,2024-07-13 01:00:00,9.0,81,1033.0,Partly cloudy,7.805618000000001
+New Zealand,Wellington,2024-07-14 01:00:00,9.4,81,1031.0,Patchy rain nearby,3.111136
+New Zealand,Wellington,2024-07-15 01:15:00,8.3,81,1022.0,Clear,1.0000080000000002
+New Zealand,Wellington,2024-07-16 01:00:00,10.0,94,1008.0,Overcast,1.11112
+New Zealand,Wellington,2024-07-17 00:45:00,11.4,94,1006.0,Patchy rain nearby,4.694482
+New Zealand,Wellington,2024-07-18 00:45:00,10.5,95,1007.0,Light drizzle,2.6111320000000005
+New Zealand,Wellington,2024-07-19 00:45:00,10.1,94,1014.0,Fog,1.694458
+New Zealand,Wellington,2024-07-20 00:30:00,11.1,87,1006.0,Light rain,1.694458
+New Zealand,Wellington,2024-07-21 00:45:00,10.4,94,998.0,Partly cloudy,1.694458
+New Zealand,Wellington,2024-07-24 00:30:00,9.5,69,1012.0,Partly Cloudy,5.694490000000001
+New Zealand,Wellington,2024-07-25 00:45:00,9.5,84,1017.0,Clear,5.805602
+New Zealand,Wellington,2024-07-26 00:15:00,9.7,84,1023.0,Clear,5.694490000000001
+New Zealand,Wellington,2024-07-27 00:30:00,10.8,90,1023.0,Partly Cloudy,6.805610000000001
+New Zealand,Wellington,2024-07-28 00:30:00,11.4,72,1020.0,Overcast,12.111208000000001
+New Zealand,Wellington,2024-07-29 00:45:00,11.3,94,1017.0,Light drizzle,10.111192
+New Zealand,Wellington,2024-07-30 00:15:00,12.4,96,1007.0,Moderate rain,7.194502
+New Zealand,Wellington,2024-07-31 00:15:00,7.8,83,1017.0,Patchy rain nearby,13.889000000000001

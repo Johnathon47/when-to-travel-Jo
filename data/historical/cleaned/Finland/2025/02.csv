@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Finland,Helsinki,2025-02-01 12:30:00,0.0,86,1018.0,Partly cloudy,4.694482
+Finland,Helsinki,2025-02-02 12:00:00,-1.0,74,1017.0,Partly cloudy,5.694490000000001
+Finland,Helsinki,2025-02-03 12:30:00,-5.7,79,1021.0,Partly cloudy,3.6944740000000005
+Finland,Helsinki,2025-02-04 12:30:00,-8.7,79,1027.0,Light snow,2.3055740000000005
+Finland,Helsinki,2025-02-05 12:30:00,0.2,93,1024.0,Patchy heavy snow,8.694514000000002
+Finland,Helsinki,2025-02-06 12:15:00,2.3,87,1039.0,Partly cloudy,4.194478
+Finland,Helsinki,2025-02-07 12:30:00,-0.8,93,1052.0,Overcast,3.111136
+Finland,Helsinki,2025-02-08 12:30:00,-0.6,80,1048.0,Partly cloudy,5.500044000000001
+Finland,Helsinki,2025-02-09 12:30:00,-2.9,80,1042.0,Light snow,1.611124
+Finland,Helsinki,2025-02-10 12:30:00,-1.7,86,1042.0,Partly cloudy,2.0000160000000005
+Finland,Helsinki,2025-02-11 12:15:00,-4.0,100,1041.0,Partly cloudy,2.6111320000000005
+Finland,Helsinki,2025-02-12 12:15:00,0.3,86,1030.0,Light snow,4.500036000000001
+Finland,Helsinki,2025-02-13 12:15:00,-3.8,86,1023.0,Partly cloudy,5.694490000000001
+Finland,Helsinki,2025-02-14 12:00:00,-7.7,85,1021.0,Light snow,3.6111400000000002
+Finland,Helsinki,2025-02-15 12:15:00,-5.8,79,1018.0,Light snow,4.3055900000000005
+Finland,Helsinki,2025-02-16 12:15:00,-9.0,73,1018.0,Sunny,2.111128
+Finland,Helsinki,2025-02-17 12:15:00,-6.8,86,1015.0,Partly cloudy,2.3055740000000005
+Finland,Helsinki,2025-02-18 12:15:00,-3.6,86,1014.0,Light snow,4.805594000000001
+Finland,Helsinki,2025-02-19 12:15:00,-3.8,68,1026.0,Sunny,3.8055860000000004
+Finland,Helsinki,2025-02-20 12:00:00,-2.8,93,1030.0,Light snow,5.00004
+Finland,Helsinki,2025-02-21 12:00:00,-0.9,74,1026.0,Light snow,8.111176
+Finland,Helsinki,2025-02-22 12:00:00,0.2,86,1025.0,Overcast,5.00004
+Finland,Helsinki,2025-02-23 12:00:00,0.3,80,1024.0,Sunny,4.805594000000001
+Finland,Helsinki,2025-02-24 12:00:00,1.3,100,1023.0,Fog,3.6111400000000002
+Finland,Helsinki,2025-02-25 12:00:00,2.3,80,1016.0,Partly cloudy,4.3055900000000005
+Finland,Helsinki,2025-02-26 12:00:00,1.1,93,1013.0,Mist,3.6111400000000002
+Finland,Helsinki,2025-02-27 11:45:00,2.4,100,1018.0,Mist,3.111136
+Finland,Helsinki,2025-02-28 12:00:00,2.1,100,1021.0,Partly cloudy,2.194462

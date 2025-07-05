@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Pakistan,Islamabad,2025-03-01 14:45:00,19.8,35,1016.0,Sunny,2.194462
+Pakistan,Islamabad,2025-03-02 15:00:00,21.1,24,1012.0,Sunny,1.0000080000000002
+Pakistan,Islamabad,2025-03-03 14:45:00,14.5,67,1013.0,Light rain shower,2.805578
+Pakistan,Islamabad,2025-03-04 14:45:00,18.2,42,1015.0,Sunny,3.111136
+Pakistan,Islamabad,2025-03-05 14:45:00,20.6,25,1014.0,Sunny,4.111144
+Pakistan,Islamabad,2025-03-06 14:45:00,21.9,25,1011.0,Sunny,2.194462
+Pakistan,Islamabad,2025-03-07 14:45:00,23.1,24,1010.0,Partly Cloudy,2.805578
+Pakistan,Islamabad,2025-03-08 14:45:00,24.8,23,1008.0,Sunny,2.3055740000000005
+Pakistan,Islamabad,2025-03-09 14:30:00,25.3,26,1013.0,Partly Cloudy,2.0000160000000005
+Pakistan,Islamabad,2025-03-10 14:45:00,22.4,36,1018.0,Partly Cloudy,5.194486
+Pakistan,Islamabad,2025-03-11 14:45:00,26.0,31,1015.0,Partly Cloudy,1.5000120000000003
+Pakistan,Islamabad,2025-03-12 14:30:00,22.1,48,1011.0,Sunny,3.6111400000000002
+Pakistan,Islamabad,2025-03-13 14:45:00,24.2,37,1008.0,Sunny,2.8889120000000004
+Pakistan,Islamabad,2025-03-14 14:45:00,16.1,62,1014.0,Partly Cloudy,8.194510000000001
+Pakistan,Islamabad,2025-03-15 14:45:00,20.8,50,1013.0,Patchy light rain in area with thunder,1.611124
+Pakistan,Islamabad,2025-03-16 14:45:00,23.9,30,1013.0,Sunny,1.611124
+Pakistan,Islamabad,2025-03-17 14:45:00,25.0,26,1013.0,Sunny,3.388916
+Pakistan,Islamabad,2025-03-18 14:30:00,25.7,21,1013.0,Sunny,2.50002
+Pakistan,Islamabad,2025-03-19 14:30:00,26.1,20,1014.0,Partly Cloudy,2.3055740000000005
+Pakistan,Islamabad,2025-03-20 14:45:00,26.9,23,1016.0,Sunny,3.6111400000000002
+Pakistan,Islamabad,2025-03-21 14:30:00,27.7,18,1015.0,Sunny,3.5000280000000004
+Pakistan,Islamabad,2025-03-22 14:30:00,28.7,11,1014.0,Sunny,3.0000240000000007
+Pakistan,Islamabad,2025-03-23 14:45:00,28.9,15,1014.0,Overcast,2.3889080000000003
+Pakistan,Islamabad,2025-03-24 14:45:00,29.9,17,1012.0,Sunny,2.6944660000000002
+Pakistan,Islamabad,2025-03-25 14:15:00,30.1,16,1009.0,Partly Cloudy,3.388916
+Pakistan,Islamabad,2025-03-26 14:30:00,30.5,18,1006.0,Partly Cloudy,5.805602
+Pakistan,Islamabad,2025-03-27 14:15:00,30.8,16,1002.0,Sunny,8.611180000000001
+Pakistan,Islamabad,2025-03-28 14:45:00,21.8,12,1010.0,Sunny,2.194462
+Pakistan,Islamabad,2025-03-29 14:30:00,26.3,12,1010.0,Sunny,4.194478
+Pakistan,Islamabad,2025-03-30 14:30:00,27.7,13,1011.0,Sunny,3.5000280000000004
+Pakistan,Islamabad,2025-03-31 14:15:00,28.8,12,1012.0,Sunny,5.611156

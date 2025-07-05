@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+United Kingdom,London,2025-07-01 10:00:00,27.2,54,1013.0,Partly Cloudy,1.0000080000000002
+United Kingdom,London,2025-07-02 10:00:00,18.0,88,1016.0,Partly cloudy,2.8889120000000004
+United Kingdom,London,2025-07-03 09:45:00,18.3,49,1028.0,Sunny,1.8889040000000001
+United Kingdom,London,2025-07-04 09:45:00,20.3,49,1028.0,Sunny,2.6111320000000005
+United Kingdom,London,2025-07-05 10:00:00,19.3,73,1016.0,Overcast,5.00004

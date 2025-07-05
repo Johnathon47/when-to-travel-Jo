@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Myanmar,Yangon,2024-09-01 18:30:00,28.4,74,1006.0,Overcast,3.111136
+Myanmar,Yangon,2024-09-02 18:45:00,28.3,89,1005.0,Partly cloudy,3.6111400000000002
+Myanmar,Yangon,2024-09-03 18:45:00,27.0,94,1005.0,Partly cloudy,1.11112
+Myanmar,Yangon,2024-09-04 18:30:00,29.4,84,1003.0,Partly cloudy,1.11112
+Myanmar,Yangon,2024-09-05 18:30:00,26.1,94,1002.0,Light drizzle,1.694458
+Myanmar,Yangon,2024-09-06 18:45:00,26.4,100,1004.0,Moderate rain,1.8889040000000001
+Myanmar,Yangon,2024-09-07 18:30:00,27.1,94,1004.0,Overcast,1.8889040000000001
+Myanmar,Yangon,2024-09-08 18:45:00,26.4,100,1005.0,Light drizzle,2.50002
+Myanmar,Yangon,2024-09-09 19:00:00,26.3,100,1005.0,Light rain,3.111136
+Myanmar,Yangon,2024-09-10 19:00:00,26.1,100,1006.0,Moderate rain,3.111136
+Myanmar,Yangon,2024-09-11 18:45:00,26.2,94,1007.0,Overcast,1.11112
+Myanmar,Yangon,2024-09-12 18:45:00,28.2,94,1005.0,Partly cloudy,1.0000080000000002
+Myanmar,Yangon,2024-09-13 19:00:00,27.2,94,1004.0,Overcast,2.194462
+Myanmar,Yangon,2024-09-14 19:00:00,28.3,94,1005.0,Light drizzle,3.3055820000000002
+Myanmar,Yangon,2024-09-15 18:30:00,27.1,94,1004.0,Overcast,2.50002
+Myanmar,Yangon,2024-09-16 17:45:00,33.2,75,1003.0,Partly cloudy,2.50002
+Myanmar,Yangon,2024-09-17 17:30:00,32.2,67,1002.0,Partly cloudy,3.111136
+Myanmar,Yangon,2024-09-18 17:15:00,29.4,89,1001.0,Partly cloudy,3.1944700000000004
+Myanmar,Yangon,2024-09-19 17:15:00,28.2,94,1000.0,Moderate rain,1.8889040000000001
+Myanmar,Yangon,2024-09-20 17:15:00,29.4,84,1001.0,Overcast,3.3055820000000002
+Myanmar,Yangon,2024-09-21 17:15:00,29.1,94,1001.0,Overcast,2.194462
+Myanmar,Yangon,2024-09-22 17:00:00,27.0,94,1002.0,Light rain,3.6944740000000005
+Myanmar,Yangon,2024-09-23 16:15:00,25.0,100,1005.0,Moderate rain,3.0000240000000007
+Myanmar,Yangon,2024-09-24 16:15:00,27.2,94,1007.0,Moderate rain,2.6944660000000002
+Myanmar,Yangon,2024-09-25 16:00:00,29.4,84,1007.0,Partly cloudy,3.388916
+Myanmar,Yangon,2024-09-26 16:00:00,30.1,84,1007.0,Partly cloudy,3.111136
+Myanmar,Yangon,2024-09-27 16:30:00,33.0,75,1007.0,Partly cloudy,1.5000120000000003
+Myanmar,Yangon,2024-09-28 16:30:00,32.1,75,1006.0,Partly cloudy,2.6944660000000002
+Myanmar,Yangon,2024-09-29 16:00:00,34.0,71,1006.0,Partly cloudy,3.111136
+Myanmar,Yangon,2024-09-30 16:00:00,29.2,89,1005.0,Partly cloudy,3.111136

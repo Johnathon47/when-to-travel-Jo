@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Kyrghyzstan,Bishkek,2025-04-01 15:30:00,16.7,27,1020.0,Sunny,3.388916
+Kyrghyzstan,Bishkek,2025-04-02 15:00:00,16.5,39,1019.0,Sunny,3.111136
+Kyrghyzstan,Bishkek,2025-04-03 15:00:00,21.1,23,1014.0,Sunny,2.805578
+Kyrghyzstan,Bishkek,2025-04-04 15:15:00,24.4,16,1010.0,Partly Cloudy,1.8055700000000001
+Kyrghyzstan,Bishkek,2025-04-05 15:00:00,15.9,67,1018.0,Light rain shower,3.3055820000000002
+Kyrghyzstan,Bishkek,2025-04-06 15:00:00,21.1,33,1013.0,Sunny,2.6944660000000002
+Kyrghyzstan,Bishkek,2025-04-07 15:00:00,22.7,38,1016.0,Thundery outbreaks in nearby,3.111136
+Kyrghyzstan,Bishkek,2025-04-08 15:15:00,20.8,38,1020.0,Sunny,2.50002
+Kyrghyzstan,Bishkek,2025-04-09 15:15:00,19.2,42,1019.0,Patchy rain nearby,3.111136
+Kyrghyzstan,Bishkek,2025-04-10 15:15:00,19.6,44,1017.0,Patchy rain nearby,2.805578
+Kyrghyzstan,Bishkek,2025-04-11 15:15:00,24.6,24,1009.0,Sunny,2.3889080000000003
+Kyrghyzstan,Bishkek,2025-04-12 15:15:00,24.4,27,1010.0,Sunny,2.6111320000000005
+Kyrghyzstan,Bishkek,2025-04-13 15:00:00,29.3,14,1007.0,Sunny,2.805578
+Kyrghyzstan,Bishkek,2025-04-14 15:30:00,16.2,77,1024.0,Thundery outbreaks in nearby,1.0000080000000002
+Kyrghyzstan,Bishkek,2025-04-15 15:15:00,20.6,50,1018.0,Patchy light rain in area with thunder,2.3055740000000005
+Kyrghyzstan,Bishkek,2025-04-16 15:00:00,11.6,54,1023.0,Patchy rain nearby,1.611124
+Kyrghyzstan,Bishkek,2025-04-17 14:45:00,20.8,24,1009.0,Sunny,3.3055820000000002
+Kyrghyzstan,Bishkek,2025-04-18 15:15:00,14.9,45,1016.0,Patchy rain nearby,2.3889080000000003
+Kyrghyzstan,Bishkek,2025-04-19 15:00:00,13.0,41,1019.0,Patchy rain nearby,3.5000280000000004
+Kyrghyzstan,Bishkek,2025-04-20 14:45:00,15.9,30,1022.0,Sunny,2.6111320000000005
+Kyrghyzstan,Bishkek,2025-04-21 15:00:00,17.8,32,1020.0,Patchy rain nearby,2.805578
+Kyrghyzstan,Bishkek,2025-04-22 15:15:00,16.0,51,1023.0,Patchy rain nearby,1.8055700000000001
+Kyrghyzstan,Bishkek,2025-04-23 15:00:00,18.3,44,1020.0,Patchy light rain in area with thunder,2.6944660000000002
+Kyrghyzstan,Bishkek,2025-04-24 15:00:00,20.1,36,1018.0,Patchy light rain in area with thunder,2.805578
+Kyrghyzstan,Bishkek,2025-04-25 15:00:00,22.5,27,1014.0,Sunny,2.50002
+Kyrghyzstan,Bishkek,2025-04-26 15:00:00,24.2,27,1015.0,Patchy rain nearby,3.0000240000000007
+Kyrghyzstan,Bishkek,2025-04-27 14:45:00,28.2,21,1015.0,Sunny,1.3055660000000002
+Kyrghyzstan,Bishkek,2025-04-28 15:30:00,30.9,19,1013.0,Partly Cloudy,2.111128
+Kyrghyzstan,Bishkek,2025-04-29 14:45:00,31.6,22,1011.0,Sunny,3.6944740000000005
+Kyrghyzstan,Bishkek,2025-04-30 14:45:00,22.2,54,1019.0,Sunny,3.3055820000000002

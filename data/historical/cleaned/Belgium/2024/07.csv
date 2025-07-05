@@ -1,0 +1,58 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Belgium,Brussels,2024-07-01 15:00:00,18.1,64,1017.0,Partly cloudy,4.194478
+Belgium,'S Gravenjansdijk,2024-07-01 15:15:00,19.1,56,1017.0,Overcast,5.305598000000001
+Belgium,Brussels,2024-07-02 15:15:00,17.3,83,1015.0,Partly cloudy,5.305598000000001
+Belgium,'S Gravenjansdijk,2024-07-02 15:15:00,17.2,72,1016.0,Overcast,4.194478
+Belgium,Brussels,2024-07-03 15:00:00,15.2,72,1011.0,Partly cloudy,4.194478
+Belgium,'S Gravenjansdijk,2024-07-03 15:00:00,16.2,72,1010.0,Overcast,5.305598000000001
+Belgium,Brussels,2024-07-04 15:00:00,18.1,60,1010.0,Partly cloudy,5.305598000000001
+Belgium,'S Gravenjansdijk,2024-07-04 15:00:00,18.4,56,1009.0,Partly cloudy,7.805618000000001
+Belgium,Brussels,2024-07-05 14:45:00,15.1,94,1011.0,Moderate rain,2.50002
+Belgium,'S Gravenjansdijk,2024-07-05 14:45:00,17.0,83,1009.0,Moderate rain,4.694482
+Belgium,Brussels,2024-07-06 15:15:00,19.4,46,1004.0,Sunny,10.805642
+Belgium,'S Gravenjansdijk,2024-07-06 15:15:00,19.0,49,1002.0,Partly cloudy,12.194542
+Belgium,Brussels,2024-07-07 15:00:00,19.3,52,1013.0,Partly cloudy,6.111160000000001
+Belgium,'S Gravenjansdijk,2024-07-07 15:00:00,19.2,56,1012.0,Partly cloudy,5.305598000000001
+Belgium,Brussels,2024-07-08 15:00:00,21.2,53,1018.0,Partly cloudy,1.0000080000000002
+Belgium,'S Gravenjansdijk,2024-07-08 15:00:00,19.0,64,1017.0,Partly cloudy,1.8889040000000001
+Belgium,Brussels,2024-07-09 14:45:00,28.3,45,1012.0,Sunny,1.8889040000000001
+Belgium,'S Gravenjansdijk,2024-07-09 14:45:00,28.4,45,1012.0,Overcast,1.694458
+Belgium,Brussels,2024-07-10 15:00:00,22.3,65,1015.0,Partly cloudy,4.694482
+Belgium,'S Gravenjansdijk,2024-07-10 15:00:00,22.2,65,1014.0,Overcast,5.611156
+Belgium,Brussels,2024-07-11 14:45:00,21.0,53,1018.0,Partly cloudy,3.111136
+Belgium,'S Gravenjansdijk,2024-07-11 14:45:00,20.1,64,1017.0,Partly cloudy,5.305598000000001
+Belgium,Brussels,2024-07-12 14:45:00,15.2,94,1013.0,Light rain,3.111136
+Belgium,'S Gravenjansdijk,2024-07-12 15:00:00,15.1,94,1013.0,Light drizzle,3.6111400000000002
+Belgium,Brussels,2024-07-13 15:00:00,18.2,64,1013.0,Patchy rain nearby,4.888928000000001
+Belgium,Brussels,2024-07-14 15:00:00,21.3,49,1013.0,Partly cloudy,4.194478
+Belgium,'S Gravenjansdijk,2024-07-14 15:15:00,19.9,61,1013.0,Sunny,5.3889320000000005
+Belgium,Brussels,2024-07-15 15:00:00,25.1,44,1010.0,Sunny,1.8889040000000001
+Belgium,'S Gravenjansdijk,2024-07-15 15:00:00,24.6,49,1009.0,Partly Cloudy,4.000032000000001
+Belgium,Brussels,2024-07-16 14:45:00,15.5,87,1012.0,Patchy rain nearby,6.805610000000001
+Belgium,'S Gravenjansdijk,2024-07-16 14:45:00,17.4,80,1011.0,Light drizzle,7.611172000000001
+Belgium,Brussels,2024-07-17 14:45:00,23.0,61,1021.0,Partly cloudy,3.111136
+Belgium,'S Gravenjansdijk,2024-07-17 14:45:00,21.5,66,1021.0,Light rain shower,4.111144
+Belgium,Brussels,2024-07-18 14:45:00,27.4,48,1022.0,Partly cloudy,1.0000080000000002
+Belgium,'S Gravenjansdijk,2024-07-18 14:45:00,24.1,61,1021.0,Sunny,1.0000080000000002
+Belgium,Brussels,2024-07-19 14:30:00,29.4,43,1018.0,Sunny,2.50002
+Belgium,'S Gravenjansdijk,2024-07-19 14:30:00,29.1,40,1017.0,Overcast,3.111136
+Belgium,Brussels,2024-07-20 14:45:00,29.2,52,1008.0,Sunny,2.50002
+Belgium,'S Gravenjansdijk,2024-07-20 14:45:00,26.6,63,1008.0,Patchy rain nearby,2.3055740000000005
+Belgium,Brussels,2024-07-23 14:30:00,21.0,68,1017.0,Light rain shower,6.6111640000000005
+Belgium,'S Gravenjansdijk,2024-07-23 14:30:00,19.8,80,1017.0,Light rain shower,5.888936
+Belgium,Brussels,2024-07-24 14:45:00,22.9,49,1021.0,Partly Cloudy,1.0000080000000002
+Belgium,'S Gravenjansdijk,2024-07-24 14:45:00,22.1,49,1021.0,Sunny,2.194462
+Belgium,Brussels,2024-07-25 14:15:00,21.8,67,1013.0,Cloudy,4.611148000000001
+Belgium,'S Gravenjansdijk,2024-07-25 14:15:00,18.5,85,1013.0,Light drizzle,4.388924
+Belgium,Brussels,2024-07-26 14:30:00,22.1,62,1012.0,Patchy rain nearby,4.000032000000001
+Belgium,'S Gravenjansdijk,2024-07-26 14:30:00,21.6,57,1012.0,Sunny,5.305598000000001
+Belgium,Brussels,2024-07-27 14:30:00,21.6,64,1014.0,Patchy rain nearby,2.3055740000000005
+Belgium,'S Gravenjansdijk,2024-07-27 14:30:00,20.4,65,1014.0,Partly Cloudy,4.611148000000001
+Belgium,Brussels,2024-07-28 14:45:00,24.1,46,1026.0,Partly Cloudy,1.0000080000000002
+Belgium,'S Gravenjansdijk,2024-07-28 14:45:00,23.3,50,1026.0,Sunny,2.8889120000000004
+Belgium,Brussels,2024-07-29 14:15:00,25.9,44,1021.0,Sunny,3.3055820000000002
+Belgium,'S Gravenjansdijk,2024-07-29 14:15:00,25.9,43,1021.0,Sunny,3.388916
+Belgium,Brussels,2024-07-30 14:15:00,30.3,45,1015.0,Sunny,1.1944540000000001
+Belgium,'S Gravenjansdijk,2024-07-30 14:15:00,28.3,52,1016.0,Sunny,2.50002
+Belgium,Brussels,2024-07-31 14:15:00,25.9,64,1013.0,Patchy rain nearby,4.000032000000001
+Belgium,'S Gravenjansdijk,2024-07-31 14:15:00,21.0,89,1014.0,Patchy rain nearby,3.3055820000000002

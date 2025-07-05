@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Benin,Porto-Novo,2024-10-01 11:00:00,29.1,75,1012.0,Partly cloudy,4.388924
+Benin,Porto-Novo,2024-10-02 10:30:00,29.2,75,1012.0,Partly cloudy,2.8889120000000004
+Benin,Porto-Novo,2024-10-03 10:30:00,28.2,79,1012.0,Moderate or heavy rain with thunder,3.111136
+Benin,Porto-Novo,2024-10-04 10:45:00,28.0,79,1012.0,Partly cloudy,4.000032000000001
+Benin,Porto-Novo,2024-10-05 10:30:00,24.6,91,1014.0,Light rain shower,3.3055820000000002
+Benin,Porto-Novo,2024-10-06 10:15:00,25.8,83,1015.0,Patchy rain nearby,2.194462
+Benin,Porto-Novo,2024-10-07 10:45:00,24.0,91,1015.0,Partly Cloudy,2.6111320000000005
+Benin,Porto-Novo,2024-10-08 10:45:00,27.3,79,1016.0,Partly cloudy,1.0000080000000002
+Benin,Porto-Novo,2024-10-09 10:45:00,27.0,74,1016.0,Partly cloudy,1.8889040000000001
+Benin,Porto-Novo,2024-10-10 10:45:00,29.3,75,1014.0,Partly cloudy,2.6111320000000005
+Benin,Porto-Novo,2024-10-11 10:45:00,29.2,75,1014.0,Partly cloudy,2.111128
+Benin,Porto-Novo,2024-10-12 10:45:00,26.3,79,1014.0,Partly cloudy,3.388916
+Benin,Porto-Novo,2024-10-13 10:30:00,27.5,81,1014.0,Patchy rain nearby,4.194478
+Benin,Porto-Novo,2024-10-14 10:30:00,28.0,84,1015.0,Partly cloudy,1.3055660000000002
+Benin,Porto-Novo,2024-10-15 10:30:00,27.2,78,1015.0,Patchy rain nearby,1.0000080000000002
+Benin,Porto-Novo,2024-10-16 10:30:00,29.0,79,1014.0,Partly cloudy,2.3055740000000005
+Benin,Porto-Novo,2024-10-17 10:30:00,25.1,94,1016.0,Moderate or heavy rain with thunder,1.694458
+Benin,Porto-Novo,2024-10-18 10:30:00,28.0,74,1015.0,Partly cloudy,2.111128
+Benin,Porto-Novo,2024-10-19 10:30:00,29.3,75,1013.0,Patchy light rain with thunder,2.805578
+Benin,Porto-Novo,2024-10-20 10:30:00,30.3,75,1013.0,Partly cloudy,3.388916
+Benin,Porto-Novo,2024-10-21 10:15:00,28.3,84,1013.0,Partly cloudy,2.194462
+Benin,Porto-Novo,2024-10-22 10:15:00,29.3,68,1013.0,Patchy rain nearby,1.8889040000000001
+Benin,Porto-Novo,2024-10-23 10:15:00,29.3,75,1013.0,Partly cloudy,1.611124
+Benin,Porto-Novo,2024-10-24 10:15:00,30.3,75,1013.0,Partly cloudy,2.805578
+Benin,Porto-Novo,2024-10-25 10:15:00,29.3,79,1013.0,Partly cloudy,3.1944700000000004
+Benin,Porto-Novo,2024-10-26 10:15:00,28.3,74,1012.0,Partly cloudy,3.1944700000000004
+Benin,Porto-Novo,2024-10-27 10:15:00,28.3,79,1012.0,Partly cloudy,1.0000080000000002
+Benin,Porto-Novo,2024-10-28 10:15:00,30.3,79,1012.0,Partly cloudy,2.3055740000000005
+Benin,Porto-Novo,2024-10-29 10:00:00,28.0,89,1012.0,Patchy light rain with thunder,1.8055700000000001
+Benin,Porto-Novo,2024-10-30 10:00:00,27.4,89,1012.0,Partly cloudy,1.8889040000000001
+Benin,Porto-Novo,2024-10-31 10:00:00,29.7,67,1012.0,Sunny,2.3055740000000005

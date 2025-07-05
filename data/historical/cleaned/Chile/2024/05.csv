@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Chile,Santiago,2024-05-16 04:45:00,1.0,93,1019.0,Clear,1.8889040000000001
+Chile,Santiago,2024-05-16 10:00:00,2.0,87,1020.0,Sunny,1.8889040000000001
+Chile,Santiago,2024-05-17 12:00:00,9.0,57,1021.0,Partly cloudy,1.694458
+Chile,Santiago,2024-05-18 10:30:00,5.0,75,1024.0,Mist,1.0000080000000002
+Chile,Santiago,2024-05-19 10:00:00,3.0,81,1022.0,Mist,1.694458
+Chile,Santiago,2024-05-20 10:30:00,10.0,66,1015.0,Mist,5.611156
+Chile,Santiago,2024-05-21 10:45:00,10.0,94,1016.0,Partly cloudy,3.111136
+Chile,Santiago,2024-05-22 10:15:00,10.0,94,1015.0,Moderate rain,3.111136
+Chile,Santiago,2024-05-23 10:00:00,6.0,93,1024.0,Partly cloudy,2.50002
+Chile,Santiago,2024-05-24 10:30:00,6.0,93,1020.0,Overcast,1.0000080000000002
+Chile,Santiago,2024-05-25 10:00:00,9.0,87,1018.0,Partly cloudy,1.0000080000000002
+Chile,Santiago,2024-05-26 10:00:00,8.0,100,1019.0,Light rain,2.50002
+Chile,Santiago,2024-05-27 10:30:00,7.0,87,1022.0,Mist,1.8889040000000001
+Chile,Santiago,2024-05-28 10:30:00,7.0,87,1018.0,Partly cloudy,1.8889040000000001
+Chile,Santiago,2024-05-29 10:00:00,8.0,93,1021.0,Mist,2.50002
+Chile,Santiago,2024-05-30 09:45:00,8.0,81,1019.0,Mist,1.8889040000000001
+Chile,Santiago,2024-05-31 10:15:00,8.0,81,1017.0,Sunny,1.8889040000000001

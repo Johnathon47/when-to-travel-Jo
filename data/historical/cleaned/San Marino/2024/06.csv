@@ -1,0 +1,28 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+San Marino,San Marino,2024-06-01 16:30:00,24.2,51,1012.0,Sunny,1.0000080000000002
+San Marino,San Marino,2024-06-02 16:00:00,22.6,59,1014.0,Sunny,1.0000080000000002
+San Marino,San Marino,2024-06-03 16:15:00,24.0,61,1013.0,Sunny,3.111136
+San Marino,San Marino,2024-06-04 16:15:00,22.1,64,1013.0,Sunny,1.0000080000000002
+San Marino,San Marino,2024-06-05 16:15:00,23.3,61,1016.0,Sunny,1.0000080000000002
+San Marino,San Marino,2024-06-06 16:00:00,27.0,62,1018.0,Sunny,3.111136
+San Marino,San Marino,2024-06-07 16:00:00,26.4,65,1016.0,Sunny,3.6111400000000002
+San Marino,San Marino,2024-06-08 16:15:00,28.2,48,1012.0,Sunny,3.111136
+San Marino,San Marino,2024-06-09 16:15:00,27.2,58,1006.0,Partly cloudy,2.50002
+San Marino,San Marino,2024-06-10 16:15:00,25.1,69,1004.0,Partly cloudy,3.6111400000000002
+San Marino,San Marino,2024-06-11 16:15:00,24.0,61,1009.0,Partly cloudy,3.6111400000000002
+San Marino,San Marino,2024-06-12 16:15:00,24.2,54,1011.0,Partly cloudy,4.194478
+San Marino,San Marino,2024-06-13 16:00:00,20.3,78,1015.0,Partly cloudy,2.50002
+San Marino,San Marino,2024-06-14 16:00:00,24.0,50,1016.0,Partly cloudy,4.694482
+San Marino,San Marino,2024-06-15 16:00:00,25.1,65,1011.0,Sunny,5.611156
+San Marino,San Marino,2024-06-16 15:45:00,26.2,45,1011.0,Partly cloudy,5.611156
+San Marino,San Marino,2024-06-18 16:00:00,26.1,70,1017.0,Sunny,5.305598000000001
+San Marino,San Marino,2024-06-20 15:45:00,30.3,52,1018.0,Sunny,3.111136
+San Marino,San Marino,2024-06-21 15:45:00,27.3,74,1013.0,Partly cloudy,4.694482
+San Marino,San Marino,2024-06-22 15:45:00,27.4,45,1010.0,Partly cloudy,4.694482
+San Marino,San Marino,2024-06-23 15:45:00,23.3,65,1011.0,Light rain,3.111136
+San Marino,San Marino,2024-06-24 15:45:00,24.3,74,1010.0,Partly cloudy,4.694482
+San Marino,San Marino,2024-06-26 15:30:00,23.1,78,1011.0,Patchy light rain with thunder,4.194478
+San Marino,San Marino,2024-06-27 15:15:00,28.1,51,1011.0,Partly cloudy,4.194478
+San Marino,San Marino,2024-06-28 15:15:00,28.0,62,1015.0,Sunny,4.694482
+San Marino,San Marino,2024-06-29 14:45:00,28.3,70,1016.0,Sunny,5.305598000000001
+San Marino,San Marino,2024-06-30 15:30:00,30.3,55,1010.0,Partly cloudy,4.194478

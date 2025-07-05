@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Finland,Helsinki,2025-01-01 12:30:00,-0.8,93,983.0,Light snow,2.0000160000000005
+Finland,Helsinki,2025-01-02 12:15:00,-5.0,76,989.0,Sunny,3.0000240000000007
+Finland,Helsinki,2025-01-03 12:00:00,-4.8,86,992.0,Light snow,3.5000280000000004
+Finland,Helsinki,2025-01-04 12:15:00,-3.8,89,998.0,Sunny,3.111136
+Finland,Helsinki,2025-01-05 13:00:00,-3.8,88,1004.0,Partly Cloudy,1.0000080000000002
+Finland,Helsinki,2025-01-06 11:45:00,-9.9,85,1005.0,Partly cloudy,6.000048000000001
+Finland,Helsinki,2025-01-07 12:00:00,-0.9,93,993.0,Light freezing rain,8.805626
+Finland,Helsinki,2025-01-08 12:00:00,1.0,100,991.0,Mist,3.5000280000000004
+Finland,Helsinki,2025-01-09 12:30:00,0.4,100,998.0,Moderate or heavy snow showers,3.3055820000000002
+Finland,Helsinki,2025-01-10 13:00:00,0.3,93,1005.0,Light snow,8.611180000000001
+Finland,Helsinki,2025-01-11 12:30:00,-2.7,93,1007.0,Blowing snow,7.305614000000001
+Finland,Helsinki,2025-01-12 12:30:00,-6.8,73,1024.0,Sunny,8.305622
+Finland,Helsinki,2025-01-13 12:00:00,-1.9,93,1024.0,Partly cloudy,5.3889320000000005
+Finland,Helsinki,2025-01-14 12:15:00,3.4,93,1002.0,Partly cloudy,6.388940000000001
+Finland,Helsinki,2025-01-15 13:15:00,-0.4,88,1023.0,Sunny,1.0000080000000002
+Finland,Helsinki,2025-01-16 12:00:00,3.3,93,1013.0,Partly cloudy,5.305598000000001
+Finland,Helsinki,2025-01-17 12:30:00,1.0,100,1018.0,Fog,4.3055900000000005
+Finland,Helsinki,2025-01-18 12:00:00,4.4,56,1014.0,Sunny,9.30563
+Finland,Helsinki,2025-01-19 11:15:00,1.1,100,1014.0,Fog,5.611156
+Finland,Helsinki,2025-01-20 12:30:00,-1.8,74,1026.0,Sunny,3.6111400000000002
+Finland,Helsinki,2025-01-21 12:30:00,-3.7,68,1024.0,Blowing snow,9.30563
+Finland,Helsinki,2025-01-22 12:15:00,1.1,100,1009.0,Light sleet,5.611156
+Finland,Helsinki,2025-01-23 12:30:00,2.2,93,1009.0,Light drizzle,5.194486
+Finland,Helsinki,2025-01-24 12:30:00,2.2,93,1004.0,Mist,5.500044000000001
+Finland,Helsinki,2025-01-25 12:15:00,3.2,93,998.0,Light rain,9.694522000000001
+Finland,Helsinki,2025-01-26 12:15:00,4.2,87,1003.0,Partly cloudy,7.611172000000001
+Finland,Helsinki,2025-01-27 12:30:00,0.0,100,1003.0,Freezing fog,1.5000120000000003
+Finland,Helsinki,2025-01-28 13:00:00,4.2,100,1001.0,Fog,2.3889080000000003
+Finland,Helsinki,2025-01-29 12:30:00,3.2,100,1001.0,Light rain,7.194502
+Finland,Helsinki,2025-01-30 12:15:00,5.3,87,1001.0,Light rain,8.000064000000002
+Finland,Helsinki,2025-01-31 12:30:00,3.1,93,1013.0,Partly cloudy,2.3889080000000003

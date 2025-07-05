@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mauritius,Port Louis,2025-01-01 14:30:00,29.1,66,1014.0,Partly cloudy,2.6111320000000005
+Mauritius,Port Louis,2025-01-02 15:00:00,27.3,64,1013.0,Patchy rain nearby,3.388916
+Mauritius,Port Louis,2025-01-03 14:45:00,29.0,66,1014.0,Partly cloudy,5.305598000000001
+Mauritius,Port Louis,2025-01-04 14:15:00,29.2,66,1014.0,Partly cloudy,5.00004
+Mauritius,Port Louis,2025-01-05 14:15:00,29.3,66,1014.0,Partly cloudy,6.305606
+Mauritius,Port Louis,2025-01-06 14:30:00,30.0,70,1014.0,Partly cloudy,6.388940000000001
+Mauritius,Port Louis,2025-01-07 14:45:00,30.1,66,1015.0,Partly cloudy,6.305606
+Mauritius,Port Louis,2025-01-08 14:00:00,30.3,70,1014.0,Partly cloudy,6.6111640000000005
+Mauritius,Port Louis,2025-01-09 14:00:00,30.3,62,1013.0,Partly cloudy,7.111168000000001
+Mauritius,Port Louis,2025-01-10 15:00:00,30.2,75,1014.0,Overcast,9.30563
+Mauritius,Port Louis,2025-01-11 14:30:00,30.4,70,1015.0,Partly cloudy,8.805626
+Mauritius,Port Louis,2025-01-12 13:45:00,31.1,55,1014.0,Partly cloudy,7.111168000000001
+Mauritius,Port Louis,2025-01-13 14:45:00,30.3,62,1013.0,Partly cloudy,6.6111640000000005
+Mauritius,Port Louis,2025-01-14 15:00:00,31.2,63,1013.0,Partly cloudy,7.194502
+Mauritius,Port Louis,2025-01-15 14:30:00,31.0,63,1015.0,Partly cloudy,6.694498000000001
+Mauritius,Port Louis,2025-01-16 14:00:00,30.4,66,1014.0,Partly cloudy,6.805610000000001
+Mauritius,Port Louis,2025-01-17 14:30:00,30.2,59,1012.0,Partly cloudy,4.3055900000000005
+Mauritius,Port Louis,2025-01-18 14:30:00,30.1,55,1011.0,Partly cloudy,2.6944660000000002
+Mauritius,Port Louis,2025-01-19 14:00:00,31.2,63,1012.0,Partly cloudy,5.194486
+Mauritius,Port Louis,2025-01-20 14:30:00,31.3,59,1013.0,Overcast,6.305606
+Mauritius,Port Louis,2025-01-21 14:30:00,30.1,66,1013.0,Partly cloudy,6.388940000000001
+Mauritius,Port Louis,2025-01-22 14:15:00,31.3,63,1011.0,Partly cloudy,3.0000240000000007
+Mauritius,Port Louis,2025-01-23 14:30:00,31.0,59,1010.0,Overcast,1.8889040000000001
+Mauritius,Port Louis,2025-01-24 14:30:00,31.1,59,1010.0,Partly cloudy,2.805578
+Mauritius,Port Louis,2025-01-25 14:15:00,31.1,59,1010.0,Partly cloudy,4.194478
+Mauritius,Port Louis,2025-01-26 14:15:00,30.3,62,1011.0,Partly cloudy,4.611148000000001
+Mauritius,Port Louis,2025-01-27 14:30:00,31.2,63,1010.0,Partly cloudy,2.805578
+Mauritius,Port Louis,2025-01-28 15:00:00,30.4,70,1009.0,Overcast,2.111128
+Mauritius,Port Louis,2025-01-29 14:30:00,32.1,67,1009.0,Overcast,4.611148000000001
+Mauritius,Port Louis,2025-01-30 14:15:00,32.4,59,1009.0,Partly cloudy,3.8889200000000006
+Mauritius,Port Louis,2025-01-31 14:30:00,31.3,63,1008.0,Partly cloudy,2.6111320000000005

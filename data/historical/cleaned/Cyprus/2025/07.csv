@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Cyprus,Nicosia,2025-07-01 12:00:00,34.2,22,1006.0,Sunny,1.694458
+Cyprus,Nicosia,2025-07-02 11:45:00,35.2,22,1006.0,Sunny,3.8889200000000006
+Cyprus,Nicosia,2025-07-03 11:45:00,31.3,41,1008.0,Sunny,5.888936
+Cyprus,Nicosia,2025-07-04 11:45:00,31.3,22,1010.0,Sunny,9.500076000000002
+Cyprus,Nicosia,2025-07-05 11:45:00,31.3,24,1011.0,Sunny,6.305606

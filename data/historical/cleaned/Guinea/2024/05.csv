@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Guinea,Conakry,2024-05-16 08:45:00,26.0,94,1012.0,Overcast,1.0000080000000002
+Guinea,Conakry,2024-05-16 14:00:00,31.0,71,1012.0,Partly cloudy,3.111136
+Guinea,Conakry,2024-05-17 16:00:00,29.0,70,1012.0,Light rain,5.305598000000001
+Guinea,Conakry,2024-05-18 14:30:00,32.0,67,1011.0,Partly cloudy,4.194478
+Guinea,Conakry,2024-05-19 14:00:00,26.0,89,1011.0,Partly cloudy,1.8889040000000001
+Guinea,Conakry,2024-05-20 14:45:00,32.0,67,1011.0,Partly cloudy,4.194478
+Guinea,Conakry,2024-05-21 14:45:00,33.0,63,1012.0,Partly cloudy,4.194478
+Guinea,Conakry,2024-05-22 14:15:00,31.0,75,1013.0,Partly cloudy,5.305598000000001
+Guinea,Conakry,2024-05-23 14:00:00,31.0,59,1012.0,Partly cloudy,1.8889040000000001
+Guinea,Conakry,2024-05-24 14:30:00,32.0,71,1011.0,Partly cloudy,4.194478
+Guinea,Conakry,2024-05-25 14:00:00,31.0,71,1012.0,Partly cloudy,3.111136
+Guinea,Conakry,2024-05-26 14:00:00,28.0,89,1012.0,Partly cloudy,1.8889040000000001
+Guinea,Conakry,2024-05-27 14:30:00,31.0,66,1012.0,Partly cloudy,3.111136
+Guinea,Conakry,2024-05-28 14:30:00,31.0,75,1013.0,Partly cloudy,3.111136
+Guinea,Conakry,2024-05-29 14:00:00,31.0,71,1015.0,Partly cloudy,3.111136
+Guinea,Conakry,2024-05-30 13:45:00,32.0,71,1012.0,Partly cloudy,4.194478
+Guinea,Conakry,2024-05-31 14:15:00,32.0,63,1012.0,Partly cloudy,5.305598000000001

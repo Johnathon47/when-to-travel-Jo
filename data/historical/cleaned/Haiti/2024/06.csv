@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Haiti,Port-Au-Prince,2024-06-01 10:15:00,30.0,70,1015.0,Partly cloudy,7.194502
+Haiti,Port-Au-Prince,2024-06-02 10:00:00,29.0,75,1014.0,Partly cloudy,3.6111400000000002
+Haiti,Port-Au-Prince,2024-06-03 10:15:00,30.0,66,1013.0,Partly cloudy,5.305598000000001
+Haiti,Port-Au-Prince,2024-06-04 10:15:00,31.0,71,1012.0,Partly cloudy,8.305622
+Haiti,Port-Au-Prince,2024-06-05 10:15:00,31.0,71,1012.0,Partly cloudy,5.611156
+Haiti,Port-Au-Prince,2024-06-06 10:00:00,30.0,75,1012.0,Partly cloudy,5.611156
+Haiti,Port-Au-Prince,2024-06-07 10:00:00,29.4,84,1015.0,Partly cloudy,5.305598000000001
+Haiti,Port-Au-Prince,2024-06-08 10:15:00,31.4,63,1016.0,Partly cloudy,6.694498000000001
+Haiti,Port-Au-Prince,2024-06-09 10:15:00,31.3,66,1015.0,Partly cloudy,8.611180000000001
+Haiti,Port-Au-Prince,2024-06-10 10:15:00,31.3,66,1014.0,Partly cloudy,7.194502
+Haiti,Port-Au-Prince,2024-06-11 10:00:00,31.2,66,1015.0,Partly cloudy,9.694522000000001
+Haiti,Port-Au-Prince,2024-06-12 10:15:00,32.3,59,1016.0,Sunny,9.194518
+Haiti,Port-Au-Prince,2024-06-13 10:00:00,30.0,75,1015.0,Partly cloudy,5.305598000000001
+Haiti,Port-Au-Prince,2024-06-14 10:00:00,30.8,56,1015.0,Sunny,1.0000080000000002
+Haiti,Port-Au-Prince,2024-06-15 10:00:00,30.2,70,1014.0,Partly cloudy,7.805618000000001
+Haiti,Port-Au-Prince,2024-06-16 09:45:00,29.2,75,1015.0,Partly cloudy,1.0000080000000002
+Haiti,Port-Au-Prince,2024-06-17 10:00:00,29.5,64,1014.0,Sunny,1.0000080000000002
+Haiti,Port-Au-Prince,2024-06-18 10:00:00,28.2,79,978.0,Partly cloudy,3.111136
+Haiti,Port-Au-Prince,2024-06-19 09:45:00,28.2,65,1014.0,Partly Cloudy,1.3055660000000002
+Haiti,Port-Au-Prince,2024-06-20 09:45:00,26.3,76,1016.0,Patchy rain nearby,2.50002
+Haiti,Port-Au-Prince,2024-06-21 09:30:00,31.4,66,1014.0,Partly cloudy,7.805618000000001
+Haiti,Port-Au-Prince,2024-06-22 09:45:00,31.1,63,1015.0,Partly cloudy,5.305598000000001
+Haiti,Port-Au-Prince,2024-06-23 09:45:00,28.1,84,1014.0,Partly cloudy,4.694482
+Haiti,Port-Au-Prince,2024-06-24 09:45:00,29.4,75,1015.0,Partly cloudy,2.50002
+Haiti,Port-Au-Prince,2024-06-25 09:15:00,29.5,65,1016.0,Sunny,1.8055700000000001
+Haiti,Port-Au-Prince,2024-06-26 09:30:00,31.1,66,1014.0,Partly cloudy,8.611180000000001
+Haiti,Port-Au-Prince,2024-06-27 09:15:00,31.1,66,1014.0,Partly cloudy,7.194502
+Haiti,Port-Au-Prince,2024-06-28 09:15:00,31.1,71,1014.0,Partly cloudy,5.305598000000001
+Haiti,Port-Au-Prince,2024-06-29 08:45:00,28.3,84,1016.0,Partly cloudy,3.6111400000000002
+Haiti,Port-Au-Prince,2024-06-30 09:30:00,31.2,63,1016.0,Partly cloudy,5.611156

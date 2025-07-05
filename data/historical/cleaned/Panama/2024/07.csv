@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Panama,Panama City,2024-07-01 08:15:00,27.2,89,1009.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-02 08:15:00,27.3,89,1011.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-03 08:00:00,26.2,94,1010.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-04 08:15:00,26.4,86,1009.0,Patchy rain nearby,2.50002
+Panama,Panama City,2024-07-05 07:45:00,25.3,94,1010.0,Light rain,1.8889040000000001
+Panama,Panama City,2024-07-06 08:15:00,25.1,94,1012.0,Light drizzle,1.0000080000000002
+Panama,Panama City,2024-07-07 08:00:00,26.3,94,1011.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-08 08:00:00,27.2,89,1010.0,Partly cloudy,1.694458
+Panama,Panama City,2024-07-09 07:45:00,26.2,94,1009.0,Fog,1.0000080000000002
+Panama,Panama City,2024-07-10 08:00:00,26.2,94,1009.0,Partly cloudy,1.694458
+Panama,Panama City,2024-07-11 07:45:00,26.1,94,1010.0,Partly cloudy,1.11112
+Panama,Panama City,2024-07-12 08:00:00,26.3,89,1012.0,Partly cloudy,1.8889040000000001
+Panama,Panama City,2024-07-13 08:00:00,27.3,89,1012.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-14 08:15:00,26.1,92,1011.0,Partly Cloudy,2.3889080000000003
+Panama,Panama City,2024-07-15 08:00:00,27.3,94,1010.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-16 07:45:00,26.0,91,1010.0,Patchy rain nearby,1.11112
+Panama,Panama City,2024-07-17 07:45:00,27.0,94,1010.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-07-18 07:45:00,26.0,94,1012.0,Partly cloudy,1.694458
+Panama,Panama City,2024-07-19 07:30:00,26.4,94,1013.0,Moderate or heavy rain with thunder,1.0000080000000002
+Panama,Panama City,2024-07-20 07:45:00,25.4,94,1012.0,Partly cloudy,1.8889040000000001
+Panama,Panama City,2024-07-23 07:30:00,25.2,92,1010.0,Light rain shower,1.8889040000000001
+Panama,Panama City,2024-07-24 07:45:00,25.4,93,1013.0,Overcast,2.111128
+Panama,Panama City,2024-07-25 07:30:00,25.3,91,1012.0,Patchy rain nearby,1.0000080000000002
+Panama,Panama City,2024-07-26 07:30:00,25.3,91,1011.0,Light rain shower,1.0000080000000002
+Panama,Panama City,2024-07-27 07:30:00,25.6,91,1010.0,Patchy rain nearby,1.0000080000000002
+Panama,Panama City,2024-07-28 07:45:00,25.0,90,1011.0,Light rain shower,1.11112
+Panama,Panama City,2024-07-29 07:15:00,25.5,94,1010.0,Partly Cloudy,2.3889080000000003
+Panama,Panama City,2024-07-30 07:15:00,25.5,94,1009.0,Patchy rain nearby,2.111128
+Panama,Panama City,2024-07-31 07:15:00,25.4,93,1009.0,Light rain shower,1.8055700000000001

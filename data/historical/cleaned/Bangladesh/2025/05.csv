@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Bangladesh,Dhaka,2025-05-01 14:45:00,35.9,30,1007.0,Sunny,1.5000120000000003
+Bangladesh,Dhaka,2025-05-02 15:00:00,33.8,36,1006.0,Thundery outbreaks in nearby,1.1944540000000001
+Bangladesh,Dhaka,2025-05-03 14:45:00,33.2,36,1006.0,Partly Cloudy,1.11112
+Bangladesh,Dhaka,2025-05-04 14:45:00,34.6,35,1005.0,Partly Cloudy,3.1944700000000004
+Bangladesh,Dhaka,2025-05-05 15:00:00,34.4,37,1004.0,Partly Cloudy,1.0000080000000002
+Bangladesh,Dhaka,2025-05-06 15:00:00,36.7,31,1003.0,Patchy rain nearby,1.8889040000000001
+Bangladesh,Dhaka,2025-05-07 14:45:00,37.5,28,1003.0,Partly Cloudy,4.111144
+Bangladesh,Dhaka,2025-05-08 14:45:00,39.7,24,1003.0,Partly Cloudy,3.5000280000000004
+Bangladesh,Dhaka,2025-05-09 15:15:00,41.8,16,1002.0,Sunny,4.500036000000001
+Bangladesh,Dhaka,2025-05-10 15:00:00,42.2,16,1002.0,Sunny,4.388924
+Bangladesh,Dhaka,2025-05-11 14:45:00,41.5,20,1001.0,Patchy rain nearby,1.694458
+Bangladesh,Dhaka,2025-05-12 15:00:00,40.4,26,999.0,Patchy rain nearby,4.000032000000001
+Bangladesh,Dhaka,2025-05-13 15:15:00,35.0,47,1000.0,Sunny,5.00004
+Bangladesh,Dhaka,2025-05-14 15:15:00,36.5,40,1002.0,Patchy rain nearby,2.6944660000000002
+Bangladesh,Dhaka,2025-05-15 15:00:00,38.1,32,1002.0,Partly Cloudy,4.888928000000001
+Bangladesh,Dhaka,2025-05-16 15:00:00,38.7,32,1002.0,Patchy rain nearby,4.000032000000001
+Bangladesh,Dhaka,2025-05-17 14:45:00,34.2,51,1004.0,Sunny,4.388924
+Bangladesh,Dhaka,2025-05-18 14:45:00,33.5,55,1006.0,Thundery outbreaks in nearby,4.000032000000001
+Bangladesh,Dhaka,2025-05-19 15:00:00,33.1,52,1003.0,Light rain shower,3.8055860000000004
+Bangladesh,Dhaka,2025-05-20 15:00:00,33.4,53,1003.0,Light rain shower,2.8889120000000004
+Bangladesh,Dhaka,2025-05-21 14:45:00,30.8,67,1004.0,Light rain,5.694490000000001
+Bangladesh,Dhaka,2025-05-22 14:45:00,34.8,46,1004.0,Partly Cloudy,1.694458
+Bangladesh,Dhaka,2025-05-23 15:00:00,33.0,53,1001.0,Patchy rain nearby,1.8889040000000001
+Bangladesh,Dhaka,2025-05-24 14:45:00,31.3,65,1002.0,Light rain shower,3.111136
+Bangladesh,Dhaka,2025-05-25 14:30:00,32.4,57,1003.0,Light drizzle,2.50002
+Bangladesh,Dhaka,2025-05-26 15:00:00,30.8,64,1002.0,Cloudy,3.6111400000000002
+Bangladesh,Dhaka,2025-05-27 15:00:00,35.3,49,997.0,Partly Cloudy,4.388924
+Bangladesh,Dhaka,2025-05-28 14:45:00,32.8,56,995.0,Light rain shower,6.388940000000001
+Bangladesh,Dhaka,2025-05-29 14:45:00,24.8,96,991.0,Heavy rain,12.694546000000003
+Bangladesh,Dhaka,2025-05-30 14:45:00,28.5,77,996.0,Patchy rain nearby,8.500068
+Bangladesh,Dhaka,2025-05-31 14:45:00,31.9,72,999.0,Moderate rain at times,4.000032000000001

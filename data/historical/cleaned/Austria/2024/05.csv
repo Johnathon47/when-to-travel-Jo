@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Austria,Vienna,2024-05-16 10:45:00,16.0,63,1013.0,Partly cloudy,5.611156
+Austria,Vienna,2024-05-16 16:00:00,17.0,72,1013.0,Light rain,7.194502
+Austria,Vienna,2024-05-17 18:00:00,14.0,88,1011.0,Light rain shower,1.8889040000000001
+Austria,Vienna,2024-05-18 16:30:00,21.0,60,1012.0,Partly cloudy,6.111160000000001
+Austria,Vienna,2024-05-19 16:00:00,23.0,47,1011.0,Partly cloudy,2.50002
+Austria,Vienna,2024-05-20 16:45:00,24.0,57,1011.0,Partly cloudy,1.8889040000000001
+Austria,Vienna,2024-05-21 16:45:00,22.0,73,1007.0,Moderate or heavy rain shower,6.694498000000001
+Austria,Vienna,2024-05-22 16:15:00,22.0,50,1010.0,Partly cloudy,4.694482
+Austria,Vienna,2024-05-23 16:00:00,23.0,53,1014.0,Partly cloudy,1.0000080000000002
+Austria,Vienna,2024-05-24 16:30:00,19.0,73,1017.0,Light rain shower,3.6111400000000002
+Austria,Vienna,2024-05-25 16:00:00,19.0,60,1017.0,Partly cloudy,9.194518
+Austria,Vienna,2024-05-26 16:00:00,23.0,61,1019.0,Partly cloudy,2.50002
+Austria,Vienna,2024-05-27 16:30:00,25.0,39,1017.0,Partly cloudy,5.611156
+Austria,Vienna,2024-05-28 16:30:00,17.0,72,1018.0,Partly cloudy,11.388980000000002
+Austria,Vienna,2024-05-29 16:00:00,23.0,41,1013.0,Sunny,4.694482
+Austria,Vienna,2024-05-30 15:45:00,24.0,41,1005.0,Partly cloudy,1.0000080000000002
+Austria,Vienna,2024-05-31 16:15:00,19.0,83,1005.0,Partly cloudy,2.50002

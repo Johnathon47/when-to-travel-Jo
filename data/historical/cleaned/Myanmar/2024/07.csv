@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Myanmar,Yangon,2024-07-01 19:45:00,25.0,89,1008.0,Overcast,1.8889040000000001
+Myanmar,Yangon,2024-07-02 19:45:00,27.1,94,1005.0,Light drizzle,1.0000080000000002
+Myanmar,Yangon,2024-07-03 19:30:00,28.1,94,1007.0,Partly cloudy,1.8889040000000001
+Myanmar,Yangon,2024-07-04 19:45:00,28.3,94,1008.0,Partly cloudy,1.8889040000000001
+Myanmar,Yangon,2024-07-05 19:15:00,27.4,94,1005.0,Overcast,1.694458
+Myanmar,Yangon,2024-07-06 19:45:00,29.4,84,1005.0,Partly cloudy,1.11112
+Myanmar,Yangon,2024-07-07 19:30:00,27.1,100,1004.0,Light drizzle,1.11112
+Myanmar,Yangon,2024-07-08 19:30:00,27.3,94,1006.0,Partly cloudy,1.694458
+Myanmar,Yangon,2024-07-09 19:15:00,28.2,94,1008.0,Partly cloudy,1.11112
+Myanmar,Yangon,2024-07-10 19:30:00,28.1,94,1007.0,Overcast,1.694458
+Myanmar,Yangon,2024-07-11 19:15:00,27.3,94,1006.0,Overcast,1.11112
+Myanmar,Yangon,2024-07-12 19:30:00,27.2,94,1004.0,Overcast,2.50002
+Myanmar,Yangon,2024-07-13 19:30:00,25.2,91,1003.0,Light rain shower,4.388924
+Myanmar,Yangon,2024-07-14 19:45:00,29.2,84,1003.0,Partly cloudy,3.111136
+Myanmar,Yangon,2024-07-15 19:30:00,27.2,100,1004.0,Light drizzle,1.11112
+Myanmar,Yangon,2024-07-16 19:15:00,28.2,84,1004.0,Partly cloudy,1.694458
+Myanmar,Yangon,2024-07-17 19:15:00,27.4,94,1003.0,Overcast,1.8889040000000001
+Myanmar,Yangon,2024-07-18 19:15:00,26.4,94,1004.0,Moderate rain,1.11112
+Myanmar,Yangon,2024-07-19 19:00:00,27.2,94,1003.0,Partly cloudy,1.694458
+Myanmar,Yangon,2024-07-20 19:15:00,26.2,100,1006.0,Moderate rain,5.305598000000001
+Myanmar,Yangon,2024-07-23 19:00:00,25.7,91,1005.0,Light rain shower,3.111136
+Myanmar,Yangon,2024-07-24 19:15:00,25.6,91,1003.0,Light rain shower,5.694490000000001
+Myanmar,Yangon,2024-07-25 18:45:00,25.5,91,1001.0,Light rain shower,4.888928000000001
+Myanmar,Yangon,2024-07-26 19:00:00,25.0,94,1004.0,Light drizzle,3.8055860000000004
+Myanmar,Yangon,2024-07-27 19:00:00,24.9,96,1005.0,Light rain,3.6111400000000002
+Myanmar,Yangon,2024-07-28 19:15:00,24.9,92,1005.0,Patchy light drizzle,2.805578
+Myanmar,Yangon,2024-07-29 18:45:00,25.9,87,1004.0,Patchy rain nearby,2.805578
+Myanmar,Yangon,2024-07-30 18:45:00,26.8,85,1006.0,Patchy rain nearby,2.50002
+Myanmar,Yangon,2024-07-31 18:45:00,27.0,83,1007.0,Moderate or heavy rain shower,3.8889200000000006

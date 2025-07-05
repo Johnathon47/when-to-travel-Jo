@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Gabon,Libreville,2025-04-01 10:30:00,29.4,75,1011.0,Partly cloudy,2.111128
+Gabon,Libreville,2025-04-02 10:00:00,28.3,76,1010.0,Partly Cloudy,3.0000240000000007
+Gabon,Libreville,2025-04-03 10:00:00,28.1,84,1010.0,Partly cloudy,1.0000080000000002
+Gabon,Libreville,2025-04-04 10:15:00,29.3,75,1012.0,Partly cloudy,1.5000120000000003
+Gabon,Libreville,2025-04-05 10:00:00,28.0,84,1012.0,Partly cloudy,1.611124
+Gabon,Libreville,2025-04-06 10:00:00,28.3,84,1012.0,Partly cloudy,2.6111320000000005
+Gabon,Libreville,2025-04-07 10:15:00,30.3,79,1012.0,Partly cloudy,2.3889080000000003
+Gabon,Libreville,2025-04-08 10:15:00,30.3,79,1014.0,Partly cloudy,2.6111320000000005
+Gabon,Libreville,2025-04-09 10:00:00,31.3,71,1014.0,Partly cloudy,2.111128
+Gabon,Libreville,2025-04-10 10:30:00,27.3,89,1012.0,Partly cloudy,3.1944700000000004
+Gabon,Libreville,2025-04-11 10:15:00,27.0,84,1012.0,Partly cloudy,3.8889200000000006
+Gabon,Libreville,2025-04-12 10:15:00,30.1,75,1011.0,Partly cloudy,3.111136
+Gabon,Libreville,2025-04-13 10:00:00,29.4,84,1012.0,Partly cloudy,1.8055700000000001
+Gabon,Libreville,2025-04-14 10:30:00,30.1,75,1013.0,Partly cloudy,2.194462
+Gabon,Libreville,2025-04-15 10:15:00,30.4,79,1013.0,Partly cloudy,2.6944660000000002
+Gabon,Libreville,2025-04-16 10:00:00,28.2,89,1012.0,Partly cloudy,1.0000080000000002
+Gabon,Libreville,2025-04-17 09:45:00,26.2,86,1013.0,Patchy rain nearby,2.194462
+Gabon,Libreville,2025-04-18 10:15:00,29.1,89,1012.0,Partly cloudy,2.111128
+Gabon,Libreville,2025-04-19 10:00:00,28.1,79,1011.0,Patchy rain nearby,1.8055700000000001
+Gabon,Libreville,2025-04-20 09:45:00,29.1,79,1010.0,Partly Cloudy,1.3055660000000002
+Gabon,Libreville,2025-04-21 10:15:00,30.3,75,1010.0,Partly Cloudy,1.611124
+Gabon,Libreville,2025-04-22 10:15:00,29.2,84,1010.0,Partly Cloudy,2.6111320000000005
+Gabon,Libreville,2025-04-23 10:00:00,29.1,79,1010.0,Partly Cloudy,1.694458
+Gabon,Libreville,2025-04-24 10:00:00,22.9,93,1011.0,Light rain shower,2.6944660000000002
+Gabon,Libreville,2025-04-25 10:15:00,29.3,75,1010.0,Partly cloudy,2.50002
+Gabon,Libreville,2025-04-26 10:00:00,27.2,80,1011.0,Partly Cloudy,2.6111320000000005
+Gabon,Libreville,2025-04-27 09:45:00,28.1,78,1011.0,Partly Cloudy,1.0000080000000002
+Gabon,Libreville,2025-04-28 10:30:00,28.3,84,1011.0,Overcast,2.3889080000000003
+Gabon,Libreville,2025-04-29 09:45:00,29.0,75,1011.0,Partly Cloudy,2.3055740000000005
+Gabon,Libreville,2025-04-30 09:45:00,29.0,79,1010.0,Partly cloudy,3.388916

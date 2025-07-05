@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Estonia,Tallinn,2025-07-01 12:00:00,18.2,60,1013.0,Sunny,7.305614000000001
+Estonia,Tallinn,2025-07-02 11:45:00,24.3,50,1013.0,Sunny,4.111144
+Estonia,Tallinn,2025-07-03 11:30:00,25.1,44,1008.0,Sunny,5.00004
+Estonia,Tallinn,2025-07-04 11:45:00,15.3,63,1012.0,Sunny,10.805642
+Estonia,Tallinn,2025-07-05 11:45:00,14.2,88,1011.0,Partly cloudy,3.8889200000000006

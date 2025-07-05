@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Haiti,Port-Au-Prince,2025-07-01 04:45:00,18.5,93,1017.0,Clear,1.611124
+Haiti,Port-Au-Prince,2025-07-02 04:45:00,18.5,94,1016.0,Clear,2.3889080000000003
+Haiti,Port-Au-Prince,2025-07-03 04:30:00,19.9,94,1017.0,Partly Cloudy,1.5000120000000003
+Haiti,Port-Au-Prince,2025-07-04 05:00:00,19.9,94,1017.0,Clear,1.8055700000000001
+Haiti,Port-Au-Prince,2025-07-05 04:45:00,19.7,81,1017.0,Cloudy,2.3889080000000003

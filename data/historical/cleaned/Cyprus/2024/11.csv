@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Cyprus,Nicosia,2024-11-01 11:15:00,24.3,41,1014.0,Sunny,6.305606
+Cyprus,Nicosia,2024-11-02 11:15:00,24.1,57,1016.0,Partly cloudy,6.888944000000001
+Cyprus,Nicosia,2024-11-03 11:00:00,23.4,61,1016.0,Partly cloudy,2.805578
+Cyprus,Nicosia,2024-11-04 11:00:00,23.1,53,1016.0,Partly cloudy,1.3889
+Cyprus,Nicosia,2024-11-05 11:00:00,22.3,46,1019.0,Partly cloudy,2.8889120000000004
+Cyprus,Nicosia,2024-11-06 11:00:00,22.2,43,1022.0,Sunny,4.500036000000001
+Cyprus,Nicosia,2024-11-07 11:00:00,21.3,41,1023.0,Sunny,5.305598000000001
+Cyprus,Nicosia,2024-11-08 11:00:00,23.3,47,1021.0,Sunny,3.6944740000000005
+Cyprus,Nicosia,2024-11-09 11:00:00,23.1,41,1018.0,Partly cloudy,3.8889200000000006
+Cyprus,Nicosia,2024-11-10 10:45:00,23.1,69,1014.0,Partly cloudy,7.000056000000001
+Cyprus,Nicosia,2024-11-11 11:00:00,21.1,78,1018.0,Partly cloudy,2.805578
+Cyprus,Nicosia,2024-11-12 11:00:00,22.3,61,1020.0,Partly cloudy,2.50002
+Cyprus,Nicosia,2024-11-13 11:00:00,22.4,61,1022.0,Partly cloudy,3.388916
+Cyprus,Nicosia,2024-11-14 11:15:00,23.2,50,1019.0,Partly cloudy,2.194462
+Cyprus,Nicosia,2024-11-15 11:00:00,22.1,61,1016.0,Partly cloudy,1.5000120000000003
+Cyprus,Nicosia,2024-11-16 10:45:00,22.3,57,1017.0,Partly cloudy,1.3889
+Cyprus,Nicosia,2024-11-17 10:45:00,19.2,83,1014.0,Partly cloudy,4.194478
+Cyprus,Nicosia,2024-11-18 10:45:00,18.1,68,1012.0,Partly cloudy,1.11112
+Cyprus,Nicosia,2024-11-19 10:45:00,20.0,53,1016.0,Partly cloudy,2.3055740000000005
+Cyprus,Nicosia,2024-11-20 10:45:00,20.4,60,1017.0,Partly cloudy,1.5000120000000003
+Cyprus,Nicosia,2024-11-21 10:45:00,20.0,56,1018.0,Partly cloudy,1.0000080000000002
+Cyprus,Nicosia,2024-11-22 10:45:00,22.0,65,1020.0,Partly cloudy,1.5000120000000003
+Cyprus,Nicosia,2024-11-23 11:15:00,21.4,73,1020.0,Partly cloudy,2.6944660000000002
+Cyprus,Nicosia,2024-11-24 10:30:00,14.2,44,1013.0,Partly cloudy,10.305638000000002
+Cyprus,Nicosia,2024-11-25 10:45:00,11.3,47,1018.0,Partly cloudy,11.500092
+Cyprus,Nicosia,2024-11-26 10:45:00,13.4,38,1019.0,Partly cloudy,6.694498000000001
+Cyprus,Nicosia,2024-11-27 10:45:00,15.2,44,1021.0,Partly cloudy,2.3055740000000005
+Cyprus,Nicosia,2024-11-28 12:45:00,17.0,42,1023.0,Partly cloudy,1.8889040000000001
+Cyprus,Nicosia,2024-11-29 12:45:00,17.1,48,1022.0,Partly cloudy,1.8889040000000001
+Cyprus,Nicosia,2024-11-30 12:30:00,18.1,45,1023.0,Partly cloudy,2.194462

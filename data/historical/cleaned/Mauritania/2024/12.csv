@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mauritania,Nouakchott,2024-12-01 10:45:00,24.0,26,1017.0,Sunny,7.305614000000001
+Mauritania,Nouakchott,2024-12-02 10:30:00,23.8,26,1016.0,Sunny,5.694490000000001
+Mauritania,Nouakchott,2024-12-03 11:00:00,24.7,25,1015.0,Partly Cloudy,5.00004
+Mauritania,Nouakchott,2024-12-04 10:30:00,24.9,31,1016.0,Partly Cloudy,5.888936
+Mauritania,Nouakchott,2024-12-05 10:30:00,25.7,35,1019.0,Patchy rain nearby,6.6111640000000005
+Mauritania,Nouakchott,2024-12-06 10:30:00,24.6,24,1018.0,Sunny,7.194502
+Mauritania,Nouakchott,2024-12-07 10:45:00,23.3,31,1018.0,Sunny,8.611180000000001
+Mauritania,Nouakchott,2024-12-08 10:30:00,22.5,24,1017.0,Sunny,7.000056000000001
+Mauritania,Nouakchott,2024-12-09 10:45:00,22.6,23,1016.0,Cloudy,5.3889320000000005
+Mauritania,Nouakchott,2024-12-10 10:45:00,22.5,25,1014.0,Sunny,3.6111400000000002
+Mauritania,Nouakchott,2024-12-11 10:15:00,20.8,46,1016.0,Sunny,6.500052
+Mauritania,Nouakchott,2024-12-12 10:45:00,21.3,39,1016.0,Partly Cloudy,6.000048000000001
+Mauritania,Nouakchott,2024-12-13 11:00:00,25.1,30,1015.0,Sunny,4.888928000000001
+Mauritania,Nouakchott,2024-12-14 10:45:00,26.8,28,1014.0,Sunny,6.805610000000001
+Mauritania,Nouakchott,2024-12-15 10:30:00,27.7,29,1015.0,Partly Cloudy,7.194502
+Mauritania,Nouakchott,2024-12-16 10:15:00,26.0,22,1018.0,Partly Cloudy,7.6945060000000005
+Mauritania,Nouakchott,2024-12-17 10:45:00,23.4,23,1019.0,Partly Cloudy,9.194518
+Mauritania,Nouakchott,2024-12-18 10:15:00,21.6,32,1019.0,Partly Cloudy,8.694514000000002
+Mauritania,Nouakchott,2024-12-19 10:30:00,21.2,30,1020.0,Sunny,9.111184
+Mauritania,Nouakchott,2024-12-20 10:45:00,19.7,27,1020.0,Sunny,9.000072000000001
+Mauritania,Nouakchott,2024-12-21 10:45:00,19.9,29,1019.0,Sunny,7.611172000000001
+Mauritania,Nouakchott,2024-12-22 10:15:00,20.0,28,1018.0,Sunny,6.111160000000001
+Mauritania,Nouakchott,2024-12-23 10:45:00,18.7,37,1016.0,Sunny,6.305606
+Mauritania,Nouakchott,2024-12-24 10:45:00,19.9,30,1014.0,Sunny,3.3055820000000002
+Mauritania,Nouakchott,2024-12-25 09:45:00,18.9,54,1017.0,Sunny,3.0000240000000007
+Mauritania,Nouakchott,2024-12-26 10:00:00,20.3,59,1018.0,Sunny,6.194494000000001
+Mauritania,Nouakchott,2024-12-27 10:45:00,23.2,40,1017.0,Sunny,5.888936
+Mauritania,Nouakchott,2024-12-28 11:30:00,25.4,37,1016.0,Sunny,5.3889320000000005
+Mauritania,Nouakchott,2024-12-29 10:45:00,23.9,38,1016.0,Sunny,4.500036000000001
+Mauritania,Nouakchott,2024-12-30 10:30:00,24.2,35,1016.0,Sunny,5.00004
+Mauritania,Nouakchott,2024-12-31 10:00:00,22.0,28,1017.0,Sunny,8.805626

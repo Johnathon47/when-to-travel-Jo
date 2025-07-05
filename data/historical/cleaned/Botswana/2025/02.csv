@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Botswana,Gaborone,2025-02-01 12:30:00,37.4,21,1008.0,Sunny,1.0000080000000002
+Botswana,Gaborone,2025-02-02 12:15:00,30.4,40,1011.0,Partly Cloudy,3.8055860000000004
+Botswana,Gaborone,2025-02-03 12:30:00,33.8,33,1010.0,Sunny,3.388916
+Botswana,Gaborone,2025-02-04 12:30:00,33.6,28,1013.0,Sunny,4.805594000000001
+Botswana,Gaborone,2025-02-05 12:30:00,35.1,26,1009.0,Sunny,2.6111320000000005
+Botswana,Gaborone,2025-02-06 12:15:00,35.2,27,1007.0,Sunny,4.500036000000001
+Botswana,Gaborone,2025-02-07 12:30:00,31.3,36,1013.0,Partly Cloudy,5.500044000000001
+Botswana,Gaborone,2025-02-08 12:30:00,31.8,26,1014.0,Sunny,3.0000240000000007
+Botswana,Gaborone,2025-02-09 12:30:00,35.5,24,1009.0,Sunny,2.111128
+Botswana,Gaborone,2025-02-10 12:30:00,31.9,37,1008.0,Patchy rain nearby,3.5000280000000004
+Botswana,Gaborone,2025-02-11 12:15:00,27.4,54,1012.0,Patchy rain nearby,4.694482
+Botswana,Gaborone,2025-02-12 12:15:00,21.7,78,1016.0,Patchy rain nearby,4.888928000000001
+Botswana,Gaborone,2025-02-13 12:15:00,26.9,56,1012.0,Patchy rain nearby,4.111144
+Botswana,Gaborone,2025-02-14 12:00:00,22.3,76,1015.0,Patchy rain nearby,5.305598000000001
+Botswana,Gaborone,2025-02-15 12:15:00,27.7,50,1013.0,Patchy rain nearby,3.8889200000000006
+Botswana,Gaborone,2025-02-16 12:15:00,17.6,94,1014.0,Moderate rain,5.694490000000001
+Botswana,Gaborone,2025-02-17 12:15:00,18.3,96,1013.0,Light rain,3.388916
+Botswana,Gaborone,2025-02-18 12:15:00,20.5,93,1011.0,Patchy rain nearby,4.611148000000001
+Botswana,Gaborone,2025-02-19 12:15:00,22.3,94,1013.0,Light rain,4.805594000000001
+Botswana,Gaborone,2025-02-20 12:00:00,20.3,94,1018.0,Light drizzle,4.194478
+Botswana,Gaborone,2025-02-21 12:00:00,24.1,78,1017.0,Partly cloudy,5.111152
+Botswana,Gaborone,2025-02-22 12:00:00,27.1,70,1015.0,Partly cloudy,2.6944660000000002
+Botswana,Gaborone,2025-02-23 12:00:00,30.4,59,1016.0,Partly cloudy,1.3055660000000002
+Botswana,Gaborone,2025-02-24 12:00:00,30.7,49,1010.0,Patchy rain nearby,2.805578
+Botswana,Gaborone,2025-02-25 12:00:00,29.3,62,1015.0,Partly cloudy,1.8889040000000001
+Botswana,Gaborone,2025-02-26 12:00:00,26.1,70,1017.0,Partly cloudy,3.8055860000000004
+Botswana,Gaborone,2025-02-27 12:00:00,25.1,74,1018.0,Overcast,4.3055900000000005
+Botswana,Gaborone,2025-02-28 12:00:00,27.4,66,1017.0,Partly cloudy,2.50002

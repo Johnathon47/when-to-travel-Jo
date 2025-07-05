@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Argentina,Buenos Aires,2024-11-01 06:15:00,22.1,94,1007.0,Sunny,1.8889040000000001
+Argentina,Buenos Aires,2024-11-02 06:00:00,20.0,98,1007.0,Light rain shower,1.0000080000000002
+Argentina,Buenos Aires,2024-11-03 06:00:00,13.1,94,1018.0,Partly cloudy,3.8055860000000004
+Argentina,Buenos Aires,2024-11-04 06:00:00,18.5,96,1010.0,Mist,3.1944700000000004
+Argentina,Buenos Aires,2024-11-05 05:45:00,14.0,100,1019.0,Fog,2.194462
+Argentina,Buenos Aires,2024-11-06 06:00:00,15.1,72,1016.0,Sunny,2.111128
+Argentina,Buenos Aires,2024-11-07 06:00:00,16.1,94,1017.0,Partly cloudy,5.111152
+Argentina,Buenos Aires,2024-11-08 06:00:00,14.3,88,1018.0,Partly cloudy,1.611124
+Argentina,Buenos Aires,2024-11-09 06:00:00,17.2,77,1014.0,Sunny,2.6111320000000005
+Argentina,Buenos Aires,2024-11-10 05:45:00,18.2,73,1011.0,Sunny,3.6944740000000005
+Argentina,Buenos Aires,2024-11-11 06:00:00,14.3,94,1010.0,Partly cloudy,2.50002
+Argentina,Buenos Aires,2024-11-12 06:00:00,10.4,87,1014.0,Sunny,2.194462
+Argentina,Buenos Aires,2024-11-13 06:00:00,13.3,82,1011.0,Sunny,1.0000080000000002
+Argentina,Buenos Aires,2024-11-14 06:15:00,16.1,68,1013.0,Sunny,2.6944660000000002
+Argentina,Buenos Aires,2024-11-15 06:00:00,20.3,68,1010.0,Sunny,4.000032000000001
+Argentina,Buenos Aires,2024-11-16 05:45:00,22.1,69,1007.0,Sunny,3.6111400000000002
+Argentina,Buenos Aires,2024-11-17 05:45:00,15.1,77,1012.0,Light rain,7.305614000000001
+Argentina,Buenos Aires,2024-11-18 05:45:00,12.4,88,1019.0,Partly cloudy,3.8055860000000004
+Argentina,Buenos Aires,2024-11-19 05:45:00,15.2,82,1019.0,Sunny,2.6944660000000002
+Argentina,Buenos Aires,2024-11-20 05:45:00,19.2,73,1018.0,Sunny,2.6111320000000005
+Argentina,Buenos Aires,2024-11-21 05:30:00,19.3,68,1020.0,Sunny,3.8055860000000004
+Argentina,Buenos Aires,2024-11-22 05:45:00,19.2,78,1020.0,Sunny,2.50002
+Argentina,Buenos Aires,2024-11-23 06:00:00,20.2,78,1017.0,Sunny,2.6944660000000002
+Argentina,Buenos Aires,2024-11-24 05:30:00,21.2,83,1012.0,Partly cloudy,4.3055900000000005
+Argentina,Buenos Aires,2024-11-25 05:45:00,22.3,94,1008.0,Partly cloudy,1.0000080000000002
+Argentina,Buenos Aires,2024-11-26 05:45:00,22.4,88,1008.0,Overcast,3.6944740000000005
+Argentina,Buenos Aires,2024-11-27 05:45:00,20.1,94,1006.0,Sunny,2.194462
+Argentina,Buenos Aires,2024-11-28 08:15:00,20.1,94,1009.0,Partly cloudy,4.111144
+Argentina,Buenos Aires,2024-11-29 07:45:00,19.4,88,1012.0,Sunny,2.0000160000000005
+Argentina,Buenos Aires,2024-11-30 07:30:00,20.1,78,1017.0,Partly cloudy,3.111136

@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Singapore,Singapore,2025-05-01 17:00:00,27.3,89,1007.0,Moderate or heavy rain with thunder,2.6111320000000005
+Singapore,Singapore,2025-05-02 17:00:00,31.3,66,1008.0,Partly cloudy,3.8055860000000004
+Singapore,Singapore,2025-05-03 17:00:00,32.1,59,1006.0,Partly cloudy,3.0000240000000007
+Singapore,Singapore,2025-05-04 16:45:00,31.3,55,1007.0,Partly cloudy,4.694482
+Singapore,Singapore,2025-05-05 17:00:00,30.2,75,1007.0,Partly cloudy,3.6944740000000005
+Singapore,Singapore,2025-05-06 17:00:00,33.1,56,1007.0,Partly cloudy,4.3055900000000005
+Singapore,Singapore,2025-05-07 16:45:00,33.4,56,1005.0,Partly cloudy,3.8055860000000004
+Singapore,Singapore,2025-05-08 16:45:00,28.1,84,1006.0,Moderate or heavy rain with thunder,3.1944700000000004
+Singapore,Singapore,2025-05-09 17:15:00,32.2,56,1007.0,Partly cloudy,4.000032000000001
+Singapore,Singapore,2025-05-10 17:00:00,28.2,84,1006.0,Light rain,3.0000240000000007
+Singapore,Singapore,2025-05-11 16:45:00,33.2,56,1006.0,Moderate or heavy rain with thunder,5.694490000000001
+Singapore,Singapore,2025-05-12 17:15:00,31.3,66,1006.0,Partly cloudy,2.111128
+Singapore,Singapore,2025-05-13 17:15:00,29.1,70,1007.0,Partly cloudy,2.194462
+Singapore,Singapore,2025-05-14 17:15:00,32.2,56,1008.0,Partly cloudy,3.6944740000000005
+Singapore,Singapore,2025-05-15 17:00:00,28.1,84,1009.0,Light rain,1.8889040000000001
+Singapore,Singapore,2025-05-16 17:00:00,32.2,63,1006.0,Partly cloudy,3.388916
+Singapore,Singapore,2025-05-17 16:45:00,33.0,59,1006.0,Partly cloudy,1.8055700000000001
+Singapore,Singapore,2025-05-18 16:45:00,25.3,89,1008.0,Moderate rain,2.3889080000000003
+Singapore,Singapore,2025-05-19 17:00:00,31.0,71,1005.0,Partly cloudy,6.6111640000000005
+Singapore,Singapore,2025-05-20 17:00:00,32.3,63,1006.0,Partly cloudy,3.1944700000000004
+Singapore,Singapore,2025-05-21 16:45:00,32.2,71,1005.0,Partly cloudy,4.000032000000001
+Singapore,Singapore,2025-05-22 16:45:00,28.3,74,1006.0,Light rain,4.888928000000001
+Singapore,Singapore,2025-05-23 17:00:00,33.1,49,1004.0,Partly cloudy,5.111152
+Singapore,Singapore,2025-05-24 16:45:00,33.3,63,1004.0,Partly cloudy,4.000032000000001
+Singapore,Singapore,2025-05-25 16:30:00,32.0,63,1007.0,Overcast,1.0000080000000002
+Singapore,Singapore,2025-05-26 17:00:00,32.2,63,1007.0,Partly cloudy,3.6111400000000002
+Singapore,Singapore,2025-05-27 17:00:00,32.0,59,1007.0,Partly cloudy,1.3055660000000002
+Singapore,Singapore,2025-05-28 16:45:00,32.1,63,1007.0,Partly cloudy,2.50002
+Singapore,Singapore,2025-05-29 16:45:00,26.2,84,1009.0,Partly cloudy,5.888936
+Singapore,Singapore,2025-05-30 16:45:00,32.2,63,1010.0,Partly cloudy,3.5000280000000004
+Singapore,Singapore,2025-05-31 16:45:00,32.3,71,1010.0,Partly cloudy,6.6111640000000005

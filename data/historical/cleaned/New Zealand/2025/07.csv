@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+New Zealand,Wellington,2025-07-01 20:45:00,7.3,93,1029.0,Clear,2.3889080000000003
+New Zealand,Wellington,2025-07-02 20:45:00,11.2,71,1024.0,Clear,6.6111640000000005
+New Zealand,Wellington,2025-07-03 20:30:00,11.1,94,1013.0,Moderate rain,7.805618000000001
+New Zealand,Wellington,2025-07-04 21:00:00,12.4,100,1006.0,Light rain,2.194462
+New Zealand,Wellington,2025-07-05 20:45:00,10.1,82,1017.0,Overcast,7.194502

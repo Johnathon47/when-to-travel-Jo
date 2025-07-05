@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Sri Lanka,Colombo,2025-04-01 15:00:00,32.0,67,1006.0,Partly cloudy,3.388916
+Sri Lanka,Colombo,2025-04-02 14:30:00,32.4,71,1007.0,Partly cloudy,3.6944740000000005
+Sri Lanka,Colombo,2025-04-03 14:30:00,33.2,63,1010.0,Partly cloudy,3.6944740000000005
+Sri Lanka,Colombo,2025-04-04 14:45:00,31.1,79,1010.0,Partly cloudy,3.1944700000000004
+Sri Lanka,Colombo,2025-04-05 14:30:00,30.1,79,1009.0,Partly cloudy,3.6111400000000002
+Sri Lanka,Colombo,2025-04-06 14:30:00,33.1,67,1009.0,Partly cloudy,3.8055860000000004
+Sri Lanka,Colombo,2025-04-07 14:45:00,33.2,63,1008.0,Partly cloudy,4.111144
+Sri Lanka,Colombo,2025-04-08 14:45:00,33.0,67,1008.0,Partly cloudy,4.388924
+Sri Lanka,Colombo,2025-04-09 14:45:00,31.3,71,1009.0,Partly cloudy,3.3055820000000002
+Sri Lanka,Colombo,2025-04-10 14:45:00,31.2,71,1008.0,Overcast,4.694482
+Sri Lanka,Colombo,2025-04-11 14:45:00,31.1,71,1008.0,Moderate rain,5.888936
+Sri Lanka,Colombo,2025-04-12 14:45:00,31.3,75,1008.0,Partly cloudy,5.611156
+Sri Lanka,Colombo,2025-04-13 14:30:00,33.1,67,1009.0,Partly cloudy,5.3889320000000005
+Sri Lanka,Colombo,2025-04-14 15:00:00,31.2,79,1006.0,Overcast,3.3055820000000002
+Sri Lanka,Colombo,2025-04-15 14:45:00,33.2,67,1007.0,Partly cloudy,3.8889200000000006
+Sri Lanka,Colombo,2025-04-16 14:30:00,32.2,63,1009.0,Partly cloudy,3.6944740000000005
+Sri Lanka,Colombo,2025-04-17 14:15:00,32.3,75,1008.0,Partly cloudy,3.6944740000000005
+Sri Lanka,Colombo,2025-04-18 14:45:00,32.3,75,1008.0,Partly cloudy,4.611148000000001
+Sri Lanka,Colombo,2025-04-19 14:30:00,33.1,67,1008.0,Patchy rain nearby,4.888928000000001
+Sri Lanka,Colombo,2025-04-20 14:30:00,32.1,80,1007.0,Partly cloudy,4.111144
+Sri Lanka,Colombo,2025-04-21 14:45:00,32.2,75,1008.0,Patchy rain nearby,3.8055860000000004
+Sri Lanka,Colombo,2025-04-22 14:45:00,31.0,66,1010.0,Patchy rain nearby,3.5000280000000004
+Sri Lanka,Colombo,2025-04-23 14:30:00,31.1,71,1012.0,Partly cloudy,4.194478
+Sri Lanka,Colombo,2025-04-24 14:15:00,31.1,79,1008.0,Partly cloudy,3.8889200000000006
+Sri Lanka,Colombo,2025-04-25 14:30:00,29.3,89,1008.0,Partly cloudy,4.111144
+Sri Lanka,Colombo,2025-04-26 14:30:00,32.2,75,1007.0,Partly cloudy,4.000032000000001
+Sri Lanka,Colombo,2025-04-27 14:15:00,32.3,67,1009.0,Partly cloudy,4.111144
+Sri Lanka,Colombo,2025-04-28 15:00:00,33.2,67,1006.0,Partly cloudy,4.3055900000000005
+Sri Lanka,Colombo,2025-04-29 14:15:00,33.2,67,1007.0,Partly cloudy,4.611148000000001
+Sri Lanka,Colombo,2025-04-30 14:15:00,30.2,84,1008.0,Partly cloudy,5.611156

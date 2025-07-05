@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Tunisia,Tunis,2024-09-01 13:00:00,35.3,39,1011.0,Partly cloudy,3.111136
+Tunisia,Tunis,2024-09-02 13:15:00,36.7,32,1010.0,Sunny,3.5000280000000004
+Tunisia,Tunis,2024-09-03 13:30:00,38.4,33,1012.0,Partly cloudy,5.305598000000001
+Tunisia,Tunis,2024-09-04 13:00:00,37.4,29,1011.0,Partly cloudy,2.50002
+Tunisia,Tunis,2024-09-05 13:00:00,33.3,53,1011.0,Partly cloudy,3.6111400000000002
+Tunisia,Tunis,2024-09-06 13:15:00,38.3,35,1009.0,Partly cloudy,3.6111400000000002
+Tunisia,Tunis,2024-09-07 13:00:00,39.3,28,1012.0,Partly cloudy,3.111136
+Tunisia,Tunis,2024-09-08 13:15:00,39.2,33,1011.0,Partly cloudy,7.805618000000001
+Tunisia,Tunis,2024-09-09 13:30:00,31.1,49,1011.0,Partly cloudy,6.111160000000001
+Tunisia,Tunis,2024-09-10 13:30:00,29.3,45,1013.0,Partly cloudy,9.194518
+Tunisia,Tunis,2024-09-11 13:15:00,30.3,46,1012.0,Partly cloudy,5.611156
+Tunisia,Tunis,2024-09-12 13:15:00,32.3,38,1012.0,Partly cloudy,4.194478
+Tunisia,Tunis,2024-09-13 13:30:00,25.3,54,1015.0,Partly cloudy,7.50006
+Tunisia,Tunis,2024-09-14 13:30:00,26.1,34,1018.0,Partly cloudy,10.00008
+Tunisia,Tunis,2024-09-15 13:00:00,26.3,42,1017.0,Partly cloudy,7.194502
+Tunisia,Tunis,2024-09-16 12:15:00,26.2,51,1013.0,Partly cloudy,6.888944000000001
+Tunisia,Tunis,2024-09-17 12:00:00,27.2,42,1010.0,Partly cloudy,6.305606
+Tunisia,Tunis,2024-09-18 11:45:00,26.1,51,1014.0,Partly cloudy,2.0000160000000005
+Tunisia,Tunis,2024-09-19 11:45:00,26.0,61,1014.0,Partly cloudy,2.111128
+Tunisia,Tunis,2024-09-20 11:45:00,25.0,65,1017.0,Partly cloudy,2.6111320000000005
+Tunisia,Tunis,2024-09-21 11:45:00,28.3,58,1018.0,Partly cloudy,3.6111400000000002
+Tunisia,Tunis,2024-09-22 11:30:00,31.0,49,1015.0,Partly cloudy,1.11112
+Tunisia,Tunis,2024-09-23 10:45:00,26.4,70,1014.0,Partly cloudy,3.6111400000000002
+Tunisia,Tunis,2024-09-24 10:45:00,27.4,62,1017.0,Partly cloudy,1.1944540000000001
+Tunisia,Tunis,2024-09-25 10:30:00,27.1,58,1017.0,Partly cloudy,5.3889320000000005
+Tunisia,Tunis,2024-09-26 10:30:00,27.0,62,1017.0,Partly cloudy,1.3055660000000002
+Tunisia,Tunis,2024-09-27 11:00:00,31.2,43,1014.0,Sunny,2.3055740000000005
+Tunisia,Tunis,2024-09-28 11:00:00,29.2,58,1016.0,Partly cloudy,6.500052
+Tunisia,Tunis,2024-09-29 10:30:00,24.4,47,1024.0,Partly cloudy,6.305606
+Tunisia,Tunis,2024-09-30 10:30:00,24.4,57,1022.0,Partly cloudy,1.0000080000000002

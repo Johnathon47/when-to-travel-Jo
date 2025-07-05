@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Netherlands,Amsterdam,2024-12-01 11:45:00,5.1,75,1019.0,Sunny,4.694482
+Netherlands,Amsterdam,2024-12-02 11:30:00,11.3,94,1010.0,Light rain,6.305606
+Netherlands,Amsterdam,2024-12-03 11:45:00,8.1,71,1019.0,Partly cloudy,3.8889200000000006
+Netherlands,Amsterdam,2024-12-04 11:30:00,6.1,87,1025.0,Overcast,2.3889080000000003
+Netherlands,Amsterdam,2024-12-05 11:30:00,5.4,100,1011.0,Moderate rain at times,8.694514000000002
+Netherlands,Amsterdam,2024-12-06 11:45:00,10.3,71,1008.0,Light rain,12.388988000000001
+Netherlands,Amsterdam,2024-12-07 11:30:00,10.2,82,990.0,Moderate or heavy rain shower,9.694522000000001
+Netherlands,Amsterdam,2024-12-08 11:15:00,7.2,93,1008.0,Light rain,5.500044000000001
+Netherlands,Amsterdam,2024-12-09 11:45:00,7.1,81,1027.0,Light rain,7.194502
+Netherlands,Amsterdam,2024-12-10 12:00:00,5.3,81,1032.0,Partly cloudy,5.305598000000001
+Netherlands,Amsterdam,2024-12-11 11:45:00,4.3,87,1033.0,Overcast,2.8889120000000004
+Netherlands,Amsterdam,2024-12-12 11:45:00,5.2,100,1032.0,Mist,1.8055700000000001
+Netherlands,Amsterdam,2024-12-13 12:00:00,2.0,93,1028.0,Partly cloudy,2.3889080000000003
+Netherlands,Amsterdam,2024-12-14 11:45:00,5.3,93,1018.0,Moderate rain at times,4.111144
+Netherlands,Amsterdam,2024-12-15 11:30:00,9.2,93,1024.0,Light drizzle,5.888936
+Netherlands,Amsterdam,2024-12-16 11:45:00,11.0,82,1029.0,Partly cloudy,7.000056000000001
+Netherlands,Amsterdam,2024-12-17 11:45:00,9.2,93,1027.0,Partly cloudy,4.000032000000001
+Netherlands,Amsterdam,2024-12-18 11:30:00,11.2,87,1008.0,Light rain,10.00008
+Netherlands,Amsterdam,2024-12-19 11:00:00,7.4,87,999.0,Light rain,7.000056000000001
+Netherlands,Amsterdam,2024-12-20 11:45:00,6.4,69,1019.0,Partly Cloudy,5.194486
+Netherlands,Amsterdam,2024-12-21 11:15:00,8.0,83,1013.0,Patchy rain nearby,7.111168000000001
+Netherlands,Amsterdam,2024-12-22 11:15:00,5.8,68,998.0,Light drizzle,9.111184
+Netherlands,Amsterdam,2024-12-23 11:15:00,6.6,67,1016.0,Patchy rain nearby,7.305614000000001
+Netherlands,Amsterdam,2024-12-24 11:45:00,5.7,92,1025.0,Patchy rain nearby,4.694482
+Netherlands,Amsterdam,2024-12-25 11:45:00,9.5,96,1033.0,Mist,2.6944660000000002
+Netherlands,Amsterdam,2024-12-26 10:45:00,9.2,88,1036.0,Patchy rain nearby,1.3889
+Netherlands,Amsterdam,2024-12-27 11:45:00,3.3,100,1034.0,Mist,1.0000080000000002
+Netherlands,Amsterdam,2024-12-28 11:15:00,2.4,100,1030.0,Mist,1.8889040000000001
+Netherlands,Amsterdam,2024-12-29 11:15:00,5.3,100,1029.0,Mist,2.8889120000000004
+Netherlands,Amsterdam,2024-12-30 11:30:00,8.1,81,1027.0,Partly cloudy,7.000056000000001
+Netherlands,Amsterdam,2024-12-31 11:30:00,4.1,93,1024.0,Overcast,6.000048000000001

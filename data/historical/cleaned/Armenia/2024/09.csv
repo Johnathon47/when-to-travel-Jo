@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Armenia,Yerevan,2024-09-01 15:45:00,33.0,17,1011.0,Sunny,1.0000080000000002
+Armenia,Yerevan,2024-09-02 16:15:00,34.3,15,1013.0,Sunny,1.694458
+Armenia,Yerevan,2024-09-03 16:15:00,35.1,17,1010.0,Sunny,1.694458
+Armenia,Yerevan,2024-09-04 16:00:00,34.1,23,1008.0,Sunny,1.8889040000000001
+Armenia,Yerevan,2024-09-05 16:00:00,33.1,20,1008.0,Partly cloudy,1.694458
+Armenia,Yerevan,2024-09-06 16:15:00,26.2,28,1013.0,Moderate or heavy rain with thunder,10.805642
+Armenia,Yerevan,2024-09-07 16:00:00,28.3,23,1016.0,Partly cloudy,1.0000080000000002
+Armenia,Yerevan,2024-09-08 16:15:00,29.2,25,1015.0,Partly cloudy,1.694458
+Armenia,Yerevan,2024-09-09 16:30:00,31.1,24,1015.0,Partly cloudy,1.694458
+Armenia,Yerevan,2024-09-10 16:30:00,27.3,37,1016.0,Partly cloudy,1.694458
+Armenia,Yerevan,2024-09-11 16:00:00,32.4,26,1011.0,Partly cloudy,1.8889040000000001
+Armenia,Yerevan,2024-09-12 16:15:00,35.2,13,1011.0,Partly cloudy,1.694458
+Armenia,Yerevan,2024-09-13 16:30:00,34.1,18,1009.0,Partly cloudy,1.0000080000000002
+Armenia,Yerevan,2024-09-14 16:30:00,30.4,24,1010.0,Partly cloudy,1.694458
+Armenia,Yerevan,2024-09-15 16:00:00,28.1,25,1010.0,Partly cloudy,1.8889040000000001
+Armenia,Yerevan,2024-09-16 15:00:00,26.3,26,1010.0,Partly cloudy,2.50002
+Armenia,Yerevan,2024-09-17 15:00:00,27.2,26,1013.0,Partly cloudy,2.6111320000000005
+Armenia,Yerevan,2024-09-18 14:30:00,26.1,28,1016.0,Partly cloudy,3.0000240000000007
+Armenia,Yerevan,2024-09-19 14:45:00,21.0,53,1016.0,Partly cloudy,1.0000080000000002
+Armenia,Yerevan,2024-09-20 14:45:00,21.3,53,1015.0,Partly cloudy,3.388916
+Armenia,Yerevan,2024-09-21 14:45:00,23.2,50,1015.0,Partly cloudy,2.50002
+Armenia,Yerevan,2024-09-22 14:30:00,25.3,34,1014.0,Partly cloudy,3.5000280000000004
+Armenia,Yerevan,2024-09-23 13:45:00,23.0,53,1013.0,Partly cloudy,1.3889
+Armenia,Yerevan,2024-09-24 13:45:00,24.3,36,1016.0,Partly cloudy,2.6944660000000002
+Armenia,Yerevan,2024-09-25 13:30:00,25.1,32,1018.0,Sunny,2.3889080000000003
+Armenia,Yerevan,2024-09-26 13:30:00,25.2,32,1018.0,Partly cloudy,2.3889080000000003
+Armenia,Yerevan,2024-09-27 14:00:00,23.1,36,1019.0,Partly cloudy,1.0000080000000002
+Armenia,Yerevan,2024-09-28 14:00:00,23.2,31,1021.0,Partly cloudy,2.6944660000000002
+Armenia,Yerevan,2024-09-29 13:30:00,22.2,23,1021.0,Sunny,3.0000240000000007
+Armenia,Yerevan,2024-09-30 13:30:00,21.3,21,1016.0,Sunny,2.3055740000000005

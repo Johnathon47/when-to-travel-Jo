@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Luxembourg,Luxembourg,2025-06-01 10:45:00,18.3,94,1016.0,Partly cloudy,4.388924
+Luxembourg,Luxembourg,2025-06-02 11:00:00,14.4,67,1018.0,Partly cloudy,5.111152
+Luxembourg,Luxembourg,2025-06-03 11:00:00,17.4,72,1015.0,Partly cloudy,4.611148000000001
+Luxembourg,Luxembourg,2025-06-04 11:00:00,13.3,100,1010.0,Partly cloudy,4.888928000000001
+Luxembourg,Luxembourg,2025-06-05 10:45:00,14.0,82,1012.0,Partly cloudy,7.611172000000001
+Luxembourg,Luxembourg,2025-06-06 10:45:00,14.3,82,1012.0,Partly cloudy,5.611156
+Luxembourg,Luxembourg,2025-06-07 10:45:00,15.3,77,1011.0,Moderate rain,8.111176
+Luxembourg,Luxembourg,2025-06-08 10:45:00,12.0,82,1015.0,Overcast,8.305622
+Luxembourg,Luxembourg,2025-06-09 11:00:00,14.1,63,1024.0,Partly cloudy,3.111136
+Luxembourg,Luxembourg,2025-06-10 11:00:00,16.2,72,1019.0,Partly Cloudy,5.805602
+Luxembourg,Luxembourg,2025-06-11 11:00:00,17.0,59,1022.0,Sunny,2.805578
+Luxembourg,Luxembourg,2025-06-12 10:45:00,20.1,56,1017.0,Sunny,5.694490000000001
+Luxembourg,Luxembourg,2025-06-13 11:00:00,23.4,61,1020.0,Sunny,2.3889080000000003
+Luxembourg,Luxembourg,2025-06-14 11:00:00,24.2,65,1018.0,Partly Cloudy,3.6944740000000005
+Luxembourg,Luxembourg,2025-06-15 10:45:00,18.4,94,1021.0,Partly cloudy,3.3055820000000002
+Luxembourg,Luxembourg,2025-06-16 11:00:00,18.3,64,1028.0,Patchy rain nearby,2.3055740000000005
+Luxembourg,Luxembourg,2025-06-17 11:00:00,20.3,64,1027.0,Sunny,2.194462
+Luxembourg,Luxembourg,2025-06-18 11:15:00,23.2,57,1024.0,Sunny,2.0000160000000005
+Luxembourg,Luxembourg,2025-06-19 11:15:00,21.0,69,1025.0,Sunny,4.000032000000001
+Luxembourg,Luxembourg,2025-06-20 11:00:00,20.1,60,1025.0,Sunny,4.388924
+Luxembourg,Luxembourg,2025-06-21 10:45:00,21.3,56,1022.0,Sunny,3.6111400000000002
+Luxembourg,Luxembourg,2025-06-22 10:45:00,24.2,50,1018.0,Sunny,3.111136
+Luxembourg,Luxembourg,2025-06-23 11:00:00,18.3,73,1015.0,Moderate rain,8.194510000000001
+Luxembourg,Luxembourg,2025-06-24 10:45:00,17.4,63,1017.0,Sunny,6.111160000000001
+Luxembourg,Luxembourg,2025-06-25 10:45:00,24.2,57,1016.0,Sunny,2.6944660000000002
+Luxembourg,Luxembourg,2025-06-26 10:45:00,18.3,100,1014.0,Patchy light rain with thunder,6.888944000000001
+Luxembourg,Luxembourg,2025-06-27 10:45:00,16.3,69,1023.0,Partly cloudy,1.5000120000000003
+Luxembourg,Luxembourg,2025-06-28 10:30:00,22.3,73,1027.0,Partly cloudy,2.6944660000000002
+Luxembourg,Luxembourg,2025-06-29 10:30:00,23.4,73,1025.0,Partly Cloudy,2.0000160000000005
+Luxembourg,Luxembourg,2025-06-30 10:45:00,26.0,58,1021.0,Sunny,4.000032000000001

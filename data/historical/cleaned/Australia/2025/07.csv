@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Australia,Canberra,2025-07-01 19:00:00,9.1,76,1010.0,Overcast,6.888944000000001
+Australia,Canberra,2025-07-02 18:45:00,11.4,71,1009.0,Overcast,5.3889320000000005
+Australia,Canberra,2025-07-03 18:45:00,10.1,66,1014.0,Overcast,2.3889080000000003
+Australia,Canberra,2025-07-04 18:45:00,3.1,100,1021.0,Clear,1.694458
+Australia,Canberra,2025-07-05 18:45:00,7.3,93,1021.0,Overcast,1.0000080000000002

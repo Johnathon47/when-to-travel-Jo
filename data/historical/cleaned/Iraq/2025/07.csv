@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Iraq,Baghdad,2025-07-01 11:30:00,36.3,18,1001.0,Sunny,7.194502
+Iraq,Baghdad,2025-07-02 11:45:00,38.3,14,1000.0,Sunny,7.000056000000001
+Iraq,Baghdad,2025-07-03 11:15:00,38.4,20,1000.0,Sunny,7.111168000000001
+Iraq,Baghdad,2025-07-04 12:00:00,38.5,9,1002.0,Sunny,7.805618000000001
+Iraq,Baghdad,2025-07-05 11:45:00,36.3,14,1003.0,Sunny,6.888944000000001

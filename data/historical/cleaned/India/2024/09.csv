@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+India,New Delhi,2024-09-01 17:30:00,35.3,56,1003.0,Mist,3.111136
+India,New Delhi,2024-09-02 17:45:00,32.1,71,1004.0,Mist,1.8889040000000001
+India,New Delhi,2024-09-03 17:45:00,33.1,63,1004.0,Mist,1.8889040000000001
+India,New Delhi,2024-09-04 17:30:00,26.4,94,1002.0,Light rain,1.0000080000000002
+India,New Delhi,2024-09-05 17:30:00,32.3,67,1000.0,Mist,1.694458
+India,New Delhi,2024-09-06 17:45:00,29.3,75,1003.0,Moderate or heavy rain with thunder,3.111136
+India,New Delhi,2024-09-07 17:30:00,26.2,100,1004.0,Moderate or heavy rain with thunder,1.8889040000000001
+India,New Delhi,2024-09-08 17:45:00,27.2,100,1004.0,Mist,1.8889040000000001
+India,New Delhi,2024-09-09 18:00:00,30.3,89,1001.0,Moderate or heavy rain with thunder,1.694458
+India,New Delhi,2024-09-10 18:00:00,26.2,100,1001.0,Moderate or heavy rain with thunder,1.694458
+India,New Delhi,2024-09-11 17:30:00,30.1,79,1000.0,Mist,1.0000080000000002
+India,New Delhi,2024-09-12 17:45:00,26.3,94,1001.0,Moderate or heavy rain with thunder,3.6111400000000002
+India,New Delhi,2024-09-13 18:00:00,23.2,100,1002.0,Moderate or heavy rain with thunder,2.6944660000000002
+India,New Delhi,2024-09-14 18:00:00,30.4,75,1002.0,Moderate or heavy rain with thunder,2.805578
+India,New Delhi,2024-09-15 17:30:00,31.1,66,1003.0,Mist,3.5000280000000004
+India,New Delhi,2024-09-16 16:30:00,32.4,59,1005.0,Mist,4.000032000000001
+India,New Delhi,2024-09-17 16:30:00,33.1,53,1006.0,Mist,2.6111320000000005
+India,New Delhi,2024-09-18 16:00:00,24.3,94,1006.0,Moderate or heavy rain with thunder,4.194478
+India,New Delhi,2024-09-19 16:15:00,30.0,79,1005.0,Mist,2.805578
+India,New Delhi,2024-09-20 16:15:00,33.1,50,1003.0,Sunny,2.6944660000000002
+India,New Delhi,2024-09-21 16:15:00,34.1,53,1006.0,Partly cloudy,1.11112
+India,New Delhi,2024-09-22 16:00:00,35.0,60,1004.0,Mist,2.111128
+India,New Delhi,2024-09-23 15:15:00,35.3,56,1006.0,Mist,3.1944700000000004
+India,New Delhi,2024-09-24 15:15:00,35.1,56,1004.0,Mist,1.0000080000000002
+India,New Delhi,2024-09-25 15:00:00,35.3,56,1004.0,Mist,2.194462
+India,New Delhi,2024-09-26 15:00:00,33.4,59,1004.0,Mist,3.0000240000000007
+India,New Delhi,2024-09-27 15:30:00,32.4,59,1004.0,Partly cloudy,3.5000280000000004
+India,New Delhi,2024-09-28 15:30:00,31.3,63,1007.0,Mist,4.3055900000000005
+India,New Delhi,2024-09-29 15:00:00,33.1,56,1009.0,Mist,2.50002
+India,New Delhi,2024-09-30 15:00:00,33.0,56,1008.0,Mist,3.6944740000000005

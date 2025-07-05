@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Uruguay,Montevideo,2024-06-01 11:30:00,14.0,82,1014.0,Sunny,4.194478
+Uruguay,Montevideo,2024-06-02 11:00:00,13.0,88,1014.0,Moderate rain,5.305598000000001
+Uruguay,Montevideo,2024-06-03 11:15:00,10.0,66,1030.0,Partly cloudy,1.0000080000000002
+Uruguay,Montevideo,2024-06-04 11:15:00,10.0,71,1028.0,Sunny,3.111136
+Uruguay,Montevideo,2024-06-05 11:15:00,12.0,94,1021.0,Moderate or heavy rain with thunder,4.694482
+Uruguay,Montevideo,2024-06-06 11:00:00,15.0,86,1017.0,Sunny,2.8889120000000004
+Uruguay,Montevideo,2024-06-07 11:00:00,16.0,82,1020.0,Mist,2.50002
+Uruguay,Montevideo,2024-06-08 11:15:00,19.1,88,1016.0,Sunny,6.111160000000001
+Uruguay,Montevideo,2024-06-09 11:15:00,21.3,78,1004.0,Overcast,8.305622
+Uruguay,Montevideo,2024-06-10 11:15:00,16.3,77,1016.0,Partly cloudy,1.8889040000000001
+Uruguay,Montevideo,2024-06-11 11:00:00,12.3,88,1019.0,Partly cloudy,4.694482
+Uruguay,Montevideo,2024-06-12 11:15:00,18.2,94,1012.0,Mist,3.111136
+Uruguay,Montevideo,2024-06-13 11:00:00,22.3,65,1002.0,Sunny,9.194518
+Uruguay,Montevideo,2024-06-14 11:00:00,16.7,96,1006.0,Light rain shower,1.11112
+Uruguay,Montevideo,2024-06-15 11:00:00,13.3,100,1018.0,Sunny,1.11112
+Uruguay,Montevideo,2024-06-16 10:45:00,12.3,88,1021.0,Sunny,3.111136
+Uruguay,Montevideo,2024-06-17 11:00:00,15.1,72,1017.0,Sunny,5.611156
+Uruguay,Montevideo,2024-06-18 11:00:00,14.4,91,1010.0,Cloudy,2.6111320000000005
+Uruguay,Montevideo,2024-06-19 11:00:00,15.1,100,1013.0,Mist,6.111160000000001
+Uruguay,Montevideo,2024-06-20 10:45:00,12.7,75,1021.0,Sunny,4.111144
+Uruguay,Montevideo,2024-06-21 10:45:00,15.1,94,1011.0,Overcast,7.194502
+Uruguay,Montevideo,2024-06-22 10:45:00,17.1,100,1008.0,Mist,1.8889040000000001
+Uruguay,Montevideo,2024-06-23 10:45:00,12.3,77,1013.0,Partly cloudy,6.111160000000001
+Uruguay,Montevideo,2024-06-24 10:45:00,11.4,62,1021.0,Partly cloudy,6.694498000000001
+Uruguay,Montevideo,2024-06-25 10:15:00,9.6,59,1029.0,Partly Cloudy,3.6111400000000002
+Uruguay,Montevideo,2024-06-26 10:30:00,7.3,93,1020.0,Partly cloudy,3.6111400000000002
+Uruguay,Montevideo,2024-06-27 10:15:00,11.2,66,1007.0,Sunny,5.611156
+Uruguay,Montevideo,2024-06-28 10:15:00,9.3,71,1012.0,Partly cloudy,6.694498000000001
+Uruguay,Montevideo,2024-06-29 09:45:00,6.2,75,1019.0,Partly cloudy,8.305622
+Uruguay,Montevideo,2024-06-30 10:30:00,5.3,75,1021.0,Sunny,3.111136

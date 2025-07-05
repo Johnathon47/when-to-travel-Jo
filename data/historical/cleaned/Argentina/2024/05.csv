@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Argentina,Buenos Aires,2024-05-16 05:45:00,8.0,93,1014.0,Clear,1.0000080000000002
+Argentina,Buenos Aires,2024-05-16 11:00:00,11.0,76,1014.0,Sunny,3.111136
+Argentina,Buenos Aires,2024-05-17 13:00:00,13.0,67,1019.0,Partly cloudy,3.111136
+Argentina,Buenos Aires,2024-05-18 11:30:00,10.0,82,1027.0,Sunny,3.6111400000000002
+Argentina,Buenos Aires,2024-05-19 11:00:00,10.0,62,1027.0,Sunny,1.0000080000000002
+Argentina,Buenos Aires,2024-05-20 11:30:00,12.0,62,1020.0,Sunny,5.305598000000001
+Argentina,Buenos Aires,2024-05-21 11:45:00,13.0,88,1017.0,Partly cloudy,1.8889040000000001
+Argentina,Buenos Aires,2024-05-22 11:15:00,13.0,82,1016.0,Partly cloudy,3.6111400000000002
+Argentina,Buenos Aires,2024-05-23 11:00:00,13.0,67,1018.0,Partly cloudy,5.305598000000001
+Argentina,Buenos Aires,2024-05-24 11:30:00,9.0,57,1026.0,Sunny,7.194502
+Argentina,Buenos Aires,2024-05-25 11:00:00,8.0,61,1031.0,Sunny,3.6111400000000002
+Argentina,Buenos Aires,2024-05-26 11:00:00,9.0,71,1030.0,Partly cloudy,1.8889040000000001
+Argentina,Buenos Aires,2024-05-27 11:30:00,9.0,81,1028.0,Overcast,3.111136
+Argentina,Buenos Aires,2024-05-28 11:30:00,11.0,87,1028.0,Mist,1.0000080000000002
+Argentina,Buenos Aires,2024-05-29 11:00:00,12.0,94,1026.0,Overcast,3.111136
+Argentina,Buenos Aires,2024-05-30 10:45:00,16.0,68,1023.0,Partly cloudy,1.694458
+Argentina,Buenos Aires,2024-05-31 11:15:00,14.0,88,1023.0,Overcast,3.6111400000000002

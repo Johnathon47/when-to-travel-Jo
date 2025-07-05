@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Denmark,Copenhagen,2024-06-01 16:15:00,25.0,57,1013.0,Moderate or heavy rain with thunder,6.111160000000001
+Denmark,Copenhagen,2024-06-02 16:00:00,26.0,48,1013.0,Partly cloudy,6.111160000000001
+Denmark,Copenhagen,2024-06-03 16:15:00,19.0,68,1013.0,Partly cloudy,7.194502
+Denmark,Copenhagen,2024-06-04 16:15:00,17.0,72,1012.0,Partly cloudy,5.305598000000001
+Denmark,Copenhagen,2024-06-05 16:15:00,16.0,48,1009.0,Partly cloudy,5.611156
+Denmark,Copenhagen,2024-06-06 16:00:00,14.0,63,1015.0,Moderate rain,5.611156
+Denmark,Copenhagen,2024-06-07 16:00:00,17.2,45,1015.0,Partly cloudy,6.111160000000001
+Denmark,Copenhagen,2024-06-08 16:15:00,17.3,63,1006.0,Partly cloudy,6.694498000000001
+Denmark,Copenhagen,2024-06-09 16:15:00,15.3,63,1002.0,Moderate rain,10.805642
+Denmark,Copenhagen,2024-06-10 16:15:00,16.1,63,1003.0,Partly cloudy,8.305622
+Denmark,Copenhagen,2024-06-11 16:00:00,15.1,67,1006.0,Partly cloudy,7.805618000000001
+Denmark,Copenhagen,2024-06-12 16:15:00,12.1,77,1012.0,Partly cloudy,5.611156
+Denmark,Copenhagen,2024-06-13 16:00:00,14.0,59,1014.0,Partly cloudy,7.805618000000001
+Denmark,Copenhagen,2024-06-14 16:00:00,16.2,68,1011.0,Patchy rain nearby,8.500068
+Denmark,Copenhagen,2024-06-15 16:00:00,14.9,84,1003.0,Patchy rain nearby,9.30563
+Denmark,Copenhagen,2024-06-16 15:45:00,17.6,67,1009.0,Patchy rain nearby,5.194486
+Denmark,Copenhagen,2024-06-17 16:00:00,19.1,64,1011.0,Partly cloudy,4.194478
+Denmark,Copenhagen,2024-06-18 16:00:00,19.1,60,1014.0,Partly cloudy,4.694482
+Denmark,Copenhagen,2024-06-19 15:45:00,17.4,55,1014.0,Partly cloudy,6.694498000000001
+Denmark,Copenhagen,2024-06-20 15:45:00,17.7,55,1020.0,Sunny,5.3889320000000005
+Denmark,Copenhagen,2024-06-22 15:45:00,17.3,88,1006.0,Overcast,7.805618000000001
+Denmark,Copenhagen,2024-06-23 15:45:00,20.3,56,1016.0,Partly cloudy,5.611156
+Denmark,Copenhagen,2024-06-24 15:45:00,19.3,73,1020.0,Partly cloudy,5.305598000000001
+Denmark,Copenhagen,2024-06-25 15:15:00,19.5,63,1020.0,Cloudy,3.6944740000000005
+Denmark,Copenhagen,2024-06-26 15:30:00,25.2,54,1016.0,Sunny,1.8889040000000001
+Denmark,Copenhagen,2024-06-27 15:15:00,27.1,54,1010.0,Sunny,4.194478
+Denmark,Copenhagen,2024-06-28 15:15:00,23.0,69,1009.0,Partly cloudy,5.305598000000001
+Denmark,Copenhagen,2024-06-29 14:45:00,20.2,56,1017.0,Partly cloudy,4.694482
+Denmark,Copenhagen,2024-06-30 15:30:00,16.1,88,1003.0,Partly cloudy,5.611156

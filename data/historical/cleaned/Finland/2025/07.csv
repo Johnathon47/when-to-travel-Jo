@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Finland,Helsinki,2025-07-01 12:00:00,21.1,49,1012.0,Sunny,4.888928000000001
+Finland,Helsinki,2025-07-02 11:30:00,23.2,47,1012.0,Sunny,3.0000240000000007
+Finland,Helsinki,2025-07-03 11:30:00,19.4,64,1008.0,Partly Cloudy,3.0000240000000007
+Finland,Helsinki,2025-07-04 12:00:00,17.4,52,1008.0,Sunny,9.000072000000001
+Finland,Helsinki,2025-07-05 11:45:00,15.3,77,1011.0,Patchy rain nearby,6.000048000000001

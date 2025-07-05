@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Philippines,Manila,2024-12-01 18:45:00,27.1,89,1008.0,Overcast,1.11112
+Philippines,Manila,2024-12-02 18:45:00,27.2,94,1008.0,Overcast,2.3889080000000003
+Philippines,Manila,2024-12-03 19:00:00,29.2,79,1008.0,Partly cloudy,3.111136
+Philippines,Manila,2024-12-04 18:30:00,30.2,75,1008.0,Partly cloudy,2.6111320000000005
+Philippines,Manila,2024-12-05 18:30:00,30.2,70,1007.0,Partly cloudy,1.8889040000000001
+Philippines,Manila,2024-12-06 18:45:00,30.2,66,1008.0,Partly cloudy,3.388916
+Philippines,Manila,2024-12-07 18:15:00,30.2,75,1008.0,Partly cloudy,3.0000240000000007
+Philippines,Manila,2024-12-08 18:30:00,28.1,89,1009.0,Light rain,5.194486
+Philippines,Manila,2024-12-09 19:00:00,28.1,79,1009.0,Overcast,4.805594000000001
+Philippines,Manila,2024-12-10 19:00:00,28.3,79,1008.0,Partly cloudy,3.5000280000000004
+Philippines,Manila,2024-12-11 18:15:00,28.1,79,1009.0,Partly cloudy,2.8889120000000004
+Philippines,Manila,2024-12-12 18:45:00,29.0,70,1009.0,Partly cloudy,4.194478
+Philippines,Manila,2024-12-13 19:00:00,30.2,62,1010.0,Partly cloudy,3.388916
+Philippines,Manila,2024-12-14 18:30:00,29.3,70,1012.0,Partly cloudy,3.8889200000000006
+Philippines,Manila,2024-12-15 18:30:00,28.3,74,1012.0,Partly cloudy,4.388924
+Philippines,Manila,2024-12-16 18:45:00,29.3,66,1011.0,Partly cloudy,4.388924
+Philippines,Manila,2024-12-17 18:45:00,28.2,79,1010.0,Partly cloudy,4.194478
+Philippines,Manila,2024-12-18 18:15:00,28.1,66,1009.0,Partly cloudy,4.000032000000001
+Philippines,Manila,2024-12-19 18:30:00,26.3,67,1010.0,Clear,4.500036000000001
+Philippines,Manila,2024-12-20 18:15:00,27.0,71,1009.0,Patchy rain nearby,4.388924
+Philippines,Manila,2024-12-21 18:45:00,26.7,78,1009.0,Patchy rain nearby,4.500036000000001
+Philippines,Manila,2024-12-22 17:45:00,26.5,72,1009.0,Patchy rain nearby,7.194502
+Philippines,Manila,2024-12-23 18:45:00,26.7,77,1010.0,Patchy rain nearby,3.6111400000000002
+Philippines,Manila,2024-12-24 18:45:00,26.1,85,1011.0,Light rain shower,4.000032000000001
+Philippines,Manila,2024-12-25 18:15:00,23.5,97,1013.0,Moderate rain,4.194478
+Philippines,Manila,2024-12-26 18:00:00,27.2,77,1012.0,Clear,3.111136
+Philippines,Manila,2024-12-27 18:00:00,29.1,75,1012.0,Partly cloudy,3.8055860000000004
+Philippines,Manila,2024-12-28 18:15:00,28.2,84,1011.0,Partly cloudy,3.3055820000000002
+Philippines,Manila,2024-12-29 17:45:00,27.2,84,1011.0,Light rain,5.111152
+Philippines,Manila,2024-12-30 18:15:00,27.0,94,1011.0,Light rain,3.8889200000000006
+Philippines,Manila,2024-12-31 18:30:00,28.4,84,1010.0,Partly cloudy,3.8889200000000006

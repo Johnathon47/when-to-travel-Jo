@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Singapore,Singapore,2025-02-01 18:30:00,28.1,58,1008.0,Light rain,2.6944660000000002
+Singapore,Singapore,2025-02-02 18:15:00,27.2,79,1007.0,Light rain,2.50002
+Singapore,Singapore,2025-02-03 18:30:00,31.3,49,1007.0,Partly cloudy,1.611124
+Singapore,Singapore,2025-02-04 18:45:00,29.1,66,1008.0,Overcast,6.305606
+Singapore,Singapore,2025-02-05 18:30:00,27.3,70,1009.0,Partly cloudy,6.500052
+Singapore,Singapore,2025-02-06 18:15:00,29.1,58,1008.0,Partly cloudy,6.888944000000001
+Singapore,Singapore,2025-02-07 18:30:00,29.3,66,1008.0,Overcast,6.694498000000001
+Singapore,Singapore,2025-02-08 18:30:00,29.4,66,1007.0,Partly cloudy,7.805618000000001
+Singapore,Singapore,2025-02-09 18:15:00,25.1,83,1009.0,Light rain,8.194510000000001
+Singapore,Singapore,2025-02-10 18:30:00,28.1,66,1009.0,Partly cloudy,7.50006
+Singapore,Singapore,2025-02-11 18:15:00,30.1,59,1010.0,Overcast,2.8889120000000004
+Singapore,Singapore,2025-02-12 18:15:00,31.3,55,1010.0,Partly cloudy,6.6111640000000005
+Singapore,Singapore,2025-02-13 18:15:00,30.0,62,1009.0,Partly cloudy,5.500044000000001
+Singapore,Singapore,2025-02-14 18:00:00,31.4,55,1008.0,Overcast,5.611156
+Singapore,Singapore,2025-02-15 18:15:00,26.3,94,1008.0,Moderate or heavy rain with thunder,3.6944740000000005
+Singapore,Singapore,2025-02-16 18:15:00,30.2,62,1008.0,Overcast,1.0000080000000002
+Singapore,Singapore,2025-02-17 18:15:00,26.0,89,1009.0,Partly cloudy,1.8055700000000001
+Singapore,Singapore,2025-02-18 18:15:00,29.0,66,1010.0,Partly cloudy,5.694490000000001
+Singapore,Singapore,2025-02-19 18:15:00,30.3,62,1009.0,Partly cloudy,2.3889080000000003
+Singapore,Singapore,2025-02-20 18:00:00,31.0,59,1008.0,Partly cloudy,4.694482
+Singapore,Singapore,2025-02-21 18:00:00,31.2,59,1010.0,Partly cloudy,3.388916
+Singapore,Singapore,2025-02-22 18:15:00,29.3,66,1010.0,Overcast,3.388916
+Singapore,Singapore,2025-02-23 18:00:00,25.4,94,1009.0,Light rain,1.694458
+Singapore,Singapore,2025-02-24 18:00:00,31.0,63,1009.0,Partly cloudy,6.500052
+Singapore,Singapore,2025-02-25 18:00:00,30.3,70,1010.0,Partly cloudy,6.111160000000001
+Singapore,Singapore,2025-02-26 18:00:00,29.0,75,1009.0,Light rain,6.305606
+Singapore,Singapore,2025-02-27 17:45:00,31.3,63,1009.0,Partly cloudy,4.694482
+Singapore,Singapore,2025-02-28 18:00:00,30.3,66,1009.0,Partly cloudy,4.888928000000001

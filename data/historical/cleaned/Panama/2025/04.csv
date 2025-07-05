@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Panama,Panama City,2025-04-01 04:30:00,25.3,89,1010.0,Partly cloudy,2.3889080000000003
+Panama,Panama City,2025-04-02 04:00:00,26.3,84,1009.0,Partly cloudy,2.0000160000000005
+Panama,Panama City,2025-04-03 04:00:00,26.3,84,1009.0,Partly cloudy,2.111128
+Panama,Panama City,2025-04-04 04:15:00,26.1,89,1010.0,Partly cloudy,1.611124
+Panama,Panama City,2025-04-05 04:00:00,25.1,94,1010.0,Clear,1.694458
+Panama,Panama City,2025-04-06 04:00:00,26.2,89,1009.0,Partly cloudy,1.8055700000000001
+Panama,Panama City,2025-04-07 04:15:00,26.4,89,1009.0,Partly cloudy,1.8055700000000001
+Panama,Panama City,2025-04-08 04:15:00,26.1,89,1008.0,Clear,1.694458
+Panama,Panama City,2025-04-09 04:15:00,25.4,89,1010.0,Partly cloudy,2.6944660000000002
+Panama,Panama City,2025-04-10 04:15:00,26.3,84,1011.0,Partly cloudy,2.3889080000000003
+Panama,Panama City,2025-04-11 04:15:00,26.3,89,1011.0,Partly cloudy,3.0000240000000007
+Panama,Panama City,2025-04-12 04:15:00,26.3,84,1010.0,Overcast,4.000032000000001
+Panama,Panama City,2025-04-13 04:00:00,25.0,89,1009.0,Partly cloudy,3.6944740000000005
+Panama,Panama City,2025-04-14 04:30:00,26.4,89,1009.0,Partly cloudy,2.111128
+Panama,Panama City,2025-04-15 04:15:00,27.2,84,1008.0,Partly cloudy,2.8889120000000004
+Panama,Panama City,2025-04-16 04:00:00,24.0,94,1009.0,Partly cloudy,2.8889120000000004
+Panama,Panama City,2025-04-17 04:00:00,26.1,79,1010.0,Partly cloudy,3.111136
+Panama,Panama City,2025-04-18 04:15:00,26.2,84,1009.0,Partly cloudy,2.8889120000000004
+Panama,Panama City,2025-04-19 04:00:00,27.0,79,1008.0,Partly cloudy,2.194462
+Panama,Panama City,2025-04-20 04:00:00,26.0,89,1009.0,Moderate or heavy rain shower,1.5000120000000003
+Panama,Panama City,2025-04-21 04:00:00,26.0,89,1008.0,Partly cloudy,2.3889080000000003
+Panama,Panama City,2025-04-22 04:15:00,26.2,89,1008.0,Overcast,1.611124
+Panama,Panama City,2025-04-23 04:00:00,25.4,89,1009.0,Overcast,1.694458
+Panama,Panama City,2025-04-24 04:00:00,24.0,89,1010.0,Overcast,2.805578
+Panama,Panama City,2025-04-25 04:00:00,24.1,89,1009.0,Partly cloudy,2.8889120000000004
+Panama,Panama City,2025-04-26 04:00:00,25.0,89,1009.0,Partly cloudy,2.0000160000000005
+Panama,Panama City,2025-04-27 03:45:00,25.2,89,1010.0,Partly cloudy,2.8889120000000004
+Panama,Panama City,2025-04-28 04:30:00,25.2,89,1010.0,Overcast,2.805578
+Panama,Panama City,2025-04-29 03:45:00,25.3,89,1010.0,Partly cloudy,1.3889
+Panama,Panama City,2025-04-30 03:45:00,25.3,94,1009.0,Overcast,2.0000160000000005

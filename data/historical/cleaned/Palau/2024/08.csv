@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Palau,Koror,2024-08-01 21:15:00,28.9,74,1011.0,Partly Cloudy,5.305598000000001
+Palau,Koror,2024-08-02 21:30:00,28.8,76,1010.0,Clear,5.00004
+Palau,Koror,2024-08-03 21:30:00,28.4,78,1010.0,Patchy rain nearby,4.694482
+Palau,Koror,2024-08-04 21:30:00,28.6,76,1011.0,Light rain shower,3.8889200000000006
+Palau,Koror,2024-08-05 21:30:00,28.7,75,1011.0,Thundery outbreaks in nearby,4.694482
+Palau,Koror,2024-08-06 21:15:00,28.6,76,1011.0,Partly Cloudy,3.6111400000000002
+Palau,Koror,2024-08-07 21:00:00,28.6,78,1011.0,Patchy rain nearby,4.888928000000001
+Palau,Koror,2024-08-08 21:15:00,28.1,75,1011.0,Light rain shower,1.11112
+Palau,Koror,2024-08-09 21:30:00,27.7,77,1010.0,Partly Cloudy,2.50002
+Palau,Koror,2024-08-10 21:30:00,28.4,73,1009.0,Partly Cloudy,2.50002
+Palau,Koror,2024-08-11 21:30:00,28.5,71,1008.0,Clear,1.3055660000000002
+Palau,Koror,2024-08-12 21:30:00,28.7,70,1009.0,Partly Cloudy,1.0000080000000002
+Palau,Koror,2024-08-13 21:45:00,28.8,73,1010.0,Patchy rain nearby,2.194462
+Palau,Koror,2024-08-14 21:30:00,27.4,89,1011.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-15 21:15:00,27.3,89,1010.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-16 21:15:00,27.1,89,1010.0,Partly cloudy,1.694458
+Palau,Airai,2024-08-17 21:15:00,27.0,89,1011.0,Partly cloudy,1.694458
+Palau,Airai,2024-08-18 21:00:00,29.4,79,1010.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-19 21:30:00,26.4,94,1012.0,Patchy light rain with thunder,1.0000080000000002
+Palau,Airai,2024-08-20 21:15:00,27.2,89,1011.0,Partly cloudy,1.694458
+Palau,Airai,2024-08-21 21:15:00,26.1,94,1011.0,Overcast,1.0000080000000002
+Palau,Airai,2024-08-22 21:00:00,27.0,89,1010.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-23 21:15:00,27.1,89,1010.0,Partly cloudy,3.111136
+Palau,Airai,2024-08-24 21:00:00,27.4,89,1010.0,Moderate rain,3.111136
+Palau,Airai,2024-08-25 21:00:00,26.2,94,1010.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-26 21:15:00,26.4,89,1011.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-27 21:15:00,26.2,94,1011.0,Partly cloudy,1.694458
+Palau,Airai,2024-08-28 21:30:00,25.1,94,1012.0,Moderate rain,4.194478
+Palau,Airai,2024-08-29 21:00:00,26.1,94,1009.0,Partly cloudy,1.0000080000000002
+Palau,Airai,2024-08-30 21:15:00,25.1,89,1009.0,Light rain,2.50002
+Palau,Airai,2024-08-31 21:00:00,27.3,84,1008.0,Light rain,9.194518

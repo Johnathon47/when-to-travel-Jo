@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Gabon,Libreville,2024-12-01 11:45:00,29.1,79,1011.0,Partly cloudy,2.0000160000000005
+Gabon,Libreville,2024-12-02 11:45:00,29.2,84,1011.0,Partly cloudy,2.805578
+Gabon,Libreville,2024-12-03 11:45:00,28.7,69,1012.0,Patchy rain nearby,2.50002
+Gabon,Libreville,2024-12-04 11:30:00,28.1,79,1013.0,Partly cloudy,2.6111320000000005
+Gabon,Libreville,2024-12-05 11:30:00,30.2,70,1012.0,Partly cloudy,1.0000080000000002
+Gabon,Libreville,2024-12-06 11:45:00,29.3,75,1012.0,Partly cloudy,2.111128
+Gabon,Libreville,2024-12-07 11:30:00,29.3,79,1012.0,Partly cloudy,1.1944540000000001
+Gabon,Libreville,2024-12-08 11:30:00,29.4,79,1011.0,Partly cloudy,1.8055700000000001
+Gabon,Libreville,2024-12-09 11:45:00,28.3,84,1011.0,Partly cloudy,1.0000080000000002
+Gabon,Libreville,2024-12-10 12:00:00,28.9,70,1010.0,Patchy rain nearby,3.5000280000000004
+Gabon,Libreville,2024-12-11 11:15:00,29.0,79,1011.0,Partly cloudy,2.111128
+Gabon,Libreville,2024-12-12 11:15:00,26.1,84,1012.0,Partly cloudy,1.11112
+Gabon,Libreville,2024-12-13 11:45:00,29.2,79,1011.0,Partly cloudy,1.3055660000000002
+Gabon,Libreville,2024-12-14 11:30:00,29.1,84,1011.0,Partly cloudy,2.3889080000000003
+Gabon,Libreville,2024-12-15 11:30:00,28.1,89,1011.0,Partly cloudy,1.1944540000000001
+Gabon,Libreville,2024-12-16 12:00:00,29.3,84,1013.0,Partly cloudy,3.6111400000000002
+Gabon,Libreville,2024-12-17 11:45:00,29.1,75,1012.0,Partly cloudy,1.3889
+Gabon,Libreville,2024-12-18 11:30:00,28.2,89,1012.0,Partly cloudy,3.1944700000000004
+Gabon,Libreville,2024-12-19 11:30:00,28.9,70,1012.0,Patchy rain nearby,2.3889080000000003
+Gabon,Libreville,2024-12-20 11:45:00,29.1,68,1013.0,Patchy rain nearby,2.194462
+Gabon,Libreville,2024-12-21 11:45:00,29.0,72,1012.0,Patchy light drizzle,3.1944700000000004
+Gabon,Libreville,2024-12-22 11:15:00,28.6,74,1012.0,Patchy light rain,3.3055820000000002
+Gabon,Libreville,2024-12-23 11:45:00,28.5,72,1012.0,Light rain shower,3.8889200000000006
+Gabon,Libreville,2024-12-24 11:45:00,29.2,66,1011.0,Patchy rain nearby,2.0000160000000005
+Gabon,Libreville,2024-12-25 11:15:00,29.0,70,1012.0,Patchy rain nearby,2.50002
+Gabon,Libreville,2024-12-26 10:45:00,28.6,74,1012.0,Light rain shower,2.3055740000000005
+Gabon,Libreville,2024-12-27 11:00:00,29.2,79,1011.0,Partly cloudy,2.0000160000000005
+Gabon,Libreville,2024-12-28 11:45:00,30.2,79,1012.0,Partly cloudy,1.3889
+Gabon,Libreville,2024-12-29 10:45:00,30.3,79,1011.0,Partly cloudy,3.3055820000000002
+Gabon,Libreville,2024-12-30 11:30:00,29.1,75,1012.0,Partly cloudy,2.3889080000000003
+Gabon,Libreville,2024-12-31 11:30:00,30.3,70,1011.0,Partly cloudy,1.3889

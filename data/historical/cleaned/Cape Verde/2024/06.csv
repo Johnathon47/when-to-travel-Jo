@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Cape Verde,Praia,2024-06-01 13:15:00,29.0,48,1016.0,Sunny,7.194502
+Cape Verde,Praia,2024-06-02 13:00:00,27.0,54,1016.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-03 13:15:00,27.0,54,1016.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-04 13:15:00,26.0,58,1015.0,Partly cloudy,7.805618000000001
+Cape Verde,Praia,2024-06-05 13:15:00,27.0,54,1015.0,Partly cloudy,9.194518
+Cape Verde,Praia,2024-06-06 13:00:00,28.0,51,1017.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-07 13:00:00,27.1,58,1017.0,Partly cloudy,10.305638000000002
+Cape Verde,Praia,2024-06-08 13:15:00,28.1,55,1017.0,Partly cloudy,8.305622
+Cape Verde,Praia,2024-06-09 13:15:00,28.1,55,1015.0,Partly cloudy,8.305622
+Cape Verde,Praia,2024-06-10 13:15:00,27.1,58,1015.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-11 13:00:00,28.0,58,1014.0,Partly cloudy,8.305622
+Cape Verde,Praia,2024-06-12 13:15:00,30.0,43,1015.0,Sunny,7.805618000000001
+Cape Verde,Praia,2024-06-13 13:00:00,29.3,48,1016.0,Partly cloudy,8.305622
+Cape Verde,Praia,2024-06-14 13:00:00,27.3,58,1014.0,Partly cloudy,10.805642
+Cape Verde,Praia,2024-06-15 13:00:00,27.2,58,1014.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-16 12:45:00,24.7,75,1013.0,Sunny,3.111136
+Cape Verde,Praia,2024-06-17 13:00:00,25.3,71,1013.0,Partly Cloudy,5.888936
+Cape Verde,Praia,2024-06-18 13:00:00,24.4,72,1013.0,Sunny,6.388940000000001
+Cape Verde,Praia,2024-06-19 12:45:00,24.0,82,1016.0,Patchy rain nearby,5.3889320000000005
+Cape Verde,Praia,2024-06-20 12:45:00,29.3,62,1015.0,Partly cloudy,7.194502
+Cape Verde,Praia,2024-06-21 12:30:00,27.1,58,1015.0,Partly cloudy,9.694522000000001
+Cape Verde,Praia,2024-06-22 12:45:00,28.3,58,1015.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-23 12:45:00,28.3,55,1014.0,Partly cloudy,10.305638000000002
+Cape Verde,Praia,2024-06-24 12:45:00,27.3,58,1014.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-25 12:15:00,24.3,71,1015.0,Sunny,5.194486
+Cape Verde,Praia,2024-06-26 12:30:00,28.2,55,1014.0,Partly cloudy,8.611180000000001
+Cape Verde,Praia,2024-06-27 12:15:00,27.4,58,1013.0,Partly cloudy,10.305638000000002
+Cape Verde,Praia,2024-06-28 12:15:00,29.1,52,1014.0,Partly cloudy,8.305622
+Cape Verde,Praia,2024-06-29 11:45:00,30.1,38,1014.0,Partly cloudy,6.111160000000001
+Cape Verde,Praia,2024-06-30 12:30:00,30.3,43,1013.0,Partly cloudy,5.305598000000001

@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Gambia,Banjul,2024-08-01 12:15:00,27.2,76,1012.0,Cloudy,5.500044000000001
+Gambia,Banjul,2024-08-02 12:30:00,26.9,74,1011.0,Patchy rain nearby,5.500044000000001
+Gambia,Banjul,2024-08-03 12:30:00,28.0,66,1011.0,Partly Cloudy,4.111144
+Gambia,Banjul,2024-08-04 12:30:00,25.9,84,1015.0,Light rain shower,3.6111400000000002
+Gambia,Banjul,2024-08-05 12:30:00,27.0,78,1015.0,Light rain shower,3.8055860000000004
+Gambia,Banjul,2024-08-06 12:15:00,27.0,80,1012.0,Patchy rain nearby,2.50002
+Gambia,Banjul,2024-08-07 12:00:00,27.9,79,1011.0,Light rain shower,5.00004
+Gambia,Banjul,2024-08-08 12:15:00,28.1,77,1012.0,Patchy rain nearby,6.111160000000001
+Gambia,Banjul,2024-08-09 12:30:00,28.1,82,1013.0,Thundery outbreaks in nearby,5.805602
+Gambia,Banjul,2024-08-10 12:30:00,27.8,77,1012.0,Patchy rain nearby,5.805602
+Gambia,Banjul,2024-08-11 12:15:00,26.5,81,1012.0,Partly Cloudy,3.8055860000000004
+Gambia,Banjul,2024-08-12 12:30:00,27.8,75,1014.0,Partly Cloudy,4.500036000000001
+Gambia,Banjul,2024-08-13 12:45:00,27.9,78,1013.0,Patchy rain nearby,6.194494000000001
+Gambia,Banjul,2024-08-14 12:30:00,30.4,75,1010.0,Partly cloudy,3.111136
+Gambia,Banjul,2024-08-15 12:15:00,26.4,79,1011.0,Patchy rain nearby,1.0000080000000002
+Gambia,Banjul,2024-08-16 12:15:00,28.1,89,1012.0,Light rain,5.305598000000001
+Gambia,Banjul,2024-08-17 12:15:00,27.2,89,1012.0,Moderate or heavy rain with thunder,1.8889040000000001
+Gambia,Banjul,2024-08-18 12:00:00,29.2,79,1012.0,Partly cloudy,6.111160000000001
+Gambia,Banjul,2024-08-19 12:30:00,30.3,79,1013.0,Partly cloudy,5.305598000000001
+Gambia,Banjul,2024-08-20 12:15:00,24.4,100,1014.0,Moderate or heavy rain with thunder,1.0000080000000002
+Gambia,Banjul,2024-08-21 12:15:00,30.3,79,1011.0,Partly cloudy,1.0000080000000002
+Gambia,Banjul,2024-08-22 12:00:00,29.3,79,1013.0,Partly cloudy,1.8889040000000001
+Gambia,Banjul,2024-08-23 12:15:00,30.4,79,1012.0,Partly cloudy,1.0000080000000002
+Gambia,Banjul,2024-08-24 12:00:00,26.3,84,1009.0,Partly cloudy,1.0000080000000002
+Gambia,Banjul,2024-08-25 12:00:00,29.2,79,1012.0,Partly cloudy,2.50002
+Gambia,Banjul,2024-08-26 12:15:00,30.2,75,1013.0,Partly cloudy,6.111160000000001
+Gambia,Banjul,2024-08-27 12:15:00,31.1,71,1014.0,Partly cloudy,3.111136
+Gambia,Banjul,2024-08-28 12:30:00,32.3,63,1012.0,Partly cloudy,3.6111400000000002
+Gambia,Banjul,2024-08-29 12:00:00,27.0,85,1012.0,Cloudy,4.611148000000001
+Gambia,Banjul,2024-08-30 12:15:00,30.2,70,1012.0,Partly cloudy,3.6111400000000002
+Gambia,Banjul,2024-08-31 12:00:00,27.7,77,1013.0,Partly Cloudy,3.8889200000000006

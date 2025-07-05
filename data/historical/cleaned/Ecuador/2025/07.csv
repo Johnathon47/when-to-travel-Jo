@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Ecuador,Quito,2025-07-01 04:00:00,10.8,85,1017.0,Light drizzle,1.8055700000000001
+Ecuador,Quito,2025-07-02 03:45:00,10.5,80,1016.0,Clear,1.3889
+Ecuador,Quito,2025-07-03 03:30:00,8.3,88,1019.0,Partly Cloudy,1.611124
+Ecuador,Quito,2025-07-04 03:30:00,8.1,77,1020.0,Clear,1.8055700000000001
+Ecuador,Quito,2025-07-05 03:45:00,8.1,74,1020.0,Clear,1.8889040000000001

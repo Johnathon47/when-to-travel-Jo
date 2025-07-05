@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Sri Lanka,Colombo,2025-02-01 16:00:00,31.3,71,1008.0,Partly cloudy,4.500036000000001
+Sri Lanka,Colombo,2025-02-02 15:45:00,33.1,56,1007.0,Partly cloudy,3.3055820000000002
+Sri Lanka,Colombo,2025-02-03 16:00:00,32.3,59,1009.0,Partly cloudy,4.388924
+Sri Lanka,Colombo,2025-02-04 16:15:00,31.0,63,1009.0,Partly cloudy,3.111136
+Sri Lanka,Colombo,2025-02-05 16:00:00,31.0,63,1007.0,Partly cloudy,5.111152
+Sri Lanka,Colombo,2025-02-06 16:00:00,32.3,59,1007.0,Mist,5.111152
+Sri Lanka,Colombo,2025-02-07 16:00:00,32.2,63,1009.0,Mist,7.611172000000001
+Sri Lanka,Colombo,2025-02-08 16:00:00,33.2,49,1008.0,Partly cloudy,2.111128
+Sri Lanka,Colombo,2025-02-09 16:00:00,33.3,41,1006.0,Partly cloudy,1.3055660000000002
+Sri Lanka,Colombo,2025-02-10 16:00:00,30.2,66,1008.0,Partly cloudy,6.6111640000000005
+Sri Lanka,Colombo,2025-02-11 15:45:00,32.4,63,1009.0,Partly cloudy,5.888936
+Sri Lanka,Colombo,2025-02-12 15:45:00,32.3,63,1009.0,Sunny,4.888928000000001
+Sri Lanka,Colombo,2025-02-13 16:00:00,31.3,63,1009.0,Partly cloudy,5.00004
+Sri Lanka,Colombo,2025-02-14 15:30:00,31.0,63,1009.0,Partly cloudy,4.694482
+Sri Lanka,Colombo,2025-02-15 15:45:00,31.1,59,1007.0,Partly cloudy,4.500036000000001
+Sri Lanka,Colombo,2025-02-16 15:45:00,31.1,66,1008.0,Partly cloudy,5.00004
+Sri Lanka,Colombo,2025-02-17 15:45:00,32.2,56,1010.0,Sunny,4.805594000000001
+Sri Lanka,Colombo,2025-02-18 15:45:00,32.1,63,1011.0,Mist,4.194478
+Sri Lanka,Colombo,2025-02-19 15:45:00,31.3,71,1008.0,Partly cloudy,5.194486
+Sri Lanka,Colombo,2025-02-20 15:30:00,33.1,53,1010.0,Partly cloudy,4.500036000000001
+Sri Lanka,Colombo,2025-02-21 15:30:00,33.1,53,1011.0,Partly cloudy,5.3889320000000005
+Sri Lanka,Colombo,2025-02-22 15:30:00,33.2,59,1011.0,Partly cloudy,5.00004
+Sri Lanka,Colombo,2025-02-23 15:45:00,32.2,63,1010.0,Partly cloudy,5.500044000000001
+Sri Lanka,Colombo,2025-02-24 15:30:00,33.2,56,1010.0,Partly cloudy,6.000048000000001
+Sri Lanka,Colombo,2025-02-25 15:30:00,33.2,63,1010.0,Partly cloudy,8.388956
+Sri Lanka,Colombo,2025-02-26 15:30:00,32.2,56,1009.0,Partly cloudy,5.500044000000001
+Sri Lanka,Colombo,2025-02-27 15:15:00,30.0,75,1007.0,Partly cloudy,2.6944660000000002
+Sri Lanka,Colombo,2025-02-28 15:30:00,29.1,73,1006.0,Patchy rain nearby,2.194462

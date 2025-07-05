@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Montenegro,Podgorica,2024-07-01 15:15:00,33.0,47,1011.0,Partly cloudy,3.111136
+Montenegro,Podgorica,2024-07-02 15:15:00,26.2,65,1006.0,Partly cloudy,4.194478
+Montenegro,Podgorica,2024-07-03 15:00:00,29.3,33,1003.0,Partly cloudy,1.0000080000000002
+Montenegro,Podgorica,2024-07-04 15:15:00,29.3,37,1007.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-05 14:45:00,31.2,31,1014.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-06 15:15:00,32.3,36,1014.0,Partly cloudy,4.194478
+Montenegro,Podgorica,2024-07-07 15:00:00,34.0,28,1013.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-07-08 15:00:00,35.2,35,1012.0,Partly cloudy,1.8889040000000001
+Montenegro,Podgorica,2024-07-09 14:45:00,37.1,35,1011.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-10 15:00:00,37.1,31,1012.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-11 14:45:00,37.4,33,1012.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-12 15:00:00,37.2,33,1010.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-13 15:00:00,34.9,39,1009.0,Sunny,2.3889080000000003
+Montenegro,Podgorica,2024-07-14 15:15:00,38.2,31,1009.0,Sunny,3.111136
+Montenegro,Podgorica,2024-07-15 15:00:00,39.3,30,1009.0,Partly cloudy,2.50002
+Montenegro,Podgorica,2024-07-16 14:45:00,36.9,31,1010.0,Sunny,2.6111320000000005
+Montenegro,Podgorica,2024-07-17 14:45:00,36.9,30,1012.0,Patchy rain nearby,2.194462
+Montenegro,Podgorica,2024-07-18 14:45:00,40.2,26,1012.0,Patchy light rain with thunder,1.8889040000000001
+Montenegro,Podgorica,2024-07-19 14:30:00,39.3,30,1010.0,Partly cloudy,4.694482
+Montenegro,Podgorica,2024-07-20 14:45:00,37.2,35,1006.0,Partly cloudy,4.194478
+Montenegro,Podgorica,2024-07-23 14:30:00,36.0,26,1010.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-07-24 14:45:00,16.3,79,1012.0,Patchy rain nearby,3.5000280000000004
+Montenegro,Podgorica,2024-07-25 14:15:00,31.5,29,1008.0,Sunny,3.5000280000000004
+Montenegro,Podgorica,2024-07-26 14:30:00,32.2,25,1010.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-07-27 14:30:00,34.3,22,1014.0,Sunny,3.0000240000000007
+Montenegro,Podgorica,2024-07-28 14:45:00,36.7,24,1015.0,Sunny,3.6111400000000002
+Montenegro,Podgorica,2024-07-29 14:15:00,36.1,27,1012.0,Sunny,3.6111400000000002
+Montenegro,Podgorica,2024-07-30 14:15:00,33.6,20,1012.0,Sunny,5.305598000000001
+Montenegro,Podgorica,2024-07-31 14:15:00,35.1,16,1011.0,Sunny,2.8889120000000004

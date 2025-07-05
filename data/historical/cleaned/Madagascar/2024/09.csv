@@ -1,0 +1,61 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Madagascar,Ivory,2024-09-01 15:00:00,21.1,56,1021.0,Light rain shower,3.0000240000000007
+Madagascar,Antananarivo,2024-09-01 15:00:00,22.2,46,1021.0,Partly cloudy,4.694482
+Madagascar,Ivory,2024-09-02 15:15:00,22.6,52,1020.0,Patchy rain nearby,2.6111320000000005
+Madagascar,Antananarivo,2024-09-02 15:15:00,24.4,41,1021.0,Partly cloudy,4.194478
+Madagascar,Ivory,2024-09-03 15:15:00,20.1,66,1022.0,Patchy rain nearby,6.500052
+Madagascar,Antananarivo,2024-09-03 15:15:00,23.3,41,1021.0,Partly cloudy,1.0000080000000002
+Madagascar,Ivory,2024-09-04 15:00:00,24.3,50,1022.0,Partly Cloudy,1.8889040000000001
+Madagascar,Antananarivo,2024-09-04 15:00:00,21.2,56,1024.0,Partly cloudy,4.194478
+Madagascar,Ivory,2024-09-05 15:00:00,29.5,32,1018.0,Sunny,5.194486
+Madagascar,Antananarivo,2024-09-05 15:00:00,17.3,100,1024.0,Light rain,5.305598000000001
+Madagascar,Ivory,2024-09-06 15:15:00,30.9,29,1018.0,Sunny,1.611124
+Madagascar,Antananarivo,2024-09-06 15:15:00,24.0,47,1025.0,Partly cloudy,6.694498000000001
+Madagascar,Ivory,2024-09-07 15:00:00,30.8,37,1018.0,Sunny,2.6111320000000005
+Madagascar,Antananarivo,2024-09-07 15:00:00,28.2,35,1024.0,Partly cloudy,5.611156
+Madagascar,Ivory,2024-09-08 15:15:00,33.4,23,1015.0,Sunny,1.3055660000000002
+Madagascar,Antananarivo,2024-09-08 15:15:00,24.1,47,1023.0,Partly cloudy,6.694498000000001
+Madagascar,Ivory,2024-09-09 15:30:00,32.9,26,1015.0,Sunny,6.888944000000001
+Madagascar,Antananarivo,2024-09-09 15:30:00,30.3,24,1022.0,Sunny,5.305598000000001
+Madagascar,Ivory,2024-09-10 15:30:00,29.0,41,1017.0,Sunny,6.500052
+Madagascar,Antananarivo,2024-09-10 15:30:00,30.2,24,1022.0,Partly cloudy,5.611156
+Madagascar,Ivory,2024-09-11 15:00:00,23.2,63,1018.0,Partly Cloudy,4.611148000000001
+Madagascar,Antananarivo,2024-09-11 15:15:00,32.1,17,1020.0,Partly cloudy,1.0000080000000002
+Madagascar,Ivory,2024-09-12 15:15:00,24.1,44,1019.0,Sunny,6.194494000000001
+Madagascar,Antananarivo,2024-09-12 15:15:00,31.1,21,1020.0,Partly cloudy,6.694498000000001
+Madagascar,Ivory,2024-09-13 15:30:00,28.1,33,1018.0,Sunny,3.6111400000000002
+Madagascar,Antananarivo,2024-09-13 15:30:00,26.2,42,1022.0,Partly cloudy,6.000048000000001
+Madagascar,Ivory,2024-09-14 15:30:00,31.2,24,1017.0,Sunny,2.194462
+Madagascar,Antananarivo,2024-09-14 15:30:00,23.3,47,1023.0,Partly cloudy,5.694490000000001
+Madagascar,Ivory,2024-09-15 15:00:00,32.8,23,1015.0,Sunny,2.194462
+Madagascar,Antananarivo,2024-09-15 15:00:00,26.2,34,1022.0,Partly cloudy,5.888936
+Madagascar,Ivory,2024-09-16 14:00:00,33.3,23,1016.0,Sunny,3.388916
+Madagascar,Antananarivo,2024-09-16 14:00:00,28.3,27,1022.0,Sunny,6.305606
+Madagascar,Ivory,2024-09-17 14:00:00,33.0,19,1017.0,Sunny,4.888928000000001
+Madagascar,Antananarivo,2024-09-17 14:00:00,30.3,21,1023.0,Sunny,5.888936
+Madagascar,Ivory,2024-09-18 13:45:00,34.8,16,1014.0,Sunny,1.0000080000000002
+Madagascar,Antananarivo,2024-09-18 13:45:00,30.1,17,1020.0,Sunny,5.00004
+Madagascar,Ivory,2024-09-19 13:45:00,35.4,19,1012.0,Sunny,1.694458
+Madagascar,Antananarivo,2024-09-19 13:45:00,31.0,18,1018.0,Sunny,5.305598000000001
+Madagascar,Ivory,2024-09-20 13:45:00,35.2,21,1013.0,Sunny,1.5000120000000003
+Madagascar,Antananarivo,2024-09-20 13:45:00,29.1,31,1020.0,Sunny,4.500036000000001
+Madagascar,Ivory,2024-09-21 13:45:00,35.2,16,1014.0,Sunny,1.0000080000000002
+Madagascar,Antananarivo,2024-09-21 13:45:00,27.2,34,1022.0,Partly cloudy,4.500036000000001
+Madagascar,Ivory,2024-09-22 13:30:00,31.2,34,1014.0,Partly Cloudy,5.3889320000000005
+Madagascar,Antananarivo,2024-09-22 13:30:00,28.2,30,1020.0,Partly cloudy,1.0000080000000002
+Madagascar,Ivory,2024-09-23 12:45:00,20.2,59,1022.0,Overcast,4.611148000000001
+Madagascar,Antananarivo,2024-09-23 12:45:00,26.3,37,1022.0,Partly cloudy,5.194486
+Madagascar,Ivory,2024-09-24 12:45:00,26.8,39,1019.0,Partly Cloudy,4.000032000000001
+Madagascar,Antananarivo,2024-09-24 12:45:00,26.1,48,1022.0,Partly cloudy,5.194486
+Madagascar,Ivory,2024-09-25 12:30:00,27.7,44,1017.0,Partly Cloudy,2.50002
+Madagascar,Antananarivo,2024-09-25 12:30:00,23.3,53,1023.0,Partly cloudy,4.194478
+Madagascar,Ivory,2024-09-26 12:30:00,30.4,33,1015.0,Sunny,4.805594000000001
+Madagascar,Antananarivo,2024-09-26 12:30:00,26.2,37,1022.0,Partly cloudy,4.388924
+Madagascar,Ivory,2024-09-27 13:00:00,33.0,30,1012.0,Sunny,1.0000080000000002
+Madagascar,Antananarivo,2024-09-27 13:00:00,27.2,30,1019.0,Partly cloudy,3.6944740000000005
+Madagascar,Ivory,2024-09-28 13:00:00,31.4,27,1011.0,Sunny,1.3055660000000002
+Madagascar,Antananarivo,2024-09-28 13:00:00,30.4,27,1017.0,Partly cloudy,2.8889120000000004
+Madagascar,Ivory,2024-09-29 12:30:00,32.4,31,1012.0,Sunny,1.3055660000000002
+Madagascar,Antananarivo,2024-09-29 12:30:00,30.1,17,1019.0,Partly cloudy,4.111144
+Madagascar,Ivory,2024-09-30 12:30:00,35.1,20,1011.0,Sunny,2.3889080000000003
+Madagascar,Antananarivo,2024-09-30 12:30:00,29.1,23,1019.0,Partly cloudy,3.6944740000000005

@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Bangladesh,Dhaka,2024-10-01 15:45:00,33.2,59,1001.0,Patchy rain nearby,2.194462
+Bangladesh,Dhaka,2024-10-02 15:30:00,32.2,61,1001.0,Light rain shower,1.0000080000000002
+Bangladesh,Dhaka,2024-10-03 15:30:00,28.3,80,1002.0,Light rain shower,1.8889040000000001
+Bangladesh,Dhaka,2024-10-04 15:45:00,31.1,66,1004.0,Light rain shower,5.888936
+Bangladesh,Dhaka,2024-10-05 15:30:00,30.7,68,1005.0,Light rain shower,5.00004
+Bangladesh,Dhaka,2024-10-06 15:15:00,32.2,58,1007.0,Patchy rain nearby,3.3055820000000002
+Bangladesh,Dhaka,2024-10-07 15:45:00,32.3,59,1010.0,Patchy rain nearby,1.8055700000000001
+Bangladesh,Dhaka,2024-10-08 15:45:00,32.2,59,1009.0,Light rain shower,1.8055700000000001
+Bangladesh,Dhaka,2024-10-09 15:45:00,32.2,57,1007.0,Cloudy,1.5000120000000003
+Bangladesh,Dhaka,2024-10-10 15:45:00,33.1,51,1006.0,Patchy rain nearby,2.6944660000000002
+Bangladesh,Dhaka,2024-10-11 15:45:00,31.9,58,1006.0,Patchy rain nearby,1.8889040000000001
+Bangladesh,Dhaka,2024-10-12 15:45:00,33.8,47,1007.0,Partly Cloudy,1.5000120000000003
+Bangladesh,Dhaka,2024-10-13 15:30:00,33.3,47,1008.0,Partly Cloudy,3.5000280000000004
+Bangladesh,Dhaka,2024-10-14 15:30:00,32.4,44,1008.0,Sunny,3.5000280000000004
+Bangladesh,Dhaka,2024-10-15 15:30:00,32.1,46,1007.0,Sunny,2.8889120000000004
+Bangladesh,Dhaka,2024-10-16 15:30:00,32.0,47,1007.0,Sunny,2.805578
+Bangladesh,Dhaka,2024-10-17 15:30:00,30.1,57,1008.0,Partly Cloudy,1.611124
+Bangladesh,Dhaka,2024-10-18 15:30:00,32.2,51,1008.0,Light rain shower,1.3889
+Bangladesh,Dhaka,2024-10-19 15:30:00,31.9,50,1008.0,Partly Cloudy,3.6944740000000005
+Bangladesh,Dhaka,2024-10-20 15:30:00,31.6,46,1009.0,Sunny,3.5000280000000004
+Bangladesh,Dhaka,2024-10-21 15:15:00,32.1,44,1007.0,Sunny,3.0000240000000007
+Bangladesh,Dhaka,2024-10-22 15:15:00,33.3,48,1007.0,Partly Cloudy,2.6111320000000005
+Bangladesh,Dhaka,2024-10-23 15:15:00,23.6,91,1008.0,Patchy light rain,4.500036000000001
+Bangladesh,Dhaka,2024-10-24 15:15:00,25.2,79,1005.0,Patchy rain nearby,6.111160000000001
+Bangladesh,Dhaka,2024-10-25 15:15:00,25.2,85,1004.0,Moderate rain,8.694514000000002
+Bangladesh,Dhaka,2024-10-26 15:15:00,24.8,91,1006.0,Light rain shower,2.0000160000000005
+Bangladesh,Dhaka,2024-10-27 15:15:00,32.9,50,1005.0,Partly Cloudy,2.111128
+Bangladesh,Dhaka,2024-10-28 15:15:00,33.0,49,1005.0,Partly Cloudy,2.8889120000000004
+Bangladesh,Dhaka,2024-10-29 15:00:00,33.6,45,1005.0,Partly Cloudy,1.694458
+Bangladesh,Dhaka,2024-10-30 15:00:00,31.8,55,1007.0,Patchy rain nearby,1.5000120000000003
+Bangladesh,Dhaka,2024-10-31 15:00:00,31.4,57,1008.0,Cloudy,2.111128

@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Jamaica,Norman Gardens,2024-06-01 09:30:00,32.0,59,1012.0,Partly cloudy,3.6111400000000002
+Jamaica,Norman Gardens,2024-06-02 09:00:00,29.0,75,1013.0,Moderate or heavy rain with thunder,4.194478
+Jamaica,Norman Gardens,2024-06-03 09:15:00,31.0,71,1011.0,Partly cloudy,4.194478
+Jamaica,Norman Gardens,2024-06-04 09:15:00,31.0,75,1011.0,Partly cloudy,6.694498000000001
+Jamaica,Norman Gardens,2024-06-05 09:15:00,31.0,71,1011.0,Partly cloudy,4.194478
+Jamaica,Norman Gardens,2024-06-06 09:00:00,30.0,75,1011.0,Partly cloudy,6.694498000000001
+Jamaica,Norman Gardens,2024-06-07 09:00:00,28.1,84,1013.0,Overcast,2.50002
+Jamaica,Norman Gardens,2024-06-08 09:15:00,30.3,79,1015.0,Partly cloudy,7.805618000000001
+Jamaica,Norman Gardens,2024-06-09 09:15:00,31.3,75,1013.0,Partly cloudy,6.694498000000001
+Jamaica,Norman Gardens,2024-06-10 09:15:00,31.2,75,1012.0,Partly cloudy,8.305622
+Jamaica,Norman Gardens,2024-06-11 09:00:00,31.0,75,1013.0,Partly cloudy,11.388980000000002
+Jamaica,Norman Gardens,2024-06-12 09:15:00,32.2,71,1014.0,Partly cloudy,8.611180000000001
+Jamaica,Norman Gardens,2024-06-13 09:00:00,30.2,70,1013.0,Partly cloudy,9.194518
+Jamaica,Norman Gardens,2024-06-14 09:00:00,29.6,56,1014.0,Sunny,2.3889080000000003
+Jamaica,Norman Gardens,2024-06-15 09:00:00,32.0,71,1012.0,Partly cloudy,3.6111400000000002
+Jamaica,Norman Gardens,2024-06-16 08:45:00,30.3,66,1013.0,Partly cloudy,10.305638000000002
+Jamaica,Norman Gardens,2024-06-17 09:00:00,29.4,70,1011.0,Partly cloudy,5.305598000000001
+Jamaica,Norman Gardens,2024-06-18 09:00:00,29.3,57,1012.0,Sunny,1.0000080000000002
+Jamaica,Norman Gardens,2024-06-19 08:45:00,29.3,75,1012.0,Sunny,3.111136
+Jamaica,Port Royal,2024-06-20 08:45:00,31.0,66,1012.0,Sunny,8.611180000000001
+Jamaica,Port Royal,2024-06-21 08:30:00,31.2,63,1013.0,Sunny,8.305622
+Jamaica,Port Royal,2024-06-22 08:45:00,31.4,66,1013.0,Sunny,1.694458
+Jamaica,Port Royal,2024-06-23 08:45:00,30.1,70,1012.0,Sunny,2.50002
+Jamaica,Port Royal,2024-06-24 08:45:00,31.2,63,1013.0,Sunny,1.8889040000000001
+Jamaica,Kingston,2024-06-25 08:15:00,30.0,59,1015.0,Sunny,1.8889040000000001
+Jamaica,Port Royal,2024-06-26 08:30:00,30.4,70,1013.0,Sunny,3.111136
+Jamaica,Port Royal,2024-06-27 08:15:00,29.3,79,1012.0,Sunny,11.388980000000002
+Jamaica,Port Royal,2024-06-28 08:15:00,29.1,79,1013.0,Sunny,6.111160000000001
+Jamaica,Port Royal,2024-06-29 07:45:00,28.4,79,1013.0,Sunny,1.8889040000000001
+Jamaica,Port Royal,2024-06-30 08:30:00,29.4,75,1015.0,Sunny,3.111136

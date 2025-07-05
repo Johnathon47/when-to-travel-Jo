@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+New Zealand,Wellington,2024-09-01 00:00:00,16.3,88,1000.0,Moderate rain at times,15.00012
+New Zealand,Wellington,2024-09-02 00:00:00,14.2,77,1013.0,Partly cloudy,11.888984
+New Zealand,Wellington,2024-09-03 00:15:00,14.4,88,1009.0,Overcast,11.888984
+New Zealand,Wellington,2024-09-04 00:30:00,10.2,87,1005.0,Light rain,10.305638000000002
+New Zealand,Wellington,2024-09-05 00:00:00,6.2,87,1019.0,Clear,1.11112
+New Zealand,Wellington,2024-09-06 00:00:00,8.4,87,1019.0,Clear,3.6111400000000002
+New Zealand,Wellington,2024-09-07 00:15:00,13.3,82,1016.0,Clear,7.805618000000001
+New Zealand,Wellington,2024-09-08 00:00:00,11.0,87,1003.0,Light rain,11.888984
+New Zealand,Wellington,2024-09-09 00:15:00,13.3,41,1010.0,Clear,5.305598000000001
+New Zealand,Wellington,2024-09-10 00:30:00,14.4,88,1004.0,Overcast,8.611180000000001
+New Zealand,Wellington,2024-09-11 00:30:00,13.1,67,1012.0,Clear,4.694482
+New Zealand,Wellington,2024-09-12 00:15:00,9.3,76,1024.0,Clear,7.194502
+New Zealand,Wellington,2024-09-13 00:15:00,13.0,67,1018.0,Clear,10.805642
+New Zealand,Wellington,2024-09-14 00:30:00,13.1,82,1010.0,Partly cloudy,5.111152
+New Zealand,Wellington,2024-09-15 00:30:00,12.1,88,1009.0,Partly cloudy,4.3055900000000005
+New Zealand,Wellington,2024-09-16 00:00:00,11.3,82,1004.0,Partly cloudy,7.805618000000001
+New Zealand,Wellington,2024-09-16 23:15:00,10.1,82,990.0,Light rain,8.111176
+New Zealand,Wellington,2024-09-17 23:00:00,9.1,62,1001.0,Partly cloudy,10.111192
+New Zealand,Wellington,2024-09-18 22:45:00,12.2,71,1001.0,Clear,6.888944000000001
+New Zealand,Wellington,2024-09-19 22:45:00,14.1,55,997.0,Clear,10.305638000000002
+New Zealand,Wellington,2024-09-20 22:45:00,13.1,77,999.0,Partly cloudy,10.611196000000001
+New Zealand,Wellington,2024-09-21 22:45:00,12.3,71,1012.0,Partly cloudy,10.194526000000002
+New Zealand,Wellington,2024-09-22 22:30:00,13.1,72,1009.0,Clear,9.805634
+New Zealand,Wellington,2024-09-23 21:45:00,13.3,82,1009.0,Clear,2.0000160000000005
+New Zealand,Wellington,2024-09-24 21:45:00,12.3,62,1013.0,Overcast,7.305614000000001
+New Zealand,Wellington,2024-09-25 21:30:00,11.4,71,1018.0,Partly cloudy,7.888952000000001
+New Zealand,Wellington,2024-09-26 21:30:00,15.2,88,1004.0,Light rain,14.694562000000001
+New Zealand,Wellington,2024-09-27 22:00:00,9.2,81,1016.0,Clear,2.194462
+New Zealand,Wellington,2024-09-28 22:00:00,10.3,82,1021.0,Clear,2.8889120000000004
+New Zealand,Wellington,2024-09-29 22:30:00,10.2,66,1026.0,Clear,2.3889080000000003
+New Zealand,Wellington,2024-09-30 22:30:00,13.2,77,1025.0,Clear,8.194510000000001

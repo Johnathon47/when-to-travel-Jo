@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Canada,Ottawa,2024-11-02 05:00:00,2.0,80,1026.0,Partly cloudy,3.0000240000000007
+Canada,Ottawa,2024-11-03 04:00:00,-0.3,85,1032.0,Clear,1.8889040000000001
+Canada,Ottawa,2024-11-04 04:00:00,1.0,80,1031.0,Light rain,1.611124
+Canada,Ottawa,2024-11-05 04:00:00,7.3,100,1015.0,Overcast,3.1944700000000004
+Canada,Ottawa,2024-11-06 04:00:00,13.9,96,1008.0,Partly Cloudy,7.111168000000001
+Canada,Ottawa,2024-11-07 04:00:00,8.3,87,1017.0,Overcast,2.6944660000000002
+Canada,Ottawa,2024-11-08 04:00:00,7.4,81,1011.0,Partly cloudy,6.305606
+Canada,Ottawa,2024-11-09 04:00:00,1.4,69,1024.0,Clear,4.805594000000001
+Canada,Ottawa,2024-11-10 03:45:00,-1.0,100,1025.0,Partly cloudy,1.8889040000000001
+Canada,Ottawa,2024-11-11 04:00:00,8.3,100,998.0,Light rain,5.194486
+Canada,Ottawa,2024-11-12 04:00:00,2.4,87,1012.0,Partly cloudy,8.111176
+Canada,Ottawa,2024-11-13 04:00:00,-1.7,74,1034.0,Clear,1.694458
+Canada,Ottawa,2024-11-14 04:15:00,-3.9,74,1029.0,Partly cloudy,3.8889200000000006
+Canada,Ottawa,2024-11-15 04:00:00,-0.8,55,1019.0,Partly cloudy,2.194462
+Canada,Ottawa,2024-11-16 03:45:00,4.2,56,1011.0,Partly cloudy,3.6111400000000002
+Canada,Ottawa,2024-11-17 03:45:00,0.1,64,1019.0,Clear,2.50002
+Canada,Ottawa,2024-11-18 03:45:00,1.0,95,1008.0,Mist,1.5000120000000003
+Canada,Ottawa,2024-11-19 03:45:00,5.3,93,1016.0,Partly cloudy,2.6944660000000002
+Canada,Ottawa,2024-11-20 03:45:00,3.2,93,1010.0,Partly cloudy,1.5000120000000003
+Canada,Ottawa,2024-11-21 03:45:00,5.4,100,1003.0,Overcast,7.000056000000001
+Canada,Ottawa,2024-11-22 03:45:00,5.3,100,999.0,Light rain,5.888936
+Canada,Ottawa,2024-11-23 04:00:00,5.3,87,1003.0,Overcast,2.111128
+Canada,Ottawa,2024-11-24 03:30:00,2.1,80,1005.0,Partly cloudy,7.111168000000001
+Canada,Ottawa,2024-11-25 03:30:00,-2.9,86,1016.0,Partly cloudy,4.611148000000001
+Canada,Ottawa,2024-11-26 03:45:00,0.3,86,1010.0,Overcast,3.111136
+Canada,Ottawa,2024-11-27 03:45:00,1.2,80,1009.0,Partly cloudy,6.305606
+Canada,Ottawa,2024-11-28 06:00:00,-1.9,93,1009.0,Partly cloudy,1.11112
+Canada,Ottawa,2024-11-29 05:45:00,-2.8,100,1006.0,Partly cloudy,2.111128
+Canada,Ottawa,2024-11-30 05:15:00,-1.7,93,1007.0,Partly cloudy,3.388916

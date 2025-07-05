@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Bahamas,Nassau,2024-09-01 08:00:00,25.3,83,1015.0,Partly cloudy,3.111136
+Bahamas,Nassau,2024-09-02 08:15:00,27.1,84,1015.0,Partly cloudy,3.6111400000000002
+Bahamas,Nassau,2024-09-03 08:15:00,28.4,89,1016.0,Partly cloudy,2.50002
+Bahamas,Nassau,2024-09-04 08:00:00,29.3,84,1017.0,Partly cloudy,4.194478
+Bahamas,Nassau,2024-09-05 08:00:00,28.2,84,1017.0,Partly cloudy,1.8889040000000001
+Bahamas,Nassau,2024-09-06 08:15:00,29.0,79,1015.0,Partly cloudy,1.8889040000000001
+Bahamas,Nassau,2024-09-07 08:00:00,27.2,89,1013.0,Partly cloudy,2.50002
+Bahamas,Nassau,2024-09-08 08:15:00,29.2,84,1014.0,Partly cloudy,2.50002
+Bahamas,Nassau,2024-09-09 08:30:00,30.4,79,1016.0,Partly cloudy,3.6111400000000002
+Bahamas,Nassau,2024-09-10 08:30:00,29.2,84,1014.0,Partly cloudy,2.50002
+Bahamas,Nassau,2024-09-11 08:00:00,28.3,79,1013.0,Partly cloudy,2.50002
+Bahamas,Nassau,2024-09-12 08:15:00,29.3,79,1012.0,Partly cloudy,2.50002
+Bahamas,Nassau,2024-09-13 08:30:00,29.3,84,1014.0,Partly cloudy,2.805578
+Bahamas,Nassau,2024-09-14 08:30:00,29.1,84,1013.0,Overcast,3.0000240000000007
+Bahamas,Nassau,2024-09-15 08:00:00,26.1,89,1012.0,Partly cloudy,2.0000160000000005
+Bahamas,Nassau,2024-09-16 07:00:00,27.1,89,1013.0,Partly cloudy,4.3055900000000005
+Bahamas,Nassau,2024-09-17 07:00:00,28.2,89,1013.0,Partly cloudy,3.111136
+Bahamas,Nassau,2024-09-18 06:45:00,27.3,84,1014.0,Partly cloudy,4.3055900000000005
+Bahamas,Nassau,2024-09-19 06:45:00,24.2,100,1012.0,Partly cloudy,3.3055820000000002
+Bahamas,Nassau,2024-09-20 06:45:00,24.0,94,1010.0,Partly cloudy,2.6944660000000002
+Bahamas,Nassau,2024-09-21 06:45:00,26.4,84,1011.0,Partly cloudy,1.5000120000000003
+Bahamas,Nassau,2024-09-22 06:30:00,24.2,94,1011.0,Partly cloudy,1.11112
+Bahamas,Nassau,2024-09-23 05:45:00,24.3,89,1012.0,Partly cloudy,2.3055740000000005
+Bahamas,Nassau,2024-09-24 05:45:00,27.1,79,1012.0,Partly cloudy,4.805594000000001
+Bahamas,Nassau,2024-09-25 05:30:00,28.1,84,1012.0,Partly cloudy,7.305614000000001
+Bahamas,Nassau,2024-09-26 05:30:00,29.2,79,1011.0,Partly cloudy,9.694522000000001
+Bahamas,Nassau,2024-09-27 05:45:00,28.1,84,1012.0,Moderate or heavy rain with thunder,9.000072000000001
+Bahamas,Nassau,2024-09-28 06:00:00,28.3,84,1014.0,Partly cloudy,5.694490000000001
+Bahamas,Nassau,2024-09-29 05:30:00,27.3,89,1014.0,Partly cloudy,4.805594000000001
+Bahamas,Nassau,2024-09-30 05:30:00,29.4,79,1014.0,Partly cloudy,5.3889320000000005

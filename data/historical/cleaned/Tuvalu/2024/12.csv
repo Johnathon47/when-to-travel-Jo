@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Tuvalu,Funafuti,2024-12-01 22:45:00,28.3,84,1009.0,Partly cloudy,3.3055820000000002
+Tuvalu,Funafuti,2024-12-02 22:30:00,27.1,94,1009.0,Moderate rain at times,6.194494000000001
+Tuvalu,Funafuti,2024-12-03 22:45:00,29.2,84,1009.0,Partly cloudy,7.50006
+Tuvalu,Funafuti,2024-12-04 22:30:00,30.2,79,1009.0,Partly cloudy,7.6945060000000005
+Tuvalu,Funafuti,2024-12-05 22:30:00,29.3,79,1010.0,Partly cloudy,6.6111640000000005
+Tuvalu,Funafuti,2024-12-06 22:45:00,30.3,79,1009.0,Partly cloudy,8.111176
+Tuvalu,Funafuti,2024-12-07 22:45:00,29.1,84,1007.0,Partly cloudy,5.611156
+Tuvalu,Funafuti,2024-12-08 22:30:00,29.2,84,1006.0,Overcast,4.611148000000001
+Tuvalu,Funafuti,2024-12-09 23:00:00,29.4,79,1007.0,Partly cloudy,3.8055860000000004
+Tuvalu,Funafuti,2024-12-10 23:00:00,29.4,79,1008.0,Partly cloudy,4.111144
+Tuvalu,Funafuti,2024-12-11 22:45:00,29.3,79,1006.0,Partly cloudy,3.8055860000000004
+Tuvalu,Funafuti,2024-12-12 22:45:00,27.3,94,1007.0,Overcast,1.0000080000000002
+Tuvalu,Funafuti,2024-12-13 23:00:00,28.1,84,1007.0,Partly cloudy,3.0000240000000007
+Tuvalu,Funafuti,2024-12-14 23:30:00,27.4,89,1007.0,Partly cloudy,1.1944540000000001
+Tuvalu,Funafuti,2024-12-15 22:45:00,27.3,94,1007.0,Partly cloudy,5.111152
+Tuvalu,Funafuti,2024-12-16 22:30:00,28.1,84,1006.0,Partly cloudy,5.694490000000001
+Tuvalu,Funafuti,2024-12-17 22:45:00,28.1,84,1006.0,Partly cloudy,5.888936
+Tuvalu,Funafuti,2024-12-18 22:15:00,28.3,84,1007.0,Overcast,5.888936
+Tuvalu,Funafuti,2024-12-19 22:00:00,28.4,78,1010.0,Light rain shower,6.500052
+Tuvalu,Funafuti,2024-12-20 22:45:00,27.5,79,1012.0,Light rain shower,8.111176
+Tuvalu,Funafuti,2024-12-21 22:45:00,28.5,77,1010.0,Patchy rain nearby,6.000048000000001
+Tuvalu,Funafuti,2024-12-22 22:15:00,29.1,74,1010.0,Patchy rain nearby,4.3055900000000005
+Tuvalu,Funafuti,2024-12-23 22:15:00,28.7,77,1011.0,Patchy rain nearby,4.694482
+Tuvalu,Funafuti,2024-12-24 22:45:00,29.1,73,1011.0,Patchy rain nearby,6.388940000000001
+Tuvalu,Funafuti,2024-12-25 22:15:00,29.0,68,1012.0,Partly Cloudy,6.194494000000001
+Tuvalu,Funafuti,2024-12-26 22:30:00,28.4,76,1012.0,Light rain shower,6.000048000000001
+Tuvalu,Funafuti,2024-12-27 22:15:00,29.4,79,1011.0,Partly cloudy,3.1944700000000004
+Tuvalu,Funafuti,2024-12-28 22:45:00,28.7,77,1011.0,Patchy rain nearby,7.111168000000001
+Tuvalu,Funafuti,2024-12-29 22:15:00,29.3,79,1011.0,Partly cloudy,5.694490000000001
+Tuvalu,Funafuti,2024-12-30 22:30:00,29.3,79,1011.0,Partly cloudy,2.3055740000000005
+Tuvalu,Funafuti,2024-12-31 22:30:00,29.2,75,1009.0,Partly cloudy,3.0000240000000007

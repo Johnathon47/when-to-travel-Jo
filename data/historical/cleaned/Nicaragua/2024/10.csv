@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Nicaragua,Managua,2024-10-01 04:00:00,23.4,100,1009.0,Partly cloudy,1.3055660000000002
+Nicaragua,Managua,2024-10-02 03:30:00,22.4,98,1009.0,Moderate rain,2.50002
+Nicaragua,Managua,2024-10-03 03:30:00,22.2,93,1010.0,Partly Cloudy,1.5000120000000003
+Nicaragua,Managua,2024-10-04 03:45:00,24.1,94,1010.0,Partly cloudy,1.3055660000000002
+Nicaragua,Managua,2024-10-05 03:30:00,23.1,95,1011.0,Mist,1.3889
+Nicaragua,Managua,2024-10-06 03:15:00,22.7,95,1011.0,Light rain shower,1.694458
+Nicaragua,Managua,2024-10-07 03:45:00,24.4,100,1010.0,Partly cloudy,1.5000120000000003
+Nicaragua,Managua,2024-10-08 03:45:00,23.1,94,1008.0,Partly cloudy,1.3055660000000002
+Nicaragua,Managua,2024-10-09 03:45:00,23.0,93,1010.0,Patchy rain nearby,1.3055660000000002
+Nicaragua,Managua,2024-10-10 03:45:00,23.1,96,1012.0,Light rain shower,1.11112
+Nicaragua,Managua,2024-10-11 03:45:00,22.6,95,1011.0,Light rain shower,1.0000080000000002
+Nicaragua,Managua,2024-10-12 03:45:00,21.5,89,1010.0,Partly Cloudy,1.0000080000000002
+Nicaragua,Managua,2024-10-13 03:30:00,25.0,89,1010.0,Partly cloudy,2.8889120000000004
+Nicaragua,Managua,2024-10-14 03:30:00,21.8,87,1013.0,Partly Cloudy,2.0000160000000005
+Nicaragua,Managua,2024-10-15 03:30:00,21.6,88,1012.0,Clear,1.611124
+Nicaragua,Managua,2024-10-16 03:30:00,24.3,94,1010.0,Partly cloudy,1.694458
+Nicaragua,Managua,2024-10-17 03:30:00,22.9,91,1009.0,Patchy rain nearby,1.0000080000000002
+Nicaragua,Managua,2024-10-18 03:30:00,22.4,91,1009.0,Patchy rain nearby,1.0000080000000002
+Nicaragua,Managua,2024-10-19 03:30:00,23.3,97,1010.0,Light rain shower,2.0000160000000005
+Nicaragua,Managua,2024-10-20 03:30:00,22.9,94,1010.0,Patchy rain nearby,1.3055660000000002
+Nicaragua,Managua,2024-10-21 03:15:00,22.2,90,1009.0,Clear,1.3055660000000002
+Nicaragua,Managua,2024-10-22 03:15:00,22.0,90,1010.0,Partly Cloudy,1.0000080000000002
+Nicaragua,Managua,2024-10-23 03:30:00,22.5,91,1011.0,Clear,2.194462
+Nicaragua,Managua,2024-10-25 03:15:00,22.4,86,1010.0,Partly Cloudy,2.194462
+Nicaragua,Managua,2024-10-26 03:15:00,22.9,85,1010.0,Overcast,1.8889040000000001
+Nicaragua,Managua,2024-10-27 03:15:00,23.9,76,1009.0,Partly Cloudy,3.8889200000000006
+Nicaragua,Managua,2024-10-28 03:15:00,22.8,82,1009.0,Partly Cloudy,1.8055700000000001
+Nicaragua,Managua,2024-10-29 03:00:00,21.9,90,1010.0,Clear,3.3055820000000002
+Nicaragua,Managua,2024-10-30 03:00:00,22.1,89,1010.0,Cloudy,2.805578
+Nicaragua,Managua,2024-10-31 03:00:00,22.2,91,1009.0,Light rain shower,1.0000080000000002

@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Slovenia,Ljubljana,2025-05-01 10:45:00,19.1,56,1022.0,Sunny,1.0000080000000002
+Slovenia,Ljubljana,2025-05-02 11:15:00,25.2,36,1020.0,Sunny,1.0000080000000002
+Slovenia,Ljubljana,2025-05-03 11:00:00,22.1,57,1015.0,Sunny,4.194478
+Slovenia,Ljubljana,2025-05-04 10:45:00,23.2,50,1008.0,Cloudy,4.611148000000001
+Slovenia,Ljubljana,2025-05-05 11:00:00,12.1,88,1009.0,Overcast,1.8055700000000001
+Slovenia,Ljubljana,2025-05-06 11:00:00,10.3,94,1012.0,Light rain,1.3055660000000002
+Slovenia,Ljubljana,2025-05-07 10:45:00,12.3,67,1015.0,Partly cloudy,1.5000120000000003
+Slovenia,Ljubljana,2025-05-08 10:45:00,10.1,87,1012.0,Light rain,1.0000080000000002
+Slovenia,Ljubljana,2025-05-09 11:15:00,11.2,66,1017.0,Overcast,1.8889040000000001
+Slovenia,Ljubljana,2025-05-10 11:00:00,14.1,47,1021.0,Partly cloudy,1.8889040000000001
+Slovenia,Ljubljana,2025-05-11 10:45:00,16.1,59,1016.0,Partly cloudy,1.0000080000000002
+Slovenia,Ljubljana,2025-05-12 11:15:00,17.4,55,1012.0,Partly cloudy,1.3889
+Slovenia,Ljubljana,2025-05-13 11:15:00,16.2,45,1017.0,Partly cloudy,2.8889120000000004
+Slovenia,Ljubljana,2025-05-14 11:15:00,17.2,42,1017.0,Sunny,1.0000080000000002
+Slovenia,Ljubljana,2025-05-15 11:00:00,21.3,49,1008.0,Partly Cloudy,5.111152
+Slovenia,Ljubljana,2025-05-16 11:00:00,12.3,62,1013.0,Partly cloudy,2.8889120000000004
+Slovenia,Ljubljana,2025-05-17 10:45:00,18.1,45,1014.0,Patchy rain nearby,1.0000080000000002
+Slovenia,Ljubljana,2025-05-18 10:45:00,15.0,67,1014.0,Partly cloudy,1.8055700000000001
+Slovenia,Ljubljana,2025-05-19 11:00:00,18.2,64,1017.0,Patchy rain nearby,2.194462
+Slovenia,Ljubljana,2025-05-20 11:00:00,19.3,64,1017.0,Partly cloudy,1.11112
+Slovenia,Ljubljana,2025-05-21 10:45:00,16.4,82,1013.0,Partly cloudy,1.3055660000000002
+Slovenia,Ljubljana,2025-05-22 10:45:00,16.3,82,1009.0,Partly cloudy,2.111128
+Slovenia,Ljubljana,2025-05-23 11:00:00,11.2,87,1013.0,Partly cloudy,1.0000080000000002
+Slovenia,Ljubljana,2025-05-24 10:45:00,18.3,37,1016.0,Patchy rain nearby,2.0000160000000005
+Slovenia,Ljubljana,2025-05-25 10:30:00,15.1,55,1018.0,Sunny,1.0000080000000002
+Slovenia,Ljubljana,2025-05-26 11:00:00,19.2,64,1016.0,Partly cloudy,1.0000080000000002
+Slovenia,Ljubljana,2025-05-27 11:00:00,22.4,46,1017.0,Patchy rain nearby,2.6111320000000005
+Slovenia,Ljubljana,2025-05-28 10:45:00,21.3,53,1019.0,Sunny,1.0000080000000002
+Slovenia,Ljubljana,2025-05-29 10:45:00,18.1,73,1018.0,Partly cloudy,1.1944540000000001
+Slovenia,Ljubljana,2025-05-30 10:45:00,18.3,60,1023.0,Partly cloudy,1.0000080000000002
+Slovenia,Ljubljana,2025-05-31 10:45:00,23.0,61,1022.0,Sunny,1.0000080000000002

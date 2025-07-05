@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Venezuela,Caracas,2024-06-01 10:30:00,31.0,71,1013.0,Partly cloudy,1.11112
+Venezuela,Caracas,2024-06-02 10:00:00,28.0,84,1013.0,Partly cloudy,1.8889040000000001
+Venezuela,Caracas,2024-06-03 10:15:00,29.0,79,1013.0,Partly cloudy,1.694458
+Venezuela,Caracas,2024-06-04 10:15:00,26.0,89,1013.0,Partly cloudy,1.694458
+Venezuela,Caracas,2024-06-05 10:15:00,27.0,89,1012.0,Partly cloudy,1.694458
+Venezuela,Caracas,2024-06-06 10:00:00,26.0,94,1012.0,Partly cloudy,3.111136
+Venezuela,Caracas,2024-06-07 10:00:00,28.1,74,1014.0,Partly cloudy,2.50002
+Venezuela,Caracas,2024-06-08 10:15:00,27.2,94,1015.0,Partly cloudy,3.111136
+Venezuela,Caracas,2024-06-09 10:15:00,28.0,84,1015.0,Partly cloudy,2.50002
+Venezuela,Caracas,2024-06-10 10:30:00,27.2,79,1013.0,Light drizzle,1.11112
+Venezuela,Caracas,2024-06-11 10:15:00,30.3,70,1015.0,Partly cloudy,1.11112
+Venezuela,Caracas,2024-06-12 10:15:00,30.2,70,1015.0,Partly cloudy,1.694458
+Venezuela,Caracas,2024-06-13 10:00:00,30.2,70,1014.0,Partly cloudy,1.11112
+Venezuela,Caracas,2024-06-14 10:00:00,24.7,70,1015.0,Patchy rain nearby,1.3889
+Venezuela,Caracas,2024-06-15 10:00:00,27.0,94,1014.0,Partly cloudy,1.8889040000000001
+Venezuela,Caracas,2024-06-16 09:45:00,27.1,89,1015.0,Partly cloudy,1.8889040000000001
+Venezuela,Caracas,2024-06-17 10:00:00,24.5,75,1015.0,Patchy rain nearby,1.0000080000000002
+Venezuela,Caracas,2024-06-18 10:00:00,28.3,84,1012.0,Partly cloudy,2.50002
+Venezuela,Caracas,2024-06-19 10:00:00,27.3,89,1012.0,Partly cloudy,2.50002
+Venezuela,Caracas,2024-06-20 09:45:00,26.2,94,1013.0,Partly cloudy,2.50002
+Venezuela,Caracas,2024-06-21 09:45:00,23.7,79,1015.0,Light rain,3.111136
+Venezuela,Caracas,2024-06-22 09:45:00,27.1,89,1014.0,Partly cloudy,1.694458
+Venezuela,Caracas,2024-06-23 09:45:00,23.1,79,1015.0,Patchy light drizzle,1.1944540000000001
+Venezuela,Caracas,2024-06-24 09:45:00,27.1,89,1013.0,Partly cloudy,1.694458
+Venezuela,Caracas,2024-06-25 09:15:00,22.9,80,1016.0,Patchy rain nearby,1.0000080000000002
+Venezuela,Caracas,2024-06-26 09:30:00,30.1,70,1014.0,Sunny,4.194478
+Venezuela,Caracas,2024-06-27 09:15:00,29.1,62,1014.0,Sunny,4.694482
+Venezuela,Caracas,2024-06-28 09:15:00,28.0,66,1014.0,Sunny,4.194478
+Venezuela,Caracas,2024-06-29 08:45:00,26.0,61,1015.0,Sunny,1.0000080000000002
+Venezuela,Caracas,2024-06-30 09:30:00,28.1,70,1014.0,Sunny,3.6111400000000002

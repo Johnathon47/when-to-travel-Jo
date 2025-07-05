@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Cameroon,Yaounde,2024-05-16 09:45:00,25.0,78,1014.0,Partly Cloudy,1.0000080000000002
+Cameroon,Yaounde,2024-05-16 15:00:00,32.0,56,1014.0,Partly cloudy,1.8889040000000001
+Cameroon,Yaounde,2024-05-17 17:00:00,32.0,56,1013.0,Partly cloudy,1.0000080000000002
+Cameroon,Yaounde,2024-05-18 15:30:00,31.0,59,1013.0,Partly cloudy,1.0000080000000002
+Cameroon,Yaounde,2024-05-19 15:00:00,32.0,56,1013.0,Partly cloudy,1.0000080000000002
+Cameroon,Yaounde,2024-05-20 15:30:00,31.0,59,1013.0,Patchy light rain with thunder,2.50002
+Cameroon,Yaounde,2024-05-21 15:45:00,30.7,54,1010.0,Thundery outbreaks in nearby,1.3055660000000002
+Cameroon,Yaounde,2024-05-22 15:15:00,26.0,70,1015.0,Partly cloudy,1.694458
+Cameroon,Yaounde,2024-05-23 15:00:00,29.0,62,1014.0,Partly cloudy,2.50002
+Cameroon,Yaounde,2024-05-24 15:30:00,28.0,66,1015.0,Patchy light rain with thunder,3.6111400000000002
+Cameroon,Yaounde,2024-05-25 15:00:00,30.0,59,1015.0,Partly cloudy,1.0000080000000002
+Cameroon,Yaounde,2024-05-26 15:00:00,31.0,55,1015.0,Partly cloudy,1.694458
+Cameroon,Yaounde,2024-05-27 15:30:00,30.0,59,1015.0,Moderate or heavy rain with thunder,1.8889040000000001
+Cameroon,Yaounde,2024-05-28 15:30:00,29.0,66,1017.0,Partly cloudy,2.50002
+Cameroon,Yaounde,2024-05-29 15:00:00,30.0,59,1015.0,Partly cloudy,1.0000080000000002
+Cameroon,Yaounde,2024-05-30 14:45:00,30.0,66,1014.0,Partly cloudy,1.8889040000000001
+Cameroon,Bafoussam,2024-05-31 15:15:00,23.0,76,1013.0,Patchy rain nearby,1.5000120000000003

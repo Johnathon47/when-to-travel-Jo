@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vanuatu,Port Vila,2025-05-01 20:00:00,26.3,94,1012.0,Partly cloudy,2.6111320000000005
+Vanuatu,Port Vila,2025-05-02 20:00:00,26.2,94,1013.0,Partly cloudy,6.000048000000001
+Vanuatu,Port Vila,2025-05-03 20:00:00,25.1,89,1015.0,Partly cloudy,7.805618000000001
+Vanuatu,Port Vila,2025-05-04 19:45:00,24.2,94,1015.0,Partly cloudy,8.694514000000002
+Vanuatu,Port Vila,2025-05-05 20:00:00,24.3,94,1014.0,Partly cloudy,7.50006
+Vanuatu,Port Vila,2025-05-06 20:00:00,25.2,94,1011.0,Partly cloudy,4.805594000000001
+Vanuatu,Port Vila,2025-05-07 19:45:00,26.2,89,1012.0,Overcast,7.111168000000001
+Vanuatu,Port Vila,2025-05-08 19:45:00,23.1,100,1010.0,Partly cloudy,8.000064000000002
+Vanuatu,Port Vila,2025-05-09 20:15:00,24.2,100,1009.0,Light rain,6.694498000000001
+Vanuatu,Port Vila,2025-05-10 20:00:00,25.3,100,1004.0,Partly cloudy,3.1944700000000004
+Vanuatu,Port Vila,2025-05-11 19:45:00,26.3,79,1007.0,Partly cloudy,7.000056000000001
+Vanuatu,Port Vila,2025-05-12 20:15:00,23.2,100,1012.0,Partly cloudy,6.111160000000001
+Vanuatu,Port Vila,2025-05-13 20:15:00,22.0,88,1012.0,Partly cloudy,7.50006
+Vanuatu,Port Vila,2025-05-14 20:15:00,22.2,88,1013.0,Patchy rain nearby,6.000048000000001
+Vanuatu,Port Vila,2025-05-15 20:00:00,24.1,83,1013.0,Patchy rain nearby,6.888944000000001
+Vanuatu,Port Vila,2025-05-16 20:00:00,26.1,84,1014.0,Patchy rain nearby,7.888952000000001
+Vanuatu,Port Vila,2025-05-17 19:45:00,23.2,89,1013.0,Partly Cloudy,5.00004
+Vanuatu,Port Vila,2025-05-18 19:45:00,26.4,94,1012.0,Light rain,5.3889320000000005
+Vanuatu,Port Vila,2025-05-19 20:00:00,26.2,89,1013.0,Partly cloudy,5.305598000000001
+Vanuatu,Port Vila,2025-05-20 20:00:00,24.3,94,1013.0,Partly Cloudy,3.8055860000000004
+Vanuatu,Port Vila,2025-05-21 19:45:00,24.1,89,1012.0,Partly cloudy,3.8055860000000004
+Vanuatu,Port Vila,2025-05-22 19:45:00,24.3,89,1010.0,Clear,4.611148000000001
+Vanuatu,Port Vila,2025-05-23 20:00:00,25.2,94,1012.0,Partly cloudy,6.805610000000001
+Vanuatu,Port Vila,2025-05-24 19:45:00,25.3,94,1014.0,Partly Cloudy,5.888936
+Vanuatu,Port Vila,2025-05-25 19:30:00,24.4,94,1014.0,Patchy rain nearby,7.194502
+Vanuatu,Port Vila,2025-05-26 20:00:00,22.0,88,1014.0,Partly Cloudy,6.500052
+Vanuatu,Port Vila,2025-05-27 20:00:00,20.1,94,1013.0,Partly Cloudy,3.8889200000000006
+Vanuatu,Port Vila,2025-05-28 19:45:00,23.3,89,1013.0,Partly Cloudy,2.194462
+Vanuatu,Port Vila,2025-05-29 19:45:00,25.1,79,1014.0,Partly cloudy,2.8889120000000004
+Vanuatu,Port Vila,2025-05-30 20:00:00,26.2,89,1017.0,Overcast,5.305598000000001
+Vanuatu,Port Vila,2025-05-31 19:45:00,24.1,89,1018.0,Partly Cloudy,5.611156

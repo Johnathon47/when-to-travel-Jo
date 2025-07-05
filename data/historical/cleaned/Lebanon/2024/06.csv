@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Lebanon,Beirut,2024-06-01 17:15:00,27.0,45,1018.0,Sunny,4.194478
+Lebanon,Beirut,2024-06-02 17:00:00,28.0,66,1013.0,Sunny,5.611156
+Lebanon,Beirut,2024-06-03 17:15:00,31.0,52,1009.0,Sunny,4.694482
+Lebanon,Beirut,2024-06-04 17:15:00,27.0,79,1009.0,Sunny,1.8889040000000001
+Lebanon,Beirut,2024-06-05 17:15:00,25.8,63,1007.0,Sunny,1.3055660000000002
+Lebanon,Beirut,2024-06-06 17:00:00,27.0,84,1009.0,Mist,1.8889040000000001
+Lebanon,Beirut,2024-06-07 17:00:00,28.2,84,1008.0,Sunny,2.50002
+Lebanon,Beirut,2024-06-08 17:15:00,29.3,66,1005.0,Partly cloudy,1.8889040000000001
+Lebanon,Beirut,2024-06-09 17:15:00,28.1,70,1007.0,Partly cloudy,5.611156
+Lebanon,Beirut,2024-06-10 17:15:00,28.4,74,1010.0,Partly cloudy,2.50002
+Lebanon,Beirut,2024-06-11 17:00:00,28.1,74,1012.0,Partly cloudy,3.111136
+Lebanon,Beirut,2024-06-12 17:15:00,28.0,74,1012.0,Partly cloudy,2.50002
+Lebanon,Beirut,2024-06-13 17:00:00,30.3,66,1012.0,Sunny,2.50002
+Lebanon,Beirut,2024-06-14 17:00:00,31.2,66,1009.0,Sunny,2.50002
+Lebanon,Beirut,2024-06-15 17:00:00,27.7,59,1006.0,Sunny,4.194478
+Lebanon,Beirut,2024-06-16 16:45:00,29.2,62,1009.0,Sunny,5.611156
+Lebanon,Beirut,2024-06-17 17:00:00,28.0,62,1011.0,Partly cloudy,3.6111400000000002
+Lebanon,Beirut,2024-06-18 17:00:00,25.2,61,1009.0,Sunny,2.50002
+Lebanon,Beirut,2024-06-19 16:45:00,26.2,60,1008.0,Sunny,2.0000160000000005
+Lebanon,Beirut,2024-06-20 16:45:00,26.7,66,1007.0,Sunny,1.3889
+Lebanon,Beirut,2024-06-21 16:30:00,29.3,66,1009.0,Partly cloudy,2.50002
+Lebanon,Beirut,2024-06-22 16:45:00,29.3,62,1005.0,Partly cloudy,5.305598000000001
+Lebanon,Beirut,2024-06-23 16:45:00,30.1,70,1006.0,Partly cloudy,5.611156
+Lebanon,Beirut,2024-06-24 16:45:00,30.4,66,1008.0,Partly cloudy,4.194478
+Lebanon,Beirut,2024-06-25 16:15:00,27.3,65,1007.0,Sunny,3.6944740000000005
+Lebanon,Beirut,2024-06-26 16:30:00,29.2,70,1007.0,Partly cloudy,3.111136
+Lebanon,Beirut,2024-06-27 16:15:00,30.2,70,1007.0,Partly cloudy,3.111136
+Lebanon,Beirut,2024-06-28 16:15:00,30.3,70,1006.0,Partly cloudy,5.305598000000001
+Lebanon,Beirut,2024-06-29 15:45:00,31.4,63,1004.0,Partly cloudy,6.111160000000001
+Lebanon,Beirut,2024-06-30 16:30:00,30.4,62,1006.0,Partly cloudy,3.6111400000000002

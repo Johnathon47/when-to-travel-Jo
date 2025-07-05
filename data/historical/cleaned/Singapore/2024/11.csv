@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Singapore,Singapore,2024-11-01 17:15:00,28.0,84,1008.0,Partly cloudy,7.000056000000001
+Singapore,Singapore,2024-11-02 17:15:00,25.6,89,1010.0,Moderate or heavy rain shower,4.611148000000001
+Singapore,Singapore,2024-11-03 17:15:00,28.1,79,1008.0,Partly cloudy,4.805594000000001
+Singapore,Singapore,2024-11-04 17:00:00,30.3,70,1008.0,Partly cloudy,3.6111400000000002
+Singapore,Singapore,2024-11-05 17:00:00,30.1,70,1007.0,Partly cloudy,2.3889080000000003
+Singapore,Singapore,2024-11-06 17:00:00,30.3,75,1007.0,Partly cloudy,2.111128
+Singapore,Singapore,2024-11-07 17:00:00,26.1,94,1009.0,Light rain,5.305598000000001
+Singapore,Singapore,2024-11-08 17:00:00,27.7,76,1008.0,Patchy rain nearby,5.194486
+Singapore,Singapore,2024-11-09 17:00:00,30.1,70,1008.0,Partly cloudy,3.3055820000000002
+Singapore,Singapore,2024-11-10 16:45:00,27.3,84,1007.0,Moderate or heavy rain with thunder,3.8055860000000004
+Singapore,Singapore,2024-11-11 17:00:00,27.1,84,1007.0,Moderate or heavy rain with thunder,1.3889
+Singapore,Singapore,2024-11-12 17:00:00,29.3,70,1006.0,Moderate or heavy rain with thunder,3.0000240000000007
+Singapore,Singapore,2024-11-13 17:00:00,27.1,89,1007.0,Partly cloudy,2.0000160000000005
+Singapore,Singapore,2024-11-14 17:15:00,30.3,66,1008.0,Partly cloudy,3.5000280000000004
+Singapore,Singapore,2024-11-15 17:00:00,30.1,66,1007.0,Overcast,1.611124
+Singapore,Singapore,2024-11-16 17:00:00,26.1,94,1007.0,Moderate or heavy rain with thunder,1.0000080000000002
+Singapore,Singapore,2024-11-17 16:45:00,27.1,84,1007.0,Partly cloudy,1.5000120000000003
+Singapore,Singapore,2024-11-18 16:45:00,28.2,79,1007.0,Light rain,3.6944740000000005
+Singapore,Singapore,2024-11-19 16:45:00,26.3,94,1008.0,Light rain,5.500044000000001
+Singapore,Singapore,2024-11-20 16:45:00,29.1,75,1006.0,Partly cloudy,3.111136
+Singapore,Singapore,2024-11-21 16:45:00,29.0,75,1005.0,Overcast,3.388916
+Singapore,Singapore,2024-11-22 16:45:00,25.1,94,1006.0,Moderate or heavy rain with thunder,2.3055740000000005
+Singapore,Singapore,2024-11-23 17:00:00,28.2,79,1006.0,Light rain,1.3889
+Singapore,Singapore,2024-11-24 16:30:00,30.0,70,1007.0,Moderate or heavy rain with thunder,1.11112
+Singapore,Singapore,2024-11-25 16:45:00,28.4,79,1006.0,Partly cloudy,2.194462
+Singapore,Singapore,2024-11-26 17:00:00,25.1,89,1006.0,Moderate or heavy rain with thunder,1.0000080000000002
+Singapore,Singapore,2024-11-27 16:45:00,25.3,94,1007.0,Light rain,3.111136
+Singapore,Singapore,2024-11-28 18:45:00,26.0,94,1007.0,Light rain,1.0000080000000002
+Singapore,Singapore,2024-11-29 18:30:00,27.3,79,1008.0,Partly cloudy,1.694458
+Singapore,Singapore,2024-11-30 18:30:00,30.3,66,1006.0,Partly cloudy,3.6944740000000005

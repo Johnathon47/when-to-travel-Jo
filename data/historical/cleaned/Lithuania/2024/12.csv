@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Lithuania,Vilnius,2024-12-01 12:45:00,5.3,75,1030.0,Sunny,3.5000280000000004
+Lithuania,Vilnius,2024-12-02 12:30:00,3.1,87,1019.0,Partly cloudy,5.111152
+Lithuania,Vilnius,2024-12-03 12:45:00,3.1,100,1015.0,Light rain,4.000032000000001
+Lithuania,Vilnius,2024-12-04 12:45:00,3.1,93,1023.0,Light drizzle,4.3055900000000005
+Lithuania,Vilnius,2024-12-05 12:30:00,-0.7,86,1028.0,Overcast,4.694482
+Lithuania,Vilnius,2024-12-06 12:45:00,-2.8,80,1020.0,Overcast,6.000048000000001
+Lithuania,Vilnius,2024-12-07 12:30:00,0.1,86,1017.0,Overcast,3.5000280000000004
+Lithuania,Vilnius,2024-12-08 12:15:00,1.0,100,1018.0,Mist,3.1944700000000004
+Lithuania,Vilnius,2024-12-09 12:45:00,0.3,93,1027.0,Overcast,3.8055860000000004
+Lithuania,Vilnius,2024-12-10 12:45:00,2.3,77,1030.0,Overcast,4.194478
+Lithuania,Vilnius,2024-12-11 13:00:00,-1.7,93,1022.0,Light freezing rain,3.0000240000000007
+Lithuania,Vilnius,2024-12-12 12:45:00,0.2,74,1023.0,Overcast,4.611148000000001
+Lithuania,Vilnius,2024-12-13 13:00:00,-3.9,74,1032.0,Sunny,3.1944700000000004
+Lithuania,Vilnius,2024-12-14 12:30:00,-0.8,69,1012.0,Sunny,5.500044000000001
+Lithuania,Vilnius,2024-12-15 12:30:00,1.4,86,999.0,Moderate or heavy sleet,7.194502
+Lithuania,Vilnius,2024-12-16 13:00:00,6.2,87,994.0,Partly cloudy,9.694522000000001
+Lithuania,Vilnius,2024-12-17 12:45:00,5.0,70,1001.0,Partly cloudy,8.388956
+Lithuania,Vilnius,2024-12-18 12:30:00,1.1,86,1015.0,Sunny,2.3055740000000005
+Lithuania,Vilnius,2024-12-19 12:30:00,6.8,90,1001.0,Overcast,5.111152
+Lithuania,Vilnius,2024-12-20 12:15:00,5.3,78,999.0,Patchy rain nearby,5.611156
+Lithuania,Vilnius,2024-12-21 12:45:00,1.4,86,1013.0,Cloudy,4.3055900000000005
+Lithuania,Vilnius,2024-12-22 12:15:00,1.9,79,1001.0,Overcast,6.888944000000001
+Lithuania,Vilnius,2024-12-23 12:45:00,0.9,96,1006.0,Light snow,3.5000280000000004
+Lithuania,Vilnius,2024-12-24 12:45:00,2.1,95,1021.0,Mist,1.0000080000000002
+Lithuania,Vilnius,2024-12-25 12:15:00,1.1,77,1034.0,Sunny,3.388916
+Lithuania,Vilnius,2024-12-26 12:30:00,2.6,91,1036.0,Overcast,3.1944700000000004
+Lithuania,Vilnius,2024-12-27 12:30:00,2.3,100,1032.0,Overcast,1.694458
+Lithuania,Vilnius,2024-12-28 12:15:00,3.3,100,1027.0,Fog,2.6111320000000005
+Lithuania,Vilnius,2024-12-29 12:15:00,5.2,86,1021.0,Overcast,4.500036000000001
+Lithuania,Vilnius,2024-12-30 12:30:00,3.2,93,1014.0,Overcast,7.611172000000001
+Lithuania,Vilnius,2024-12-31 12:00:00,5.2,93,1013.0,Light rain,5.694490000000001

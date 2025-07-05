@@ -1,0 +1,63 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vietnam,Ban Lom,2025-05-01 16:00:00,22.7,95,1014.0,Mist,1.0000080000000002
+Vietnam,Hanoi,2025-05-01 16:00:00,29.1,66,1012.0,Overcast,2.0000160000000005
+Vietnam,Ban Lom,2025-05-02 16:00:00,31.4,49,1008.0,Sunny,1.0000080000000002
+Vietnam,Hanoi,2025-05-02 16:00:00,34.4,47,1008.0,Partly Cloudy,2.3055740000000005
+Vietnam,Ban Lom,2025-05-03 16:00:00,34.3,44,1004.0,Patchy rain nearby,1.611124
+Vietnam,Hanoi,2025-05-03 16:00:00,33.3,63,1005.0,Partly cloudy,5.694490000000001
+Vietnam,Ban Lom,2025-05-04 15:45:00,34.9,41,1003.0,Patchy rain nearby,2.8889120000000004
+Vietnam,Hanoi,2025-05-04 15:45:00,31.4,75,1003.0,Thundery outbreaks in nearby,3.8055860000000004
+Vietnam,Ban Lom,2025-05-05 16:00:00,35.2,37,1002.0,Sunny,2.194462
+Vietnam,Hanoi,2025-05-05 16:00:00,35.2,60,1002.0,Patchy rain nearby,2.8889120000000004
+Vietnam,Ban Lom,2025-05-06 16:00:00,35.6,37,1002.0,Sunny,1.694458
+Vietnam,Hanoi,2025-05-06 16:00:00,34.0,63,1003.0,Thundery outbreaks in nearby,5.194486
+Vietnam,Ban Lom,2025-05-07 15:45:00,35.4,41,1001.0,Patchy rain nearby,2.0000160000000005
+Vietnam,Hanoi,2025-05-07 15:45:00,34.2,67,1001.0,Sunny,3.111136
+Vietnam,Ban Lom,2025-05-08 15:45:00,40.0,25,1000.0,Sunny,3.3055820000000002
+Vietnam,Hanoi,2025-05-08 15:45:00,36.4,64,1000.0,Sunny,3.6111400000000002
+Vietnam,Ban Lom,2025-05-09 16:15:00,32.1,53,1003.0,Patchy rain nearby,2.194462
+Vietnam,Hanoi,2025-05-09 16:15:00,33.2,59,1003.0,Partly cloudy,3.6944740000000005
+Vietnam,Ban Lom,2025-05-10 16:00:00,28.1,84,1006.0,Moderate or heavy rain in area with thunder,2.0000160000000005
+Vietnam,Hanoi,2025-05-10 16:00:00,29.3,75,1006.0,Partly cloudy,3.8055860000000004
+Vietnam,Ban Lom,2025-05-11 15:45:00,21.8,92,1011.0,Patchy rain nearby,1.3889
+Vietnam,Hanoi,2025-05-11 15:45:00,27.1,54,1011.0,Partly Cloudy,4.500036000000001
+Vietnam,Ban Lom,2025-05-12 16:15:00,30.7,45,1006.0,Sunny,1.694458
+Vietnam,Hanoi,2025-05-12 16:15:00,30.0,40,1008.0,Sunny,2.6111320000000005
+Vietnam,Ban Lom,2025-05-13 16:15:00,31.0,55,1005.0,Patchy rain nearby,2.194462
+Vietnam,Hanoi,2025-05-13 16:15:00,31.1,59,1007.0,Partly Cloudy,5.194486
+Vietnam,Ban Lom,2025-05-14 16:15:00,30.1,67,1008.0,Light rain shower,2.111128
+Vietnam,Hanoi,2025-05-14 16:15:00,31.1,75,1007.0,Patchy rain nearby,3.8055860000000004
+Vietnam,Ban Lom,2025-05-15 16:00:00,28.2,82,1008.0,Light rain shower,1.0000080000000002
+Vietnam,Hanoi,2025-05-15 16:00:00,31.1,75,1007.0,Partly cloudy,3.1944700000000004
+Vietnam,Ban Lom,2025-05-16 16:00:00,29.5,72,1007.0,Light rain shower,1.0000080000000002
+Vietnam,Hanoi,2025-05-16 16:00:00,32.1,67,1005.0,Partly cloudy,4.805594000000001
+Vietnam,Ban Lom,2025-05-17 15:45:00,31.0,62,1007.0,Patchy rain nearby,1.3055660000000002
+Vietnam,Hanoi,2025-05-17 15:45:00,32.2,71,1005.0,Moderate or heavy rain with thunder,2.805578
+Vietnam,Ban Lom,2025-05-18 15:45:00,32.4,57,1006.0,Patchy rain nearby,1.5000120000000003
+Vietnam,Hanoi,2025-05-18 15:45:00,33.0,67,1005.0,Partly cloudy,2.6111320000000005
+Vietnam,Ban Lom,2025-05-19 16:00:00,30.2,74,1004.0,Light rain shower,1.0000080000000002
+Vietnam,Hanoi,2025-05-19 16:00:00,31.1,75,1004.0,Partly cloudy,3.8889200000000006
+Vietnam,Ban Lom,2025-05-20 16:00:00,33.0,59,1002.0,Thundery outbreaks in nearby,1.611124
+Vietnam,Hanoi,2025-05-20 16:00:00,33.3,71,1003.0,Partly cloudy,3.5000280000000004
+Vietnam,Ban Lom,2025-05-21 15:45:00,35.2,50,1002.0,Thundery outbreaks in nearby,2.194462
+Vietnam,Hanoi,2025-05-21 15:45:00,33.4,75,1003.0,Moderate or heavy rain with thunder,2.6944660000000002
+Vietnam,Ban Lom,2025-05-22 15:45:00,33.6,57,1002.0,Thundery outbreaks in nearby,1.1944540000000001
+Vietnam,Hanoi,2025-05-22 15:45:00,32.0,75,1002.0,Partly cloudy,4.611148000000001
+Vietnam,Ban Lom,2025-05-23 16:00:00,26.1,92,1006.0,Patchy rain nearby,1.611124
+Vietnam,Hanoi,2025-05-23 16:00:00,25.0,100,1004.0,Partly cloudy,3.0000240000000007
+Vietnam,Ban Lom,2025-05-24 15:45:00,22.5,97,1012.0,Light rain shower,1.8889040000000001
+Vietnam,Hanoi,2025-05-24 15:45:00,25.3,83,1010.0,Overcast,4.500036000000001
+Vietnam,Ban Lom,2025-05-25 15:30:00,24.0,69,1014.0,Partly Cloudy,2.111128
+Vietnam,Hanoi,2025-05-25 15:30:00,25.0,69,1014.0,Partly cloudy,5.194486
+Vietnam,Ban Lom,2025-05-26 16:00:00,26.8,70,1011.0,Patchy rain nearby,2.3055740000000005
+Vietnam,Hanoi,2025-05-26 16:00:00,27.0,66,1012.0,Partly cloudy,2.6111320000000005
+Vietnam,Ban Lom,2025-05-27 16:00:00,24.5,87,1009.0,Patchy rain nearby,1.694458
+Vietnam,Hanoi,2025-05-27 16:00:00,25.1,83,1010.0,Mist,2.805578
+Vietnam,Ban Lom,2025-05-28 15:45:00,30.8,67,1004.0,Patchy rain nearby,1.8055700000000001
+Vietnam,Hanoi,2025-05-28 15:45:00,32.3,67,1005.0,Partly cloudy,1.0000080000000002
+Vietnam,Ban Lom,2025-05-29 15:45:00,28.7,85,1006.0,Light rain shower,1.8889040000000001
+Vietnam,Hanoi,2025-05-29 15:45:00,27.3,79,1005.0,Partly cloudy,5.500044000000001
+Vietnam,Ban Lom,2025-05-30 16:00:00,29.4,80,1005.0,Patchy rain nearby,1.1944540000000001
+Vietnam,Hanoi,2025-05-30 16:00:00,29.3,79,1005.0,Overcast,3.3055820000000002
+Vietnam,Ban Lom,2025-05-31 15:45:00,33.9,54,1002.0,Sunny,3.3055820000000002
+Vietnam,Hanoi,2025-05-31 15:45:00,34.3,63,1001.0,Partly cloudy,3.0000240000000007

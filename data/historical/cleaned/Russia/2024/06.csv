@@ -1,0 +1,38 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Russia,Moscow,2024-06-01 17:30:00,29.0,31,1014.0,Moderate or heavy rain with thunder,4.194478
+Russia,Moscow,2024-06-02 17:00:00,26.0,51,1012.0,Partly cloudy,4.194478
+Russia,Moscow,2024-06-03 17:15:00,21.0,69,1006.0,Moderate or heavy rain with thunder,3.111136
+Russia,Moscow,2024-06-04 17:15:00,24.0,54,1008.0,Sunny,7.194502
+Russia,Moscow,2024-06-05 17:15:00,26.0,51,1008.0,Sunny,3.111136
+Russia,Moscow,2024-06-06 17:00:00,19.0,83,1006.0,Patchy light rain with thunder,5.305598000000001
+Russia,Moscow,2024-06-07 17:00:00,20.0,68,1010.0,Partly cloudy,6.111160000000001
+Russia,Moscow,2024-06-08 17:15:00,22.3,33,1009.0,Sunny,4.194478
+Russia,Moscow,2024-06-09 17:15:00,21.2,38,1009.0,Sunny,3.111136
+Russia,Moscow,2024-06-10 17:15:00,17.3,94,1011.0,Overcast,3.111136
+Russia,Moscow,2024-06-11 17:00:00,23.2,73,1006.0,Moderate or heavy rain shower,6.111160000000001
+Russia,Moscow,2024-06-12 17:15:00,22.1,73,1009.0,Partly cloudy,3.111136
+Russia,Moscow,2024-06-13 17:00:00,18.1,94,1009.0,Moderate or heavy rain with thunder,6.111160000000001
+Russia,Moscow,2024-06-14 17:00:00,21.4,52,1012.0,Partly Cloudy,2.3055740000000005
+Russia,Moscow,2024-06-15 17:00:00,25.3,36,1014.0,Sunny,1.8889040000000001
+Russia,Moscow,2024-06-16 16:45:00,23.0,58,1015.0,Partly Cloudy,3.388916
+Russia,Moscow,2024-06-17 17:00:00,24.1,78,1008.0,Moderate or heavy rain with thunder,4.194478
+Russia,Moscow,2024-06-18 17:00:00,19.4,86,1008.0,Patchy rain nearby,5.611156
+Russia,Moscow,2024-06-19 17:00:00,25.5,45,1011.0,Partly Cloudy,3.8889200000000006
+Russia,Moscow,2024-06-20 16:45:00,13.0,88,1002.0,Light rain,9.694522000000001
+Russia,Lom,2024-06-20 16:45:00,21.3,91,998.0,Patchy rain nearby,1.5000120000000003
+Russia,Moscow,2024-06-21 16:45:00,21.2,43,1009.0,Sunny,6.111160000000001
+Russia,Lom,2024-06-21 16:45:00,17.3,62,1003.0,Patchy rain nearby,4.500036000000001
+Russia,Moscow,2024-06-22 16:45:00,22.3,41,1009.0,Partly cloudy,7.194502
+Russia,Moscow,2024-06-23 16:45:00,22.0,41,1008.0,Sunny,4.194478
+Russia,Moscow,2024-06-24 16:45:00,21.4,49,1010.0,Sunny,5.305598000000001
+Russia,Lom,2024-06-24 16:45:00,14.7,52,1008.0,Partly Cloudy,3.6944740000000005
+Russia,Saint Petersburg,2024-06-25 16:15:00,22.9,44,1017.0,Partly Cloudy,5.305598000000001
+Russia,Moscow,2024-06-25 16:15:00,21.7,44,1013.0,Sunny,5.500044000000001
+Russia,Moscow,2024-06-26 16:30:00,21.4,53,1012.0,Partly cloudy,7.194502
+Russia,Moscow,2024-06-27 16:15:00,25.3,41,1014.0,Sunny,6.111160000000001
+Russia,Lom,2024-06-27 16:15:00,20.5,57,1013.0,Partly Cloudy,2.6944660000000002
+Russia,Moscow,2024-06-28 16:15:00,27.3,32,1017.0,Sunny,1.8889040000000001
+Russia,Lom,2024-06-28 16:15:00,21.2,84,1014.0,Patchy rain nearby,2.111128
+Russia,Moscow,2024-06-29 15:45:00,31.2,36,1014.0,Partly cloudy,4.194478
+Russia,Moscow,2024-06-30 16:30:00,30.3,43,1012.0,Partly cloudy,5.305598000000001
+Russia,Lom,2024-06-30 16:30:00,25.1,69,1011.0,Patchy rain nearby,3.3055820000000002

@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Montenegro,Podgorica,2024-10-01 12:00:00,19.3,32,1017.0,Sunny,1.8055700000000001
+Montenegro,Podgorica,2024-10-02 11:30:00,20.1,46,1014.0,Sunny,1.5000120000000003
+Montenegro,Podgorica,2024-10-03 11:30:00,17.1,94,1011.0,Light rain,1.5000120000000003
+Montenegro,Podgorica,2024-10-04 11:45:00,19.4,94,1009.0,Moderate or heavy rain with thunder,2.3889080000000003
+Montenegro,Podgorica,2024-10-05 11:30:00,21.3,64,1012.0,Partly cloudy,1.0000080000000002
+Montenegro,Podgorica,2024-10-06 11:15:00,17.2,83,1012.0,Moderate rain,1.3889
+Montenegro,Podgorica,2024-10-07 11:45:00,17.9,68,1019.0,Sunny,1.3055660000000002
+Montenegro,Podgorica,2024-10-08 11:45:00,20.3,60,1019.0,Sunny,1.1944540000000001
+Montenegro,Podgorica,2024-10-09 11:45:00,18.3,100,1014.0,Light rain,2.0000160000000005
+Montenegro,Podgorica,2024-10-10 11:45:00,23.2,78,1010.0,Partly cloudy,2.0000160000000005
+Montenegro,Podgorica,2024-10-11 11:45:00,23.1,89,1009.0,Partly cloudy,2.194462
+Montenegro,Podgorica,2024-10-12 11:45:00,22.2,61,1016.0,Sunny,1.11112
+Montenegro,Podgorica,2024-10-13 11:30:00,20.4,60,1019.0,Partly cloudy,1.3889
+Montenegro,Podgorica,2024-10-14 11:30:00,20.2,60,1020.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-15 11:30:00,20.0,68,1020.0,Sunny,1.11112
+Montenegro,Podgorica,2024-10-16 11:30:00,22.3,50,1022.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-17 11:30:00,20.3,68,1023.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-18 11:30:00,18.0,88,1022.0,Light rain,1.0000080000000002
+Montenegro,Podgorica,2024-10-19 11:30:00,20.2,83,1018.0,Sunny,2.3055740000000005
+Montenegro,Podgorica,2024-10-20 11:30:00,20.2,60,1024.0,Sunny,1.11112
+Montenegro,Podgorica,2024-10-21 11:15:00,19.0,56,1030.0,Sunny,1.3889
+Montenegro,Podgorica,2024-10-22 11:15:00,19.3,52,1029.0,Sunny,1.1944540000000001
+Montenegro,Podgorica,2024-10-23 11:15:00,19.1,56,1028.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-24 11:15:00,20.4,64,1029.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-25 11:15:00,21.4,64,1025.0,Partly cloudy,1.5000120000000003
+Montenegro,Podgorica,2024-10-26 11:15:00,19.0,68,1024.0,Sunny,1.611124
+Montenegro,Podgorica,2024-10-27 10:15:00,20.1,64,1025.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-28 10:15:00,20.1,60,1025.0,Sunny,1.0000080000000002
+Montenegro,Podgorica,2024-10-29 10:00:00,19.4,78,1024.0,Partly cloudy,1.0000080000000002
+Montenegro,Podgorica,2024-10-30 10:00:00,19.3,73,1023.0,Sunny,1.11112
+Montenegro,Podgorica,2024-10-31 10:00:00,19.3,56,1025.0,Sunny,2.111128

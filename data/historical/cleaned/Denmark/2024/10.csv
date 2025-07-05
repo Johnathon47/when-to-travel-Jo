@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Denmark,Copenhagen,2024-10-01 12:00:00,14.2,47,1017.0,Partly cloudy,11.1112
+Denmark,Copenhagen,2024-10-02 11:30:00,11.2,71,1016.0,Sunny,6.194494000000001
+Denmark,Copenhagen,2024-10-03 11:30:00,11.1,66,1019.0,Sunny,6.694498000000001
+Denmark,Copenhagen,2024-10-04 11:45:00,11.1,71,1023.0,Sunny,1.3889
+Denmark,Copenhagen,2024-10-05 11:30:00,11.3,100,1022.0,Partly cloudy,1.11112
+Denmark,Copenhagen,2024-10-06 11:15:00,12.0,82,1016.0,Partly cloudy,3.6111400000000002
+Denmark,Copenhagen,2024-10-07 11:45:00,13.2,62,1006.0,Partly cloudy,9.000072000000001
+Denmark,Copenhagen,2024-10-08 11:45:00,14.2,94,1003.0,Partly cloudy,6.305606
+Denmark,Copenhagen,2024-10-09 11:45:00,15.0,94,994.0,Mist,5.194486
+Denmark,Copenhagen,2024-10-10 11:45:00,14.3,94,981.0,Patchy light rain,6.500052
+Denmark,Copenhagen,2024-10-11 11:45:00,11.3,58,1008.0,Partly cloudy,8.500068
+Denmark,Copenhagen,2024-10-12 11:45:00,12.2,62,1018.0,Partly cloudy,6.111160000000001
+Denmark,Copenhagen,2024-10-13 11:30:00,10.2,94,997.0,Partly cloudy,3.8889200000000006
+Denmark,Copenhagen,2024-10-14 11:30:00,12.1,82,1013.0,Partly cloudy,6.6111640000000005
+Denmark,Copenhagen,2024-10-15 11:30:00,12.2,67,1023.0,Sunny,3.3055820000000002
+Denmark,Copenhagen,2024-10-16 11:30:00,12.0,62,1027.0,Partly cloudy,9.388964
+Denmark,Copenhagen,2024-10-17 11:30:00,12.3,77,1018.0,Partly cloudy,10.305638000000002
+Denmark,Copenhagen,2024-10-18 11:30:00,13.1,82,1018.0,Overcast,4.805594000000001
+Denmark,Copenhagen,2024-10-19 11:15:00,13.4,88,1016.0,Partly cloudy,7.111168000000001
+Denmark,Copenhagen,2024-10-20 11:30:00,15.0,88,1021.0,Sunny,4.805594000000001
+Denmark,Copenhagen,2024-10-21 11:15:00,15.3,77,1018.0,Partly cloudy,7.6945060000000005
+Denmark,Copenhagen,2024-10-22 11:15:00,12.3,82,1021.0,Partly cloudy,3.111136
+Denmark,Copenhagen,2024-10-23 11:15:00,11.1,87,1032.0,Sunny,5.305598000000001
+Denmark,Copenhagen,2024-10-24 11:15:00,11.1,100,1032.0,Partly cloudy,3.6111400000000002
+Denmark,Copenhagen,2024-10-25 11:15:00,11.3,87,1022.0,Partly cloudy,6.805610000000001
+Denmark,Copenhagen,2024-10-26 11:15:00,11.1,100,1021.0,Fog,3.6111400000000002
+Denmark,Copenhagen,2024-10-27 10:15:00,13.2,94,1014.0,Partly cloudy,4.611148000000001
+Denmark,Copenhagen,2024-10-28 10:15:00,11.3,94,1020.0,Light rain,4.694482
+Denmark,Copenhagen,2024-10-29 10:00:00,12.3,94,1021.0,Mist,2.194462
+Denmark,Copenhagen,2024-10-30 10:00:00,11.2,82,1021.0,Partly cloudy,7.805618000000001
+Denmark,Copenhagen,2024-10-31 10:00:00,11.0,94,1020.0,Partly cloudy,5.611156

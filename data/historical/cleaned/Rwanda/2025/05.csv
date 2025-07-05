@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Rwanda,Kigali,2025-05-01 10:45:00,22.2,78,1021.0,Partly cloudy,1.0000080000000002
+Rwanda,Kigali,2025-05-02 11:00:00,24.1,69,1021.0,Partly cloudy,1.0000080000000002
+Rwanda,Kigali,2025-05-03 11:00:00,23.3,69,1023.0,Partly cloudy,1.3889
+Rwanda,Kigali,2025-05-04 10:45:00,20.0,83,1023.0,Patchy light rain with thunder,1.0000080000000002
+Rwanda,Kigali,2025-05-05 11:00:00,24.4,65,1024.0,Partly cloudy,1.3889
+Rwanda,Kigali,2025-05-06 11:00:00,23.0,65,1024.0,Partly cloudy,1.8055700000000001
+Rwanda,Kigali,2025-05-07 10:45:00,18.2,100,1025.0,Light rain,1.611124
+Rwanda,Kigali,2025-05-08 10:45:00,21.3,83,1023.0,Partly cloudy,1.0000080000000002
+Rwanda,Kigali,2025-05-09 11:15:00,24.1,61,1022.0,Partly cloudy,1.5000120000000003
+Rwanda,Kigali,2025-05-10 11:00:00,22.0,73,1024.0,Moderate or heavy rain with thunder,1.0000080000000002
+Rwanda,Kigali,2025-05-11 10:45:00,22.1,83,1025.0,Partly cloudy,1.1944540000000001
+Rwanda,Kigali,2025-05-12 11:00:00,22.3,73,1025.0,Partly cloudy,1.3055660000000002
+Rwanda,Kigali,2025-05-13 11:15:00,23.2,69,1024.0,Partly cloudy,1.611124
+Rwanda,Kigali,2025-05-14 11:15:00,21.2,83,1023.0,Partly cloudy,1.611124
+Rwanda,Kigali,2025-05-15 11:00:00,21.4,78,1024.0,Partly cloudy,1.694458
+Rwanda,Kigali,2025-05-16 11:00:00,22.3,69,1023.0,Partly cloudy,2.3889080000000003
+Rwanda,Kigali,2025-05-17 10:45:00,22.0,65,1022.0,Patchy rain nearby,2.111128
+Rwanda,Kigali,2025-05-18 10:45:00,23.3,65,1022.0,Partly cloudy,1.11112
+Rwanda,Kigali,2025-05-19 11:00:00,23.0,65,1022.0,Partly cloudy,1.8055700000000001
+Rwanda,Kigali,2025-05-20 11:00:00,23.3,69,1022.0,Partly cloudy,1.8889040000000001
+Rwanda,Kigali,2025-05-21 10:45:00,23.1,73,1023.0,Partly cloudy,1.11112
+Rwanda,Kigali,2025-05-22 10:45:00,24.3,65,1024.0,Partly cloudy,1.3889
+Rwanda,Kigali,2025-05-23 11:00:00,21.3,83,1024.0,Light rain,2.3055740000000005
+Rwanda,Kigali,2025-05-24 10:45:00,23.2,65,1023.0,Partly cloudy,1.5000120000000003
+Rwanda,Kigali,2025-05-25 10:30:00,23.3,65,1023.0,Partly cloudy,1.8055700000000001
+Rwanda,Kigali,2025-05-26 11:00:00,23.1,57,1025.0,Partly cloudy,1.3889
+Rwanda,Kigali,2025-05-27 11:00:00,24.4,57,1025.0,Partly cloudy,2.0000160000000005
+Rwanda,Kigali,2025-05-28 10:45:00,25.1,61,1025.0,Partly cloudy,1.5000120000000003
+Rwanda,Kigali,2025-05-29 10:45:00,23.0,65,1026.0,Partly cloudy,1.611124
+Rwanda,Kigali,2025-05-30 11:00:00,22.2,65,1026.0,Partly cloudy,2.0000160000000005
+Rwanda,Kigali,2025-05-31 10:45:00,23.1,57,1025.0,Partly cloudy,1.5000120000000003

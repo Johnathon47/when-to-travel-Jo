@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+El Salvador,San Salvador,2025-01-01 04:00:00,23.3,100,1011.0,Mist,1.11112
+El Salvador,San Salvador,2025-01-02 04:15:00,22.4,100,1012.0,Clear,1.694458
+El Salvador,San Salvador,2025-01-03 04:45:00,18.4,85,1015.0,Partly Cloudy,1.8889040000000001
+El Salvador,San Salvador,2025-01-04 04:15:00,17.1,90,1015.0,Clear,2.194462
+El Salvador,San Salvador,2025-01-05 04:15:00,17.4,93,1015.0,Clear,1.694458
+El Salvador,San Salvador,2025-01-06 04:30:00,23.2,94,1011.0,Clear,1.0000080000000002
+El Salvador,San Salvador,2025-01-08 04:30:00,26.4,65,1011.0,Clear,1.8889040000000001
+El Salvador,San Salvador,2025-01-09 04:30:00,26.0,65,1010.0,Clear,1.8055700000000001
+El Salvador,San Salvador,2025-01-10 04:15:00,21.2,88,1011.0,Clear,1.0000080000000002
+El Salvador,San Salvador,2025-01-11 04:30:00,22.3,88,1011.0,Clear,1.0000080000000002
+El Salvador,San Salvador,2025-01-12 04:15:00,24.2,78,1010.0,Clear,1.1944540000000001
+El Salvador,San Salvador,2025-01-13 04:45:00,23.2,89,1012.0,Clear,1.1944540000000001
+El Salvador,San Salvador,2025-01-14 04:15:00,23.2,89,1013.0,Clear,1.11112
+El Salvador,San Salvador,2025-01-15 04:30:00,25.3,57,1013.0,Clear,1.694458
+El Salvador,San Salvador,2025-01-16 04:00:00,21.3,83,1015.0,Clear,1.8055700000000001
+El Salvador,San Salvador,2025-01-17 04:30:00,26.3,54,1014.0,Clear,1.694458
+El Salvador,San Salvador,2025-01-18 04:15:00,21.0,83,1013.0,Clear,1.1944540000000001
+El Salvador,San Salvador,2025-01-19 03:15:00,23.2,89,1013.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2025-01-20 04:30:00,24.3,94,1012.0,Partly cloudy,1.11112
+El Salvador,San Salvador,2025-01-21 04:30:00,25.1,69,1012.0,Clear,1.694458
+El Salvador,San Salvador,2025-01-22 04:15:00,27.4,62,1011.0,Clear,1.8055700000000001
+El Salvador,San Salvador,2025-01-23 04:30:00,25.1,57,1012.0,Clear,2.3055740000000005
+El Salvador,San Salvador,2025-01-24 04:30:00,25.1,57,1011.0,Clear,2.6111320000000005
+El Salvador,San Salvador,2025-01-25 04:15:00,25.1,57,1012.0,Clear,2.3889080000000003
+El Salvador,San Salvador,2025-01-26 04:15:00,26.1,58,1012.0,Clear,2.3889080000000003
+El Salvador,San Salvador,2025-01-27 04:30:00,26.0,61,1011.0,Clear,2.111128
+El Salvador,San Salvador,2025-01-28 05:00:00,26.4,61,1010.0,Clear,1.8889040000000001
+El Salvador,San Salvador,2025-01-29 04:30:00,23.2,83,1010.0,Clear,1.694458
+El Salvador,San Salvador,2025-01-30 04:15:00,23.2,89,1011.0,Partly cloudy,1.3055660000000002
+El Salvador,San Salvador,2025-01-31 04:30:00,23.2,78,1011.0,Clear,1.0000080000000002

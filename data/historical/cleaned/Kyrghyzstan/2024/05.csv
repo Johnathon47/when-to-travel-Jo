@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Kyrghyzstan,Bishkek,2024-05-16 14:45:00,22.5,59,1018.0,Patchy rain nearby,3.6111400000000002
+Kyrghyzstan,Bishkek,2024-05-16 20:00:00,15.3,97,1022.0,Light rain,3.6944740000000005
+Kyrghyzstan,Bishkek,2024-05-17 22:00:00,16.4,74,1012.0,Clear,1.8055700000000001
+Kyrghyzstan,Bishkek,2024-05-18 20:30:00,15.0,82,1017.0,Patchy rain nearby,2.111128
+Kyrghyzstan,Bishkek,2024-05-19 20:00:00,15.5,76,1018.0,Partly Cloudy,1.8889040000000001
+Kyrghyzstan,Bishkek,2024-05-20 20:45:00,12.3,75,1022.0,Partly Cloudy,3.111136
+Kyrghyzstan,Bishkek,2024-05-21 20:45:00,14.5,76,1021.0,Partly Cloudy,1.1944540000000001
+Kyrghyzstan,Bishkek,2024-05-22 20:15:00,13.0,85,1022.0,Partly Cloudy,1.3889
+Kyrghyzstan,Bishkek,2024-05-23 20:00:00,16.6,74,1015.0,Patchy rain nearby,2.194462
+Kyrghyzstan,Bishkek,2024-05-24 20:30:00,15.4,86,1015.0,Patchy light drizzle,1.8055700000000001
+Kyrghyzstan,Bishkek,2024-05-25 20:00:00,19.3,69,1012.0,Moderate or heavy rain in area with thunder,5.805602
+Kyrghyzstan,Bishkek,2024-05-26 20:15:00,8.8,76,1029.0,Sunny,3.1944700000000004
+Kyrghyzstan,Bishkek,2024-05-27 20:30:00,15.4,57,1015.0,Sunny,1.0000080000000002
+Kyrghyzstan,Bishkek,2024-05-28 20:30:00,16.5,56,1018.0,Patchy rain nearby,1.8055700000000001
+Kyrghyzstan,Bishkek,2024-05-29 20:00:00,15.0,71,1018.0,Partly Cloudy,3.111136
+Kyrghyzstan,Bishkek,2024-05-30 19:45:00,18.2,54,1019.0,Patchy rain nearby,3.8889200000000006
+Kyrghyzstan,Bishkek,2024-05-31 20:15:00,19.3,44,1019.0,Sunny,1.1944540000000001

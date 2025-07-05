@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+United Kingdom,London,2024-12-01 10:45:00,12.4,94,1013.0,Light rain,5.194486
+United Kingdom,London,2024-12-02 10:45:00,10.3,82,1012.0,Partly cloudy,4.194478
+United Kingdom,London,2024-12-03 10:45:00,6.1,87,1023.0,Partly cloudy,1.1944540000000001
+United Kingdom,London,2024-12-04 10:30:00,6.1,87,1026.0,Partly cloudy,2.3055740000000005
+United Kingdom,London,2024-12-05 10:30:00,14.2,94,1008.0,Light rain,5.611156
+United Kingdom,London,2024-12-06 10:45:00,8.3,71,1019.0,Partly cloudy,4.500036000000001
+United Kingdom,London,2024-12-07 10:15:00,6.2,93,989.0,Light rain,11.805650000000002
+United Kingdom,London,2024-12-08 10:30:00,6.2,87,1017.0,Light rain,8.88896
+United Kingdom,London,2024-12-09 11:00:00,5.4,87,1030.0,Partly cloudy,6.6111640000000005
+United Kingdom,London,2024-12-10 10:45:00,7.2,81,1033.0,Partly cloudy,5.694490000000001
+United Kingdom,London,2024-12-11 10:45:00,6.3,81,1033.0,Light rain,4.111144
+United Kingdom,London,2024-12-12 10:45:00,6.0,100,1032.0,Mist,1.5000120000000003
+United Kingdom,London,2024-12-13 11:00:00,6.2,93,1026.0,Moderate rain,1.3889
+United Kingdom,London,2024-12-14 11:00:00,6.3,93,1022.0,Partly cloudy,4.111144
+United Kingdom,London,2024-12-15 10:45:00,11.2,87,1027.0,Partly cloudy,3.6944740000000005
+United Kingdom,London,2024-12-16 10:30:00,11.2,82,1032.0,Partly cloudy,4.805594000000001
+United Kingdom,London,2024-12-17 10:45:00,10.3,94,1025.0,Partly cloudy,3.6944740000000005
+United Kingdom,London,2024-12-18 10:30:00,14.2,77,1007.0,Partly cloudy,9.694522000000001
+United Kingdom,London,2024-12-19 10:00:00,6.3,71,1007.0,Cloudy,6.111160000000001
+United Kingdom,London,2024-12-20 10:45:00,5.4,75,1021.0,Partly Cloudy,3.8889200000000006
+United Kingdom,London,2024-12-21 10:45:00,8.2,84,1014.0,Overcast,7.194502
+United Kingdom,London,2024-12-22 10:15:00,4.7,67,1006.0,Thundery outbreaks in nearby,7.888952000000001
+United Kingdom,London,2024-12-23 10:30:00,4.4,60,1025.0,Overcast,4.194478
+United Kingdom,London,2024-12-24 10:45:00,9.2,96,1026.0,Mist,2.194462
+United Kingdom,London,2024-12-25 10:15:00,7.5,92,1034.0,Sunny,1.611124
+United Kingdom,London,2024-12-26 10:30:00,6.5,93,1036.0,Partly Cloudy,1.0000080000000002
+United Kingdom,London,2024-12-27 10:15:00,5.2,100,1033.0,Mist,1.0000080000000002
+United Kingdom,London,2024-12-28 10:45:00,4.0,100,1029.0,Mist,1.11112
+United Kingdom,London,2024-12-29 09:45:00,3.1,100,1031.0,Fog,2.0000160000000005
+United Kingdom,London,2024-12-30 10:00:00,8.0,81,1029.0,Partly cloudy,4.194478
+United Kingdom,London,2024-12-31 10:30:00,10.1,82,1021.0,Partly cloudy,5.805602

@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Hungary,Budapest,2025-07-01 11:00:00,25.3,36,1020.0,Sunny,1.3889
+Hungary,Budapest,2025-07-02 10:30:00,27.1,28,1021.0,Sunny,1.8889040000000001
+Hungary,Budapest,2025-07-03 10:45:00,30.4,29,1019.0,Sunny,2.3055740000000005
+Hungary,Budapest,2025-07-04 10:45:00,30.2,43,1019.0,Partly Cloudy,1.694458
+Hungary,Budapest,2025-07-05 11:00:00,24.2,41,1021.0,Sunny,1.11112

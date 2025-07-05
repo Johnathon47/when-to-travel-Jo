@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vanuatu,Port Vila,2025-07-01 20:00:00,25.0,94,1013.0,Partly cloudy,5.194486
+Vanuatu,Port Vila,2025-07-02 19:45:00,25.1,94,1013.0,Overcast,4.694482
+Vanuatu,Port Vila,2025-07-03 19:30:00,25.1,89,1014.0,Clear,5.111152
+Vanuatu,Port Vila,2025-07-04 19:30:00,24.2,89,1016.0,Overcast,4.000032000000001
+Vanuatu,Port Vila,2025-07-05 19:45:00,23.0,94,1016.0,Partly Cloudy,7.194502

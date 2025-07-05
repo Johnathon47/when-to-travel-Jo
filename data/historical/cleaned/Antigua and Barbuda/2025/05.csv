@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Antigua and Barbuda,Saint John's,2025-05-01 04:45:00,26.6,78,1011.0,Partly Cloudy,5.194486
+Antigua and Barbuda,Saint John's,2025-05-02 05:00:00,24.0,89,1012.0,Overcast,5.305598000000001
+Antigua and Barbuda,Saint John's,2025-05-03 04:45:00,26.1,84,1012.0,Partly cloudy,7.305614000000001
+Antigua and Barbuda,Saint John's,2025-05-04 04:45:00,26.1,79,1013.0,Partly cloudy,7.194502
+Antigua and Barbuda,Saint John's,2025-05-05 05:00:00,26.0,84,1012.0,Patchy rain nearby,6.194494000000001
+Antigua and Barbuda,Saint John's,2025-05-06 05:00:00,26.3,84,1013.0,Overcast,5.888936
+Antigua and Barbuda,Saint John's,2025-05-07 04:45:00,24.3,94,1012.0,Partly cloudy,3.6944740000000005
+Antigua and Barbuda,Saint John's,2025-05-08 04:45:00,23.2,94,1013.0,Overcast,3.6944740000000005
+Antigua and Barbuda,Saint John's,2025-05-09 05:15:00,26.1,84,1013.0,Partly Cloudy,6.805610000000001
+Antigua and Barbuda,Saint John's,2025-05-10 05:00:00,27.3,79,1015.0,Partly cloudy,7.611172000000001
+Antigua and Barbuda,Saint John's,2025-05-11 04:45:00,27.4,79,1017.0,Overcast,9.388964
+Antigua and Barbuda,Saint John's,2025-05-12 05:00:00,26.4,79,1016.0,Partly cloudy,9.805634
+Antigua and Barbuda,Saint John's,2025-05-13 05:15:00,25.3,83,1015.0,Moderate rain,9.388964
+Antigua and Barbuda,Saint John's,2025-05-14 05:15:00,26.3,79,1014.0,Overcast,9.694522000000001
+Antigua and Barbuda,Saint John's,2025-05-15 05:00:00,26.3,84,1014.0,Overcast,9.194518
+Antigua and Barbuda,Saint John's,2025-05-16 05:00:00,27.0,79,1015.0,Partly cloudy,8.88896
+Antigua and Barbuda,Saint John's,2025-05-17 04:45:00,27.2,84,1014.0,Partly cloudy,8.805626
+Antigua and Barbuda,Saint John's,2025-05-18 04:45:00,23.3,94,1014.0,Light rain,7.611172000000001
+Antigua and Barbuda,Saint John's,2025-05-19 05:00:00,26.2,84,1015.0,Partly cloudy,8.305622
+Antigua and Barbuda,Saint John's,2025-05-20 05:00:00,26.1,84,1014.0,Cloudy,7.305614000000001
+Antigua and Barbuda,Saint John's,2025-05-21 04:45:00,26.2,84,1014.0,Patchy rain nearby,6.6111640000000005
+Antigua and Barbuda,Saint John's,2025-05-22 04:45:00,26.1,84,1014.0,Overcast,6.888944000000001
+Antigua and Barbuda,Saint John's,2025-05-23 05:00:00,26.3,79,1017.0,Overcast,9.888968000000002
+Antigua and Barbuda,Saint John's,2025-05-24 04:45:00,26.1,79,1017.0,Overcast,10.305638000000002
+Antigua and Barbuda,Saint John's,2025-05-25 04:30:00,27.4,70,1017.0,Cloudy,9.388964
+Antigua and Barbuda,Saint John's,2025-05-26 05:00:00,26.2,84,1017.0,Overcast,9.694522000000001
+Antigua and Barbuda,Saint John's,2025-05-27 05:00:00,27.3,79,1017.0,Overcast,6.805610000000001
+Antigua and Barbuda,Saint John's,2025-05-28 04:45:00,26.2,74,1017.0,Partly cloudy,7.888952000000001
+Antigua and Barbuda,Saint John's,2025-05-29 04:45:00,27.3,74,1018.0,Patchy rain nearby,9.000072000000001
+Antigua and Barbuda,Saint John's,2025-05-30 04:45:00,26.2,84,1017.0,Overcast,9.194518
+Antigua and Barbuda,Saint John's,2025-05-31 04:45:00,27.2,79,1016.0,Patchy rain nearby,10.111192

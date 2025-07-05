@@ -1,0 +1,35 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Belgium,Brussels,2024-05-16 10:45:00,15.0,94,1003.0,Partly cloudy,1.694458
+Belgium,'S Gravenstaffel,2024-05-16 10:45:00,14.0,94,1004.0,Light rain,3.6111400000000002
+Belgium,Brussels,2024-05-16 16:00:00,17.0,77,1005.0,Partly cloudy,5.305598000000001
+Belgium,'S Gravenstaffel,2024-05-16 16:15:00,14.0,94,1005.0,Overcast,3.6111400000000002
+Belgium,Brussels,2024-05-17 18:00:00,14.0,88,1008.0,Light rain,3.6111400000000002
+Belgium,'S Gravenstaffel,2024-05-17 18:00:00,16.0,68,1010.0,Partly cloudy,3.6111400000000002
+Belgium,Brussels,2024-05-18 16:30:00,18.0,73,1011.0,Partly cloudy,2.50002
+Belgium,'S Gravenstaffel,2024-05-18 16:30:00,13.0,94,1012.0,Overcast,3.6111400000000002
+Belgium,Brussels,2024-05-19 16:00:00,20.0,64,1012.0,Partly cloudy,3.6111400000000002
+Belgium,'S Gravenstaffel,2024-05-19 16:15:00,15.0,88,1013.0,Partly cloudy,3.6111400000000002
+Belgium,Brussels,2024-05-20 16:45:00,18.0,73,1010.0,Partly cloudy,3.111136
+Belgium,'S Gravenstaffel,2024-05-20 16:45:00,15.0,94,1011.0,Light rain,3.6111400000000002
+Belgium,Brussels,2024-05-21 16:45:00,16.0,88,1008.0,Light rain,1.694458
+Belgium,'S Gravenstaffel,2024-05-21 16:45:00,14.0,100,1008.0,Light rain,3.111136
+Belgium,Brussels,2024-05-22 16:15:00,18.0,64,1010.0,Partly cloudy,6.694498000000001
+Belgium,'S Gravenstaffel,2024-05-22 16:15:00,17.0,72,1008.0,Partly cloudy,9.194518
+Belgium,Brussels,2024-05-23 16:00:00,19.0,60,1015.0,Partly cloudy,3.6111400000000002
+Belgium,'S Gravenstaffel,2024-05-23 16:00:00,17.0,72,1015.0,Partly cloudy,6.694498000000001
+Belgium,Brussels,2024-05-24 16:30:00,15.0,82,1018.0,Light rain,1.694458
+Belgium,'S Gravenstaffel,2024-05-24 16:30:00,15.0,67,1019.0,Partly cloudy,4.694482
+Belgium,Brussels,2024-05-25 16:00:00,17.0,77,1017.0,Partly cloudy,1.8889040000000001
+Belgium,'S Gravenstaffel,2024-05-25 16:15:00,16.0,68,1017.0,Sunny,5.305598000000001
+Belgium,Brussels,2024-05-26 16:00:00,21.0,60,1012.0,Partly cloudy,6.111160000000001
+Belgium,'S Gravenstaffel,2024-05-26 16:15:00,17.0,83,1013.0,Partly cloudy,5.611156
+Belgium,Brussels,2024-05-27 16:30:00,16.0,68,1017.0,Light rain,3.6111400000000002
+Belgium,'S Gravenstaffel,2024-05-27 16:30:00,16.0,59,1016.0,Partly cloudy,3.6111400000000002
+Belgium,Brussels,2024-05-28 16:30:00,14.0,94,1016.0,Light rain,5.611156
+Belgium,'S Gravenstaffel,2024-05-28 16:30:00,16.0,94,1014.0,Light rain,5.305598000000001
+Belgium,Brussels,2024-05-29 16:00:00,18.0,60,1009.0,Partly cloudy,7.194502
+Belgium,'S Gravenstaffel,2024-05-29 16:15:00,19.0,64,1009.0,Partly cloudy,5.305598000000001
+Belgium,Brussels,2024-05-30 15:45:00,17.0,63,1007.0,Partly cloudy,5.611156
+Belgium,'S Gravenstaffel,2024-05-30 16:00:00,15.0,77,1008.0,Partly cloudy,5.611156
+Belgium,Brussels,2024-05-31 16:15:00,16.0,77,1013.0,Partly cloudy,1.8889040000000001
+Belgium,'S Gravenjansdijk,2024-05-31 16:15:00,16.0,82,1014.0,Moderate rain,7.805618000000001

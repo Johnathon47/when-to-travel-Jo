@@ -1,0 +1,28 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Czech Republic,Prague,2024-07-01 15:15:00,22.4,57,1012.0,Partly cloudy,7.805618000000001
+Czech Republic,Prague,2024-07-02 15:15:00,18.2,56,1012.0,Partly cloudy,3.6111400000000002
+Czech Republic,Prague,2024-07-03 15:00:00,18.2,60,1009.0,Partly cloudy,2.50002
+Czech Republic,Prague,2024-07-04 15:00:00,19.1,56,1009.0,Partly cloudy,6.694498000000001
+Czech Republic,Prague,2024-07-05 14:45:00,20.2,49,1013.0,Sunny,6.111160000000001
+Czech Republic,Prague,2024-07-06 15:15:00,31.0,31,1005.0,Sunny,3.6111400000000002
+Czech Republic,Prague,2024-07-07 15:00:00,16.1,82,1016.0,Light rain,1.8889040000000001
+Czech Republic,Prague,2024-07-08 15:00:00,22.3,65,1019.0,Partly cloudy,1.694458
+Czech Republic,Prague,2024-07-09 14:45:00,28.1,48,1019.0,Sunny,2.50002
+Czech Republic,Prague,2024-07-10 15:00:00,30.0,59,1015.0,Partly cloudy,1.694458
+Czech Republic,Prague,2024-07-11 14:45:00,27.1,58,1017.0,Partly cloudy,1.0000080000000002
+Czech Republic,Prague,2024-07-12 14:45:00,29.4,55,1010.0,Partly cloudy,4.194478
+Czech Republic,Prague,2024-07-14 15:00:00,25.4,51,1014.0,Sunny,3.111136
+Czech Republic,Prague,2024-07-15 15:00:00,30.4,29,1014.0,Sunny,4.194478
+Czech Republic,Prague,2024-07-16 14:45:00,23.2,73,1015.0,Partly cloudy,3.6111400000000002
+Czech Republic,Prague,2024-07-17 14:45:00,20.3,71,1021.0,Patchy light rain,4.194478
+Czech Republic,Prague,2024-07-18 14:45:00,26.3,45,1023.0,Sunny,1.0000080000000002
+Czech Republic,Prague,2024-07-19 14:30:00,27.0,39,1020.0,Sunny,2.50002
+Czech Republic,Prague,2024-07-20 14:45:00,27.3,39,1013.0,Sunny,2.50002
+Czech Republic,Prague,2024-07-24 14:45:00,21.6,57,1016.0,Patchy rain nearby,5.00004
+Czech Republic,Prague,2024-07-25 14:15:00,24.9,34,1014.0,Sunny,2.6111320000000005
+Czech Republic,Prague,2024-07-26 14:30:00,28.3,33,1012.0,Partly Cloudy,2.8889120000000004
+Czech Republic,Prague,2024-07-27 14:30:00,29.8,43,1014.0,Partly Cloudy,2.6111320000000005
+Czech Republic,Prague,2024-07-28 14:45:00,24.8,41,1022.0,Partly Cloudy,5.305598000000001
+Czech Republic,Prague,2024-07-29 14:15:00,24.9,34,1022.0,Sunny,4.111144
+Czech Republic,Prague,2024-07-30 14:15:00,28.5,24,1018.0,Sunny,1.3055660000000002
+Czech Republic,Prague,2024-07-31 14:15:00,31.4,34,1013.0,Sunny,1.0000080000000002

@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Liechtenstein,Vaduz,2024-06-01 16:15:00,13.0,94,1017.0,Light rain,1.694458
+Liechtenstein,Vaduz,2024-06-02 16:00:00,16.0,77,1018.0,Partly cloudy,1.694458
+Liechtenstein,Vaduz,2024-06-03 16:15:00,15.0,94,1018.0,Partly cloudy,1.694458
+Liechtenstein,Vaduz,2024-06-04 16:15:00,21.0,56,1014.0,Sunny,3.111136
+Liechtenstein,Vaduz,2024-06-05 16:15:00,23.0,53,1014.0,Sunny,1.8889040000000001
+Liechtenstein,Vaduz,2024-06-06 16:00:00,25.0,51,1017.0,Sunny,3.111136
+Liechtenstein,Vaduz,2024-06-07 16:00:00,23.3,65,1018.0,Partly cloudy,3.111136
+Liechtenstein,Vaduz,2024-06-08 16:15:00,24.3,61,1011.0,Sunny,1.694458
+Liechtenstein,Vaduz,2024-06-09 16:15:00,21.3,73,1008.0,Partly cloudy,3.111136
+Liechtenstein,Vaduz,2024-06-10 16:15:00,20.0,56,1009.0,Partly cloudy,4.694482
+Liechtenstein,Vaduz,2024-06-11 16:00:00,12.0,82,1016.0,Light rain,1.0000080000000002
+Liechtenstein,Vaduz,2024-06-12 16:15:00,18.3,52,1016.0,Partly cloudy,4.194478
+Liechtenstein,Vaduz,2024-06-13 16:00:00,19.3,40,1018.0,Partly cloudy,1.8889040000000001
+Liechtenstein,Vaduz,2024-06-14 16:00:00,19.4,68,1014.0,Partly cloudy,1.8889040000000001
+Liechtenstein,Vaduz,2024-06-15 16:00:00,17.2,77,1012.0,Partly cloudy,1.0000080000000002
+Liechtenstein,Vaduz,2024-06-16 15:45:00,20.4,53,1011.0,Partly cloudy,2.50002
+Liechtenstein,Vaduz,2024-06-17 16:00:00,22.1,69,1016.0,Partly cloudy,1.0000080000000002
+Liechtenstein,Vaduz,2024-06-18 16:00:00,24.2,69,1014.0,Sunny,3.111136
+Liechtenstein,Vaduz,2024-06-19 15:45:00,25.8,43,1014.0,Sunny,1.0000080000000002
+Liechtenstein,Vaduz,2024-06-20 15:45:00,20.8,76,1019.0,Patchy rain nearby,1.0000080000000002
+Liechtenstein,Vaduz,2024-06-21 15:30:00,18.1,94,1015.0,Partly cloudy,1.8889040000000001
+Liechtenstein,Vaduz,2024-06-22 15:45:00,16.4,94,1016.0,Light rain,5.611156
+Liechtenstein,Vaduz,2024-06-23 15:45:00,17.3,77,1018.0,Partly cloudy,1.0000080000000002
+Liechtenstein,Vaduz,2024-06-24 15:45:00,24.3,57,1015.0,Partly cloudy,3.111136
+Liechtenstein,Vaduz,2024-06-25 15:15:00,20.8,71,1011.0,Patchy light rain in area with thunder,3.111136
+Liechtenstein,Vaduz,2024-06-26 15:30:00,22.4,73,1012.0,Partly cloudy,1.8889040000000001
+Liechtenstein,Vaduz,2024-06-27 15:15:00,25.1,65,1013.0,Partly cloudy,5.611156
+Liechtenstein,Vaduz,2024-06-28 15:15:00,27.3,66,1017.0,Partly cloudy,2.50002
+Liechtenstein,Vaduz,2024-06-29 14:45:00,25.2,79,1012.0,Sunny,3.111136
+Liechtenstein,Vaduz,2024-06-30 15:30:00,23.3,69,1012.0,Overcast,1.0000080000000002

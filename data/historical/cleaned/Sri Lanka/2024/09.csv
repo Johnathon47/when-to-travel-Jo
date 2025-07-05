@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Sri Lanka,Colombo,2024-09-01 17:30:00,28.1,89,1008.0,Partly cloudy,3.111136
+Sri Lanka,Colombo,2024-09-02 17:45:00,28.3,84,1008.0,Partly cloudy,2.50002
+Sri Lanka,Colombo,2024-09-03 18:00:00,29.1,79,1010.0,Overcast,1.8889040000000001
+Sri Lanka,Colombo,2024-09-04 17:30:00,29.2,79,1009.0,Partly cloudy,4.194478
+Sri Lanka,Colombo,2024-09-05 17:30:00,31.4,71,1007.0,Partly cloudy,3.6111400000000002
+Sri Lanka,Colombo,2024-09-06 17:45:00,30.1,75,1009.0,Overcast,1.694458
+Sri Lanka,Colombo,2024-09-07 17:30:00,31.2,71,1009.0,Partly cloudy,3.6111400000000002
+Sri Lanka,Colombo,2024-09-08 17:45:00,31.0,71,1009.0,Partly cloudy,5.305598000000001
+Sri Lanka,Colombo,2024-09-09 18:00:00,31.1,71,1008.0,Partly cloudy,3.111136
+Sri Lanka,Colombo,2024-09-10 18:00:00,31.2,71,1008.0,Partly cloudy,3.111136
+Sri Lanka,Colombo,2024-09-11 17:45:00,30.1,75,1010.0,Light rain,1.8889040000000001
+Sri Lanka,Colombo,2024-09-12 17:45:00,31.3,66,1009.0,Partly cloudy,1.8889040000000001
+Sri Lanka,Colombo,2024-09-13 18:00:00,31.2,71,1009.0,Partly cloudy,4.388924
+Sri Lanka,Colombo,2024-09-14 18:00:00,29.3,79,1009.0,Partly cloudy,5.500044000000001
+Sri Lanka,Colombo,2024-09-15 17:30:00,32.1,67,1008.0,Partly cloudy,5.3889320000000005
+Sri Lanka,Colombo,2024-09-16 16:45:00,32.3,67,1009.0,Partly cloudy,6.305606
+Sri Lanka,Colombo,2024-09-17 16:30:00,32.4,67,1008.0,Partly cloudy,5.305598000000001
+Sri Lanka,Colombo,2024-09-18 16:15:00,32.3,67,1006.0,Partly cloudy,5.3889320000000005
+Sri Lanka,Colombo,2024-09-19 16:15:00,31.2,71,1007.0,Partly cloudy,5.694490000000001
+Sri Lanka,Colombo,2024-09-20 16:30:00,32.1,67,1007.0,Partly cloudy,5.500044000000001
+Sri Lanka,Colombo,2024-09-21 16:30:00,32.1,63,1007.0,Partly cloudy,6.388940000000001
+Sri Lanka,Colombo,2024-09-22 16:00:00,31.3,71,1007.0,Partly cloudy,6.500052
+Sri Lanka,Colombo,2024-09-23 15:15:00,30.2,79,1006.0,Partly cloudy,7.000056000000001
+Sri Lanka,Colombo,2024-09-24 15:15:00,32.1,67,1007.0,Partly cloudy,7.000056000000001
+Sri Lanka,Colombo,2024-09-25 15:00:00,32.1,67,1007.0,Moderate rain,6.388940000000001
+Sri Lanka,Colombo,2024-09-26 15:15:00,33.2,63,1006.0,Partly cloudy,5.305598000000001
+Sri Lanka,Colombo,2024-09-27 15:30:00,31.2,71,1008.0,Partly cloudy,5.805602
+Sri Lanka,Colombo,2024-09-28 15:30:00,33.2,63,1006.0,Partly cloudy,3.1944700000000004
+Sri Lanka,Colombo,2024-09-29 15:00:00,33.2,63,1007.0,Partly cloudy,4.694482
+Sri Lanka,Colombo,2024-09-30 15:00:00,31.1,71,1009.0,Partly cloudy,3.6111400000000002

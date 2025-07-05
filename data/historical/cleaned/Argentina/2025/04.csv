@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Argentina,Buenos Aires,2025-04-01 06:30:00,9.3,87,1024.0,Clear,2.194462
+Argentina,Buenos Aires,2025-04-02 06:00:00,11.0,100,1015.0,Fog,1.5000120000000003
+Argentina,Buenos Aires,2025-04-03 06:00:00,16.2,72,1013.0,Clear,2.111128
+Argentina,Buenos Aires,2025-04-04 06:15:00,6.1,93,1030.0,Clear,3.5000280000000004
+Argentina,Buenos Aires,2025-04-05 06:00:00,10.0,82,1031.0,Clear,1.0000080000000002
+Argentina,Buenos Aires,2025-04-06 06:00:00,14.3,88,1027.0,Clear,3.388916
+Argentina,Buenos Aires,2025-04-07 06:15:00,18.3,77,1022.0,Partly cloudy,4.111144
+Argentina,Buenos Aires,2025-04-08 06:30:00,18.1,88,1017.0,Partly cloudy,6.111160000000001
+Argentina,Buenos Aires,2025-04-09 06:00:00,18.3,88,1019.0,Partly cloudy,3.8889200000000006
+Argentina,Buenos Aires,2025-04-10 06:15:00,19.3,88,1017.0,Partly cloudy,3.111136
+Argentina,Buenos Aires,2025-04-11 06:15:00,20.2,88,1015.0,Overcast,3.5000280000000004
+Argentina,Buenos Aires,2025-04-12 06:15:00,19.0,94,1013.0,Partly cloudy,1.5000120000000003
+Argentina,Buenos Aires,2025-04-13 06:00:00,10.4,87,1017.0,Fog,2.6944660000000002
+Argentina,Buenos Aires,2025-04-14 06:30:00,10.1,100,1019.0,Clear,1.694458
+Argentina,Buenos Aires,2025-04-15 06:15:00,17.0,77,1017.0,Clear,3.0000240000000007
+Argentina,Buenos Aires,2025-04-16 06:00:00,13.4,94,1015.0,Partly cloudy,1.3055660000000002
+Argentina,Buenos Aires,2025-04-17 05:45:00,14.3,72,1013.0,Clear,1.611124
+Argentina,Buenos Aires,2025-04-18 06:15:00,14.2,94,1015.0,Overcast,2.0000160000000005
+Argentina,Buenos Aires,2025-04-19 06:00:00,9.0,81,1022.0,Clear,2.8889120000000004
+Argentina,Buenos Aires,2025-04-20 05:45:00,10.2,87,1021.0,Partly Cloudy,1.8055700000000001
+Argentina,Buenos Aires,2025-04-21 06:15:00,12.1,94,1019.0,Partly Cloudy,1.611124
+Argentina,Buenos Aires,2025-04-22 06:15:00,14.3,94,1015.0,Partly Cloudy,1.8889040000000001
+Argentina,Buenos Aires,2025-04-23 06:00:00,18.3,77,1012.0,Partly Cloudy,2.111128
+Argentina,Buenos Aires,2025-04-24 05:45:00,15.2,94,1012.0,Fog,1.1944540000000001
+Argentina,Buenos Aires,2025-04-25 06:15:00,16.4,100,1009.0,Fog,2.194462
+Argentina,Buenos Aires,2025-04-26 06:00:00,16.1,82,1009.0,Overcast,5.305598000000001
+Argentina,Buenos Aires,2025-04-27 05:45:00,7.2,93,1016.0,Clear,2.111128
+Argentina,Buenos Aires,2025-04-28 06:30:00,9.2,87,1017.0,Clear,2.194462
+Argentina,Buenos Aires,2025-04-29 05:45:00,13.2,72,1017.0,Clear,1.3055660000000002
+Argentina,Buenos Aires,2025-04-30 05:45:00,10.1,94,1016.0,Fog,2.111128

@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Georgia,Tbilisi,2025-07-01 12:30:00,25.0,44,1010.0,Sunny,6.000048000000001
+Georgia,Tbilisi,2025-07-02 12:30:00,24.0,47,1012.0,Light rain,4.3055900000000005
+Georgia,Tbilisi,2025-07-03 12:45:00,16.3,88,1013.0,Moderate rain,3.5000280000000004
+Georgia,Tbilisi,2025-07-04 13:00:00,20.3,68,1015.0,Partly cloudy,1.694458
+Georgia,Tbilisi,2025-07-05 13:00:00,27.0,45,1012.0,Patchy rain nearby,2.50002

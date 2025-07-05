@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Venezuela,Caracas,2025-07-01 04:45:00,25.0,79,1015.0,Mist,2.0000160000000005
+Venezuela,Caracas,2025-07-02 05:00:00,24.3,78,1015.0,Clear,2.194462
+Venezuela,Caracas,2025-07-03 04:45:00,17.7,96,1017.0,Mist,2.0000160000000005
+Venezuela,Caracas,2025-07-04 05:00:00,18.3,97,1017.0,Light rain shower,1.694458
+Venezuela,Caracas,2025-07-05 05:00:00,16.5,93,1018.0,Partly Cloudy,2.0000160000000005

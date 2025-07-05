@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Estonia,Tallinn,2024-07-01 16:15:00,19.2,88,1000.0,Light rain shower,4.694482
+Estonia,Tallinn,2024-07-02 16:15:00,20.2,53,1002.0,Partly cloudy,5.305598000000001
+Estonia,Tallinn,2024-07-03 16:00:00,17.3,77,1000.0,Overcast,3.111136
+Estonia,Tallinn,2024-07-04 16:00:00,20.2,53,1006.0,Partly cloudy,4.694482
+Estonia,Tallinn,2024-07-05 15:45:00,17.4,63,1004.0,Partly cloudy,6.694498000000001
+Estonia,Tallinn,2024-07-06 16:15:00,19.1,56,1007.0,Partly cloudy,6.694498000000001
+Estonia,Tallinn,2024-07-07 16:00:00,19.1,64,1008.0,Partly cloudy,5.611156
+Estonia,Tallinn,2024-07-08 16:00:00,20.2,49,1018.0,Partly cloudy,5.611156
+Estonia,Tallinn,2024-07-09 15:45:00,21.2,56,1021.0,Sunny,7.194502
+Estonia,Tallinn,2024-07-10 16:00:00,23.4,50,1025.0,Partly cloudy,4.194478
+Estonia,Tallinn,2024-07-11 15:45:00,24.1,57,1016.0,Sunny,5.305598000000001
+Estonia,Tallinn,2024-07-12 15:45:00,20.3,83,1014.0,Partly cloudy,3.111136
+Estonia,Tallinn,2024-07-14 16:15:00,21.4,62,1014.0,Patchy rain nearby,2.0000160000000005
+Estonia,Tallinn,2024-07-15 16:00:00,20.8,59,1017.0,Sunny,3.5000280000000004
+Estonia,Tallinn,2024-07-16 15:45:00,23.0,54,1017.0,Partly Cloudy,3.1944700000000004
+Estonia,Tallinn,2024-07-17 15:45:00,25.0,57,1011.0,Partly cloudy,6.694498000000001
+Estonia,Tallinn,2024-07-18 15:45:00,21.4,60,1014.0,Light rain shower,4.694482
+Estonia,Tallinn,2024-07-19 15:30:00,19.1,73,1012.0,Partly cloudy,8.305622
+Estonia,Tallinn,2024-07-20 15:45:00,21.3,64,1010.0,Partly cloudy,5.305598000000001
+Estonia,Tallinn,2024-07-23 15:30:00,22.6,66,1013.0,Partly Cloudy,3.6111400000000002
+Estonia,Tallinn,2024-07-24 15:45:00,20.9,84,1012.0,Light rain shower,2.3055740000000005
+Estonia,Tallinn,2024-07-25 15:15:00,22.5,69,1010.0,Patchy rain nearby,2.6944660000000002
+Estonia,Tallinn,2024-07-26 15:30:00,20.1,80,1012.0,Patchy rain nearby,3.8889200000000006
+Estonia,Tallinn,2024-07-27 15:30:00,21.2,65,1014.0,Patchy rain nearby,3.388916
+Estonia,Tallinn,2024-07-28 15:45:00,20.2,61,1009.0,Partly Cloudy,3.1944700000000004
+Estonia,Tallinn,2024-07-29 15:15:00,20.2,76,1006.0,Patchy light drizzle,5.305598000000001
+Estonia,Tallinn,2024-07-30 15:15:00,20.7,64,1009.0,Patchy rain nearby,5.611156
+Estonia,Tallinn,2024-07-31 15:15:00,19.9,63,1005.0,Patchy rain nearby,6.500052

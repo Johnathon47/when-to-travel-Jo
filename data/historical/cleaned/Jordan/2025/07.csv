@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Jordan,Amman,2025-07-01 11:45:00,30.4,13,1011.0,Sunny,7.305614000000001
+Jordan,Amman,2025-07-02 11:30:00,29.2,25,1011.0,Sunny,6.694498000000001
+Jordan,Amman,2025-07-03 11:45:00,29.3,31,1012.0,Sunny,5.694490000000001
+Jordan,Amman,2025-07-04 12:00:00,28.0,27,1013.0,Sunny,8.111176
+Jordan,Amman,2025-07-05 11:45:00,27.2,26,1014.0,Sunny,5.611156

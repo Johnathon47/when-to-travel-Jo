@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Myanmar,Rangoon,2024-06-01 20:45:00,26.0,100,1009.0,Overcast,1.11112
+Myanmar,Rangoon,2024-06-02 20:30:00,27.0,94,1009.0,Light rain,1.8889040000000001
+Myanmar,Rangoon,2024-06-03 20:45:00,25.0,100,1009.0,Overcast,1.11112
+Myanmar,Rangoon,2024-06-04 20:45:00,28.0,84,1008.0,Partly cloudy,1.0000080000000002
+Myanmar,Rangoon,2024-06-05 20:45:00,27.0,94,1007.0,Overcast,1.11112
+Myanmar,Rangoon,2024-06-06 20:30:00,27.0,94,1007.0,Partly cloudy,1.694458
+Myanmar,Rangoon,2024-06-07 20:30:00,26.4,94,1006.0,Overcast,1.11112
+Myanmar,Rangoon,2024-06-08 20:45:00,28.1,94,1005.0,Overcast,2.50002
+Myanmar,Rangoon,2024-06-09 20:45:00,29.1,84,1004.0,Partly cloudy,3.6111400000000002
+Myanmar,Rangoon,2024-06-10 20:45:00,28.1,84,1005.0,Partly cloudy,1.8889040000000001
+Myanmar,Rangoon,2024-06-11 20:30:00,26.3,94,1007.0,Overcast,1.0000080000000002
+Myanmar,Rangoon,2024-06-12 20:45:00,27.3,94,1009.0,Light rain,1.11112
+Myanmar,Rangoon,2024-06-13 20:30:00,28.2,100,1007.0,Overcast,1.694458
+Myanmar,Rangoon,2024-06-14 20:30:00,28.2,94,1006.0,Overcast,1.694458
+Myanmar,Rangoon,2024-06-15 20:30:00,26.1,94,1005.0,Overcast,1.11112
+Myanmar,Rangoon,2024-06-16 20:15:00,28.5,82,1007.0,Light rain shower,3.6944740000000005
+Myanmar,Rangoon,2024-06-17 20:30:00,28.0,82,1007.0,Light rain shower,3.111136
+Myanmar,Rangoon,2024-06-18 20:30:00,26.2,94,1007.0,Partly cloudy,1.694458
+Myanmar,Rangoon,2024-06-19 20:15:00,26.2,94,1005.0,Overcast,1.11112
+Myanmar,Yangon,2024-06-20 20:15:00,28.1,81,1005.0,Partly Cloudy,3.5000280000000004
+Myanmar,Yangon,2024-06-21 20:15:00,27.1,89,1004.0,Overcast,2.50002
+Myanmar,Yangon,2024-06-22 20:15:00,27.2,94,1004.0,Partly cloudy,1.694458
+Myanmar,Yangon,2024-06-23 20:15:00,27.1,94,1004.0,Light drizzle,1.11112
+Myanmar,Yangon,2024-06-24 20:15:00,28.3,84,1003.0,Overcast,1.694458
+Myanmar,Rangoon,2024-06-25 19:45:00,26.6,88,1003.0,Light rain shower,4.3055900000000005
+Myanmar,Yangon,2024-06-26 20:00:00,28.1,94,1005.0,Partly cloudy,1.8889040000000001
+Myanmar,Yangon,2024-06-27 19:45:00,27.2,94,1007.0,Partly cloudy,1.8889040000000001
+Myanmar,Yangon,2024-06-28 19:45:00,29.1,84,1006.0,Partly cloudy,1.11112
+Myanmar,Yangon,2024-06-29 19:15:00,28.1,84,1007.0,Partly cloudy,1.694458
+Myanmar,Yangon,2024-06-30 20:00:00,28.2,84,1009.0,Partly cloudy,1.694458

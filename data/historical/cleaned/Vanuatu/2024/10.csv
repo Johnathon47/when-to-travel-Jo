@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vanuatu,Port Vila,2024-10-01 21:00:00,22.0,94,1013.0,Partly cloudy,2.111128
+Vanuatu,Port Vila,2024-10-02 20:30:00,22.3,88,1013.0,Partly cloudy,3.8055860000000004
+Vanuatu,Port Vila,2024-10-03 20:30:00,21.0,88,1014.0,Partly cloudy,4.000032000000001
+Vanuatu,Port Vila,2024-10-04 20:45:00,22.1,88,1015.0,Partly cloudy,4.694482
+Vanuatu,Port Vila,2024-10-05 20:45:00,24.2,83,1017.0,Partly cloudy,7.388948000000001
+Vanuatu,Port Vila,2024-10-06 20:15:00,25.3,83,1019.0,Overcast,7.194502
+Vanuatu,Port Vila,2024-10-07 20:45:00,24.0,83,1018.0,Partly cloudy,7.50006
+Vanuatu,Port Vila,2024-10-08 20:45:00,22.2,100,1016.0,Partly cloudy,5.305598000000001
+Vanuatu,Port Vila,2024-10-09 20:45:00,24.2,89,1014.0,Partly cloudy,4.500036000000001
+Vanuatu,Port Vila,2024-10-10 20:45:00,24.4,94,1015.0,Partly cloudy,3.8889200000000006
+Vanuatu,Port Vila,2024-10-11 20:45:00,23.0,89,1015.0,Partly cloudy,5.111152
+Vanuatu,Port Vila,2024-10-12 20:45:00,23.0,83,1015.0,Partly cloudy,7.194502
+Vanuatu,Port Vila,2024-10-13 20:30:00,22.2,94,1015.0,Partly cloudy,5.888936
+Vanuatu,Port Vila,2024-10-14 20:30:00,23.0,83,1016.0,Overcast,9.111184
+Vanuatu,Port Vila,2024-10-15 20:30:00,24.2,94,1014.0,Overcast,8.388956
+Vanuatu,Port Vila,2024-10-16 20:30:00,25.3,94,1013.0,Overcast,4.805594000000001
+Vanuatu,Port Vila,2024-10-17 20:30:00,23.1,94,1012.0,Partly cloudy,6.194494000000001
+Vanuatu,Port Vila,2024-10-18 20:45:00,22.2,88,1010.0,Partly cloudy,4.3055900000000005
+Vanuatu,Port Vila,2024-10-19 20:30:00,21.1,88,1012.0,Partly cloudy,5.194486
+Vanuatu,Port Vila,2024-10-20 20:30:00,23.4,70,1014.0,Patchy rain nearby,3.5000280000000004
+Vanuatu,Port Vila,2024-10-21 20:15:00,23.0,67,1013.0,Clear,3.6111400000000002
+Vanuatu,Port Vila,2024-10-22 20:15:00,22.4,94,1012.0,Partly cloudy,6.694498000000001
+Vanuatu,Port Vila,2024-10-23 20:30:00,24.2,89,1013.0,Partly cloudy,5.611156
+Vanuatu,Port Vila,2024-10-24 20:15:00,24.1,89,1012.0,Partly cloudy,4.888928000000001
+Vanuatu,Port Vila,2024-10-25 20:15:00,25.1,94,1013.0,Partly cloudy,5.305598000000001
+Vanuatu,Port Vila,2024-10-26 20:15:00,25.3,89,1014.0,Partly cloudy,4.111144
+Vanuatu,Port Vila,2024-10-27 20:15:00,25.3,94,1015.0,Partly cloudy,5.805602
+Vanuatu,Port Vila,2024-10-28 20:15:00,25.2,94,1015.0,Partly cloudy,5.3889320000000005
+Vanuatu,Port Vila,2024-10-29 20:00:00,24.0,94,1013.0,Light rain,2.3889080000000003
+Vanuatu,Port Vila,2024-10-30 20:00:00,23.1,94,1011.0,Overcast,4.888928000000001
+Vanuatu,Port Vila,2024-10-31 20:00:00,24.1,83,1011.0,Partly cloudy,6.111160000000001

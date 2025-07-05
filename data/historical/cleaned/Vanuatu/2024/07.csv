@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vanuatu,Port Vila,2024-07-01 00:30:00,18.1,94,1016.0,Partly cloudy,1.0000080000000002
+Vanuatu,Port Vila,2024-07-02 00:15:00,24.0,78,1015.0,Partly cloudy,1.8889040000000001
+Vanuatu,Port Vila,2024-07-03 00:15:00,22.3,88,1016.0,Partly cloudy,2.50002
+Vanuatu,Port Vila,2024-07-04 00:00:00,19.1,100,1015.0,Partly cloudy,1.0000080000000002
+Vanuatu,Port Vila,2024-07-05 00:15:00,19.3,100,1014.0,Partly cloudy,1.0000080000000002
+Vanuatu,Port Vila,2024-07-05 23:45:00,22.2,94,1015.0,Overcast,1.694458
+Vanuatu,Port Vila,2024-07-07 00:15:00,17.2,88,1016.0,Partly cloudy,1.0000080000000002
+Vanuatu,Port Vila,2024-07-08 00:00:00,21.3,73,1017.0,Partly cloudy,1.8889040000000001
+Vanuatu,Port Vila,2024-07-09 00:00:00,22.3,83,1017.0,Overcast,2.50002
+Vanuatu,Port Vila,2024-07-09 23:45:00,23.3,89,1016.0,Partly cloudy,3.6111400000000002
+Vanuatu,Port Vila,2024-07-11 00:00:00,24.3,94,1015.0,Light rain shower,2.50002
+Vanuatu,Port Vila,2024-07-11 23:45:00,23.0,94,1011.0,Light rain shower,4.694482
+Vanuatu,Port Vila,2024-07-13 00:00:00,24.0,94,1009.0,Partly cloudy,3.111136
+Vanuatu,Port Vila,2024-07-15 00:15:00,26.1,89,1008.0,Moderate or heavy rain shower,1.0000080000000002
+Vanuatu,Port Vila,2024-07-16 00:00:00,24.7,92,1010.0,Patchy rain nearby,3.1944700000000004
+Vanuatu,Port Vila,2024-07-16 23:45:00,24.3,94,1013.0,Overcast,1.0000080000000002
+Vanuatu,Port Vila,2024-07-17 23:45:00,24.2,89,1014.0,Partly Cloudy,4.111144
+Vanuatu,Port Vila,2024-07-18 23:45:00,25.4,88,1013.0,Patchy rain nearby,5.500044000000001
+Vanuatu,Port Vila,2024-07-19 23:30:00,22.2,94,1016.0,Overcast,1.0000080000000002
+Vanuatu,Port Vila,2024-07-20 23:45:00,23.2,78,1017.0,Overcast,1.0000080000000002
+Vanuatu,Port Vila,2024-07-23 23:30:00,23.5,85,1016.0,Patchy rain nearby,7.611172000000001
+Vanuatu,Port Vila,2024-07-24 23:45:00,22.8,87,1014.0,Light rain shower,3.8889200000000006
+Vanuatu,Port Vila,2024-07-25 23:30:00,21.7,74,1016.0,Patchy rain nearby,9.694522000000001
+Vanuatu,Port Vila,2024-07-26 23:30:00,22.3,71,1017.0,Patchy rain nearby,9.805634
+Vanuatu,Port Vila,2024-07-27 23:30:00,21.9,65,1017.0,Patchy rain nearby,7.611172000000001
+Vanuatu,Port Vila,2024-07-28 23:45:00,21.6,69,1017.0,Patchy rain nearby,5.111152
+Vanuatu,Port Vila,2024-07-29 23:15:00,23.0,68,1018.0,Patchy rain nearby,4.000032000000001
+Vanuatu,Port Vila,2024-07-30 23:30:00,23.6,74,1018.0,Patchy rain nearby,4.111144
+Vanuatu,Port Vila,2024-07-31 23:15:00,23.7,73,1019.0,Patchy rain nearby,5.111152

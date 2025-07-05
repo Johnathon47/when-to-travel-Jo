@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Luxembourg,Luxembourg,2025-01-01 11:00:00,0.0,100,1021.0,Mist,8.000064000000002
+Luxembourg,Luxembourg,2025-01-02 11:15:00,1.1,93,1013.0,Light snow,1.3889
+Luxembourg,Luxembourg,2025-01-03 11:45:00,-0.8,86,1021.0,Partly cloudy,5.00004
+Luxembourg,Luxembourg,2025-01-04 11:15:00,-2.8,100,1020.0,Freezing fog,1.5000120000000003
+Luxembourg,Luxembourg,2025-01-05 11:15:00,7.1,100,1000.0,Light rain,8.305622
+Luxembourg,Luxembourg,2025-01-06 11:30:00,12.1,67,989.0,Partly cloudy,8.694514000000002
+Luxembourg,Luxembourg,2025-01-07 11:45:00,2.4,87,1002.0,Partly cloudy,6.6111640000000005
+Luxembourg,Luxembourg,2025-01-08 11:30:00,2.1,100,1005.0,Light sleet,1.8889040000000001
+Luxembourg,Luxembourg,2025-01-09 11:30:00,8.3,100,993.0,Light rain,7.388948000000001
+Luxembourg,Luxembourg,2025-01-10 12:00:00,0.2,86,1019.0,Partly cloudy,2.805578
+Luxembourg,Luxembourg,2025-01-11 12:15:00,1.6,74,1027.0,Cloudy,3.5000280000000004
+Luxembourg,Luxembourg,2025-01-12 10:45:00,1.0,64,1037.0,Partly cloudy,2.6111320000000005
+Luxembourg,Luxembourg,2025-01-13 12:30:00,0.7,57,1041.0,Sunny,3.6111400000000002
+Luxembourg,Luxembourg,2025-01-14 12:00:00,-1.9,80,1034.0,Sunny,1.0000080000000002
+Luxembourg,Luxembourg,2025-01-15 10:45:00,4.1,100,1032.0,Partly cloudy,1.8055700000000001
+Luxembourg,Luxembourg,2025-01-16 10:45:00,2.1,87,1035.0,Partly cloudy,2.6944660000000002
+Luxembourg,Luxembourg,2025-01-17 10:45:00,-0.8,100,1036.0,Freezing fog,1.611124
+Luxembourg,Luxembourg,2025-01-18 10:30:00,-1.7,100,1029.0,Partly cloudy,2.0000160000000005
+Luxembourg,Luxembourg,2025-01-19 11:00:00,-4.0,100,1021.0,Freezing fog,1.0000080000000002
+Luxembourg,Luxembourg,2025-01-20 10:45:00,-2.7,100,1019.0,Freezing fog,1.0000080000000002
+Luxembourg,Luxembourg,2025-01-21 11:30:00,-2.7,100,1017.0,Mist,1.3055660000000002
+Luxembourg,Luxembourg,2025-01-22 11:15:00,-0.7,93,1007.0,Partly cloudy,2.194462
+Luxembourg,Luxembourg,2025-01-23 11:30:00,2.2,87,1010.0,Partly cloudy,5.694490000000001
+Luxembourg,Luxembourg,2025-01-24 11:30:00,4.0,81,1008.0,Sunny,7.000056000000001
+Luxembourg,Luxembourg,2025-01-25 11:30:00,10.2,76,1005.0,Partly cloudy,8.388956
+Luxembourg,Luxembourg,2025-01-26 11:15:00,1.1,100,1010.0,Light sleet,4.888928000000001
+Luxembourg,Luxembourg,2025-01-27 11:30:00,10.3,82,995.0,Partly cloudy,10.500084000000001
+Luxembourg,Luxembourg,2025-01-28 12:00:00,7.1,70,996.0,Partly cloudy,7.50006
+Luxembourg,Luxembourg,2025-01-29 11:30:00,6.2,87,1007.0,Partly cloudy,8.111176
+Luxembourg,Luxembourg,2025-01-30 11:15:00,6.0,93,1013.0,Partly cloudy,1.3055660000000002
+Luxembourg,Luxembourg,2025-01-31 11:30:00,2.1,87,1028.0,Sunny,1.611124

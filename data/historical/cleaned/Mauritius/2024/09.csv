@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mauritius,Port Louis,2024-09-01 16:00:00,22.9,57,1019.0,Sunny,6.388940000000001
+Mauritius,Port Louis,2024-09-02 16:15:00,22.6,66,1020.0,Patchy rain nearby,6.111160000000001
+Mauritius,Port Louis,2024-09-03 16:15:00,23.2,66,1020.0,Patchy rain nearby,6.305606
+Mauritius,Port Louis,2024-09-04 16:00:00,22.9,67,1022.0,Sunny,7.50006
+Mauritius,Port Louis,2024-09-05 16:00:00,23.1,72,1021.0,Patchy rain nearby,7.6945060000000005
+Mauritius,Port Louis,2024-09-06 16:15:00,22.7,64,1021.0,Partly Cloudy,7.6945060000000005
+Mauritius,Port Louis,2024-09-07 16:00:00,23.5,64,1021.0,Patchy rain nearby,6.500052
+Mauritius,Port Louis,2024-09-08 16:15:00,23.5,64,1021.0,Sunny,7.000056000000001
+Mauritius,Port Louis,2024-09-09 16:30:00,23.5,67,1019.0,Sunny,6.305606
+Mauritius,Port Louis,2024-09-10 16:30:00,24.2,66,1018.0,Patchy rain nearby,5.305598000000001
+Mauritius,Port Louis,2024-09-11 16:15:00,24.1,57,1018.0,Sunny,4.388924
+Mauritius,Port Louis,2024-09-12 16:15:00,23.9,63,1018.0,Sunny,1.3889
+Mauritius,Port Louis,2024-09-13 16:30:00,23.3,83,1018.0,Overcast,2.0000160000000005
+Mauritius,Port Louis,2024-09-14 16:30:00,23.1,53,1021.0,Partly cloudy,8.000064000000002
+Mauritius,Port Louis,2024-09-15 16:00:00,24.1,50,1021.0,Partly cloudy,8.694514000000002
+Mauritius,Port Louis,2024-09-16 15:00:00,24.2,54,1022.0,Partly cloudy,7.194502
+Mauritius,Port Louis,2024-09-17 15:00:00,25.4,61,1021.0,Partly cloudy,5.694490000000001
+Mauritius,Port Louis,2024-09-18 14:45:00,25.0,65,1019.0,Partly cloudy,4.500036000000001
+Mauritius,Port Louis,2024-09-19 14:45:00,26.3,70,1017.0,Overcast,6.888944000000001
+Mauritius,Port Louis,2024-09-20 14:45:00,26.4,61,1019.0,Partly cloudy,3.3055820000000002
+Mauritius,Port Louis,2024-09-21 14:45:00,26.2,70,1019.0,Overcast,7.111168000000001
+Mauritius,Port Louis,2024-09-22 14:30:00,26.3,65,1018.0,Partly cloudy,5.694490000000001
+Mauritius,Port Louis,2024-09-23 13:45:00,26.2,65,1019.0,Partly cloudy,3.111136
+Mauritius,Port Louis,2024-09-24 13:45:00,26.3,58,1020.0,Partly cloudy,6.6111640000000005
+Mauritius,Port Louis,2024-09-25 13:30:00,26.3,61,1020.0,Partly cloudy,7.305614000000001
+Mauritius,Port Louis,2024-09-26 13:30:00,25.1,69,1019.0,Partly cloudy,6.805610000000001
+Mauritius,Port Louis,2024-09-27 14:00:00,25.3,65,1018.0,Partly cloudy,7.611172000000001
+Mauritius,Port Louis,2024-09-28 14:00:00,27.2,62,1016.0,Partly cloudy,4.000032000000001
+Mauritius,Port Louis,2024-09-29 13:30:00,27.1,66,1017.0,Partly cloudy,4.000032000000001
+Mauritius,Port Louis,2024-09-30 13:30:00,27.0,54,1018.0,Partly cloudy,7.888952000000001

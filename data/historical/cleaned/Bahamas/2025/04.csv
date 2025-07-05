@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Bahamas,Nassau,2025-04-01 05:30:00,25.2,89,1016.0,Light rain,5.805602
+Bahamas,Nassau,2025-04-02 05:00:00,25.1,83,1019.0,Partly cloudy,7.305614000000001
+Bahamas,Nassau,2025-04-03 05:00:00,25.1,79,1021.0,Partly cloudy,9.388964
+Bahamas,Nassau,2025-04-04 05:15:00,24.1,78,1023.0,Partly cloudy,9.500076000000002
+Bahamas,Nassau,2025-04-05 05:00:00,24.3,78,1023.0,Partly cloudy,9.805634
+Bahamas,Nassau,2025-04-06 05:00:00,23.3,69,1019.0,Partly cloudy,6.888944000000001
+Bahamas,Nassau,2025-04-07 05:00:00,24.1,78,1016.0,Partly cloudy,7.611172000000001
+Bahamas,Nassau,2025-04-08 05:15:00,24.2,78,1013.0,Partly cloudy,7.111168000000001
+Bahamas,Nassau,2025-04-09 05:15:00,22.1,94,1014.0,Light rain,3.0000240000000007
+Bahamas,Nassau,2025-04-10 05:15:00,23.4,69,1015.0,Partly cloudy,5.611156
+Bahamas,Nassau,2025-04-11 05:15:00,23.1,69,1016.0,Partly cloudy,5.111152
+Bahamas,Nassau,2025-04-12 05:15:00,18.1,88,1014.0,Clear,3.1944700000000004
+Bahamas,Nassau,2025-04-13 05:00:00,22.2,58,1017.0,Clear,6.388940000000001
+Bahamas,Nassau,2025-04-14 05:30:00,21.1,56,1021.0,Partly cloudy,5.305598000000001
+Bahamas,Nassau,2025-04-15 05:15:00,23.4,61,1019.0,Partly cloudy,4.611148000000001
+Bahamas,Nassau,2025-04-16 05:00:00,18.2,88,1017.0,Partly cloudy,1.1944540000000001
+Bahamas,Nassau,2025-04-17 04:45:00,23.2,78,1018.0,Partly cloudy,5.00004
+Bahamas,Nassau,2025-04-18 05:15:00,23.2,65,1020.0,Partly cloudy,9.30563
+Bahamas,Nassau,2025-04-19 04:45:00,23.2,69,1022.0,Partly cloudy,9.805634
+Bahamas,Nassau,2025-04-20 05:00:00,23.3,57,1023.0,Partly cloudy,8.305622
+Bahamas,Nassau,2025-04-21 05:00:00,23.1,65,1021.0,Partly cloudy,8.111176
+Bahamas,Nassau,2025-04-22 05:15:00,21.0,73,1019.0,Overcast,6.6111640000000005
+Bahamas,Nassau,2025-04-23 05:00:00,22.4,79,1017.0,Overcast,7.50006
+Bahamas,Nassau,2025-04-24 05:00:00,24.1,74,1018.0,Partly cloudy,8.694514000000002
+Bahamas,Nassau,2025-04-25 05:00:00,24.3,74,1018.0,Cloudy,8.694514000000002
+Bahamas,Nassau,2025-04-26 05:00:00,23.4,78,1017.0,Partly cloudy,7.000056000000001
+Bahamas,Nassau,2025-04-27 04:45:00,23.1,78,1018.0,Partly Cloudy,5.111152
+Bahamas,Nassau,2025-04-28 05:30:00,23.1,73,1019.0,Overcast,6.305606
+Bahamas,Nassau,2025-04-29 04:45:00,23.1,78,1019.0,Partly cloudy,7.50006
+Bahamas,Nassau,2025-04-30 04:45:00,23.3,65,1019.0,Partly cloudy,7.611172000000001

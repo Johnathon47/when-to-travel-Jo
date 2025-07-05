@@ -1,0 +1,63 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Indonesia,Jakarta,2025-05-01 15:45:00,32.8,51,1007.0,Partly Cloudy,1.5000120000000003
+Indonesia,Laos,2025-05-01 15:45:00,29.6,67,1008.0,Patchy rain nearby,2.0000160000000005
+Indonesia,Jakarta,2025-05-02 16:00:00,31.8,57,1007.0,Patchy rain nearby,4.805594000000001
+Indonesia,Laos,2025-05-02 16:00:00,29.3,66,1008.0,Patchy rain nearby,1.8889040000000001
+Indonesia,Jakarta,2025-05-03 16:00:00,31.1,75,1005.0,Moderate or heavy rain with thunder,3.8055860000000004
+Indonesia,Laos,2025-05-03 16:00:00,28.9,70,1008.0,Patchy rain nearby,1.8889040000000001
+Indonesia,Jakarta,2025-05-04 15:45:00,32.4,63,1006.0,Patchy light rain,3.8055860000000004
+Indonesia,Laos,2025-05-04 15:45:00,29.1,73,1008.0,Patchy rain nearby,2.50002
+Indonesia,Jakarta,2025-05-05 16:00:00,33.3,59,1006.0,Patchy rain nearby,2.805578
+Indonesia,Laos,2025-05-05 16:00:00,26.9,91,1008.0,Patchy light drizzle,2.111128
+Indonesia,Jakarta,2025-05-06 16:00:00,32.3,56,1006.0,Patchy rain nearby,3.8889200000000006
+Indonesia,Laos,2025-05-06 16:00:00,26.7,91,1008.0,Light rain shower,1.8889040000000001
+Indonesia,Jakarta,2025-05-07 15:45:00,31.4,62,1006.0,Patchy rain nearby,4.194478
+Indonesia,Laos,2025-05-07 15:45:00,28.9,73,1007.0,Patchy rain nearby,2.6111320000000005
+Indonesia,Jakarta,2025-05-08 15:45:00,32.2,63,1005.0,Patchy light rain with thunder,3.8055860000000004
+Indonesia,Laos,2025-05-08 15:45:00,30.3,70,1006.0,Light rain shower,2.3889080000000003
+Indonesia,Jakarta,2025-05-09 16:15:00,32.1,63,1006.0,Partly cloudy,4.805594000000001
+Indonesia,Laos,2025-05-09 16:15:00,24.6,97,1008.0,Heavy rain,2.194462
+Indonesia,Jakarta,2025-05-10 16:00:00,30.3,75,1005.0,Patchy light rain with thunder,4.388924
+Indonesia,Laos,2025-05-10 16:00:00,26.8,88,1007.0,Light rain shower,1.3055660000000002
+Indonesia,Jakarta,2025-05-11 15:45:00,30.3,66,1005.0,Partly cloudy,2.111128
+Indonesia,Laos,2025-05-11 15:45:00,28.1,83,1006.0,Light rain shower,1.0000080000000002
+Indonesia,Jakarta,2025-05-12 16:00:00,33.1,59,1005.0,Partly cloudy,4.500036000000001
+Indonesia,Laos,2025-05-12 16:00:00,28.1,79,1006.0,Patchy light drizzle,1.8055700000000001
+Indonesia,Jakarta,2025-05-13 16:15:00,32.1,67,1005.0,Partly cloudy,3.6111400000000002
+Indonesia,Laos,2025-05-13 16:15:00,26.5,87,1008.0,Patchy light rain,1.0000080000000002
+Indonesia,Jakarta,2025-05-14 16:15:00,32.1,63,1007.0,Partly cloudy,1.611124
+Indonesia,Laos,2025-05-14 16:15:00,26.9,79,1009.0,Patchy light drizzle,1.0000080000000002
+Indonesia,Jakarta,2025-05-15 16:00:00,30.3,75,1006.0,Partly cloudy,4.194478
+Indonesia,Laos,2025-05-15 16:00:00,27.4,84,1008.0,Patchy light rain,1.0000080000000002
+Indonesia,Jakarta,2025-05-16 16:00:00,31.2,75,1006.0,Mist,1.611124
+Indonesia,Laos,2025-05-16 16:00:00,27.4,84,1008.0,Patchy light rain,1.694458
+Indonesia,Jakarta,2025-05-17 15:45:00,28.2,89,1007.0,Partly cloudy,2.0000160000000005
+Indonesia,Laos,2025-05-17 15:45:00,25.4,91,1009.0,Patchy light rain,1.0000080000000002
+Indonesia,Jakarta,2025-05-18 15:45:00,31.2,71,1006.0,Patchy light rain with thunder,2.194462
+Indonesia,Laos,2025-05-18 15:45:00,25.9,91,1009.0,Light rain shower,2.6111320000000005
+Indonesia,Jakarta,2025-05-19 16:00:00,30.0,79,1007.0,Light rain,3.0000240000000007
+Indonesia,Laos,2025-05-19 16:00:00,25.1,92,1009.0,Light rain shower,2.6111320000000005
+Indonesia,Jakarta,2025-05-20 16:00:00,32.4,59,1006.0,Patchy light drizzle,4.388924
+Indonesia,Laos,2025-05-20 16:00:00,25.3,94,1009.0,Light rain,2.3889080000000003
+Indonesia,Jakarta,2025-05-21 15:45:00,29.3,79,1006.0,Moderate or heavy rain with thunder,3.8055860000000004
+Indonesia,Laos,2025-05-21 15:45:00,25.7,93,1008.0,Light rain shower,2.194462
+Indonesia,Jakarta,2025-05-22 15:45:00,29.4,79,1005.0,Partly cloudy,3.6111400000000002
+Indonesia,Laos,2025-05-22 15:45:00,26.4,87,1007.0,Light rain shower,2.50002
+Indonesia,Jakarta,2025-05-23 16:00:00,27.3,89,1005.0,Moderate or heavy rain shower,3.8055860000000004
+Indonesia,Laos,2025-05-23 16:00:00,27.1,83,1006.0,Moderate rain at times,1.8889040000000001
+Indonesia,Jakarta,2025-05-24 15:45:00,30.2,75,1005.0,Partly cloudy,3.6944740000000005
+Indonesia,Laos,2025-05-24 15:45:00,28.7,75,1007.0,Patchy rain nearby,1.694458
+Indonesia,Jakarta,2025-05-25 15:30:00,28.1,84,1006.0,Light rain shower,2.8889120000000004
+Indonesia,Laos,2025-05-25 15:30:00,29.8,68,1007.0,Patchy rain nearby,3.6944740000000005
+Indonesia,Jakarta,2025-05-26 16:00:00,29.4,79,1007.0,Light rain shower,4.694482
+Indonesia,Laos,2025-05-26 16:00:00,28.8,78,1007.0,Patchy rain nearby,1.8055700000000001
+Indonesia,Jakarta,2025-05-27 16:00:00,34.4,56,1007.0,Partly cloudy,4.3055900000000005
+Indonesia,Laos,2025-05-27 16:00:00,25.9,92,1009.0,Moderate or heavy rain shower,1.0000080000000002
+Indonesia,Jakarta,2025-05-28 15:45:00,32.1,67,1007.0,Partly cloudy,1.3055660000000002
+Indonesia,Laos,2025-05-28 15:45:00,29.5,68,1009.0,Patchy rain nearby,2.6111320000000005
+Indonesia,Jakarta,2025-05-29 15:45:00,32.0,71,1008.0,Partly cloudy,3.1944700000000004
+Indonesia,Laos,2025-05-29 15:45:00,29.9,66,1009.0,Patchy rain nearby,3.0000240000000007
+Indonesia,Jakarta,2025-05-30 15:45:00,31.0,75,1009.0,Patchy rain nearby,3.6111400000000002
+Indonesia,Laos,2025-05-30 15:45:00,28.8,78,1011.0,Patchy rain nearby,2.6944660000000002
+Indonesia,Jakarta,2025-05-31 15:45:00,32.1,71,1009.0,Partly Cloudy,4.500036000000001
+Indonesia,Laos,2025-05-31 15:45:00,27.0,90,1011.0,Light rain shower,2.194462

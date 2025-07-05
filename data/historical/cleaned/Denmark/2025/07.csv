@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Denmark,Copenhagen,2025-07-01 10:45:00,20.3,56,1020.0,Sunny,2.3055740000000005
+Denmark,Copenhagen,2025-07-02 10:45:00,22.2,65,1015.0,Sunny,4.888928000000001
+Denmark,Copenhagen,2025-07-03 10:30:00,18.3,56,1016.0,Sunny,9.694522000000001
+Denmark,Copenhagen,2025-07-04 11:00:00,17.1,63,1024.0,Partly cloudy,5.500044000000001
+Denmark,Copenhagen,2025-07-05 10:45:00,17.3,83,1011.0,Moderate rain,6.888944000000001

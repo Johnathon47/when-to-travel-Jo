@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+United Kingdom,London,2024-09-01 13:00:00,24.4,65,1013.0,Sunny,4.694482
+United Kingdom,London,2024-09-02 13:15:00,19.1,88,1011.0,Partly cloudy,6.111160000000001
+United Kingdom,London,2024-09-03 13:15:00,22.4,73,1012.0,Partly cloudy,5.305598000000001
+United Kingdom,London,2024-09-04 13:00:00,18.3,64,1017.0,Partly cloudy,1.8889040000000001
+United Kingdom,London,2024-09-05 13:00:00,18.0,83,1011.0,Moderate rain,7.805618000000001
+United Kingdom,London,2024-09-06 13:15:00,19.3,88,1009.0,Mist,1.694458
+United Kingdom,London,2024-09-07 13:00:00,19.3,78,1010.0,Partly cloudy,1.0000080000000002
+United Kingdom,London,2024-09-08 13:15:00,19.3,73,1003.0,Moderate rain,2.50002
+United Kingdom,London,2024-09-09 13:30:00,15.3,72,1012.0,Partly cloudy,5.305598000000001
+United Kingdom,London,2024-09-10 13:30:00,18.4,64,1007.0,Partly cloudy,7.805618000000001
+United Kingdom,London,2024-09-11 13:15:00,15.2,55,1009.0,Partly cloudy,7.805618000000001
+United Kingdom,London,2024-09-12 13:15:00,15.2,51,1016.0,Moderate rain,5.611156
+United Kingdom,London,2024-09-13 13:30:00,16.0,42,1029.0,Sunny,2.3055740000000005
+United Kingdom,London,2024-09-14 13:30:00,17.1,48,1031.0,Partly cloudy,3.388916
+United Kingdom,London,2024-09-15 13:00:00,19.0,56,1027.0,Partly cloudy,3.3055820000000002
+United Kingdom,London,2024-09-16 12:15:00,17.3,63,1029.0,Partly cloudy,3.3055820000000002
+United Kingdom,London,2024-09-17 12:00:00,17.4,59,1031.0,Partly cloudy,4.694482
+United Kingdom,London,2024-09-18 11:45:00,19.4,73,1028.0,Partly cloudy,5.305598000000001
+United Kingdom,London,2024-09-19 11:45:00,20.2,73,1025.0,Partly cloudy,5.694490000000001
+United Kingdom,London,2024-09-20 12:00:00,19.1,78,1021.0,Partly cloudy,6.111160000000001
+United Kingdom,London,2024-09-21 12:00:00,20.4,73,1018.0,Partly cloudy,3.8889200000000006
+United Kingdom,London,2024-09-22 11:30:00,18.4,94,1012.0,Mist,3.111136
+United Kingdom,London,2024-09-23 10:45:00,16.2,100,1004.0,Light rain,4.694482
+United Kingdom,London,2024-09-24 10:45:00,15.3,88,1003.0,Overcast,2.805578
+United Kingdom,London,2024-09-25 10:30:00,12.1,94,1000.0,Partly cloudy,2.0000160000000005
+United Kingdom,London,2024-09-26 10:45:00,17.3,77,986.0,Moderate or heavy rain with thunder,5.694490000000001
+United Kingdom,London,2024-09-27 11:00:00,8.3,93,997.0,Moderate rain,6.694498000000001
+United Kingdom,London,2024-09-28 11:00:00,11.2,71,1023.0,Partly cloudy,3.6944740000000005
+United Kingdom,London,2024-09-29 10:30:00,11.4,71,1023.0,Sunny,4.611148000000001
+United Kingdom,London,2024-09-30 10:30:00,16.0,94,999.0,Partly cloudy,3.3055820000000002

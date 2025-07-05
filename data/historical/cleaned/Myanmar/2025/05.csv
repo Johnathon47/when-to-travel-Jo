@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Myanmar,Yangon,2025-05-01 15:15:00,33.0,71,1009.0,Moderate or heavy rain with thunder,3.6944740000000005
+Myanmar,Yangon,2025-05-02 15:30:00,26.3,100,1010.0,Moderate or heavy rain with thunder,2.111128
+Myanmar,Yangon,2025-05-03 15:30:00,33.3,67,1007.0,Light rain,5.305598000000001
+Myanmar,Yangon,2025-05-04 15:15:00,34.0,63,1006.0,Partly cloudy,3.5000280000000004
+Myanmar,Yangon,2025-05-05 15:30:00,35.2,53,1005.0,Partly cloudy,3.6944740000000005
+Myanmar,Yangon,2025-05-06 15:30:00,36.2,50,1005.0,Sunny,4.111144
+Myanmar,Yangon,2025-05-07 15:15:00,35.1,53,1003.0,Partly cloudy,3.8889200000000006
+Myanmar,Yangon,2025-05-08 15:15:00,35.1,63,1004.0,Partly cloudy,4.388924
+Myanmar,Yangon,2025-05-09 15:45:00,37.3,45,1003.0,Partly cloudy,7.111168000000001
+Myanmar,Yangon,2025-05-10 15:30:00,36.0,53,1004.0,Partly cloudy,3.6944740000000005
+Myanmar,Yangon,2025-05-11 15:15:00,34.3,71,1002.0,Partly cloudy,4.805594000000001
+Myanmar,Yangon,2025-05-12 15:30:00,34.2,63,1004.0,Partly cloudy,4.194478
+Myanmar,Yangon,2025-05-13 15:45:00,34.3,56,1004.0,Partly cloudy,5.00004
+Myanmar,Yangon,2025-05-14 15:45:00,30.3,84,1006.0,Partly cloudy,3.8889200000000006
+Myanmar,Yangon,2025-05-15 15:30:00,26.3,100,1008.0,Light rain,5.194486
+Myanmar,Yangon,2025-05-16 15:30:00,32.2,75,1006.0,Partly cloudy,3.6944740000000005
+Myanmar,Yangon,2025-05-17 15:15:00,34.0,60,1007.0,Partly cloudy,4.111144
+Myanmar,Yangon,2025-05-18 15:15:00,35.1,63,1007.0,Moderate or heavy rain with thunder,2.3055740000000005
+Myanmar,Yangon,2025-05-19 15:30:00,29.2,84,1006.0,Overcast,5.305598000000001
+Myanmar,Yangon,2025-05-20 15:30:00,34.1,71,1005.0,Partly cloudy,5.3889320000000005
+Myanmar,Yangon,2025-05-21 15:15:00,34.3,56,1007.0,Partly cloudy,5.194486
+Myanmar,Yangon,2025-05-22 15:15:00,28.2,94,1004.0,Light rain,3.111136
+Myanmar,Yangon,2025-05-23 15:30:00,34.2,63,1002.0,Partly cloudy,2.194462
+Myanmar,Yangon,2025-05-24 15:15:00,32.1,71,1002.0,Partly cloudy,3.6944740000000005
+Myanmar,Yangon,2025-05-25 15:00:00,26.1,94,1004.0,Moderate or heavy rain with thunder,4.888928000000001
+Myanmar,Yangon,2025-05-26 15:30:00,26.3,100,1002.0,Moderate rain,6.194494000000001
+Myanmar,Yangon,2025-05-27 15:30:00,25.2,100,1004.0,Moderate or heavy rain with thunder,5.500044000000001
+Myanmar,Yangon,2025-05-28 15:15:00,27.1,100,1002.0,Light rain,6.388940000000001
+Myanmar,Yangon,2025-05-29 15:15:00,31.0,71,1004.0,Overcast,6.388940000000001
+Myanmar,Yangon,2025-05-30 15:30:00,28.1,94,1005.0,Moderate rain,6.694498000000001
+Myanmar,Yangon,2025-05-31 15:15:00,29.4,89,1007.0,Light rain,5.805602

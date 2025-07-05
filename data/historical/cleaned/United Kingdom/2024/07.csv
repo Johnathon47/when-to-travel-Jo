@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+United Kingdom,London,2024-07-01 14:15:00,18.2,60,1018.0,Partly cloudy,5.611156
+United Kingdom,London,2024-07-02 14:15:00,16.3,68,1019.0,Partly cloudy,4.694482
+United Kingdom,London,2024-07-03 14:00:00,17.2,72,1007.0,Partly cloudy,4.194478
+United Kingdom,London,2024-07-04 14:15:00,18.4,42,1010.0,Sunny,7.805618000000001
+United Kingdom,London,2024-07-05 13:45:00,21.2,73,1005.0,Partly cloudy,4.694482
+United Kingdom,London,2024-07-06 14:15:00,15.2,82,1003.0,Partly cloudy,9.694522000000001
+United Kingdom,London,2024-07-07 14:00:00,13.3,88,1009.0,Moderate or heavy rain with thunder,3.6111400000000002
+United Kingdom,London,2024-07-08 14:00:00,16.4,72,1016.0,Partly cloudy,4.194478
+United Kingdom,London,2024-07-09 13:45:00,19.4,94,1010.0,Light rain,3.111136
+United Kingdom,London,2024-07-10 14:00:00,19.3,78,1012.0,Partly cloudy,4.694482
+United Kingdom,London,2024-07-11 13:45:00,22.2,50,1017.0,Partly cloudy,4.194478
+United Kingdom,London,2024-07-12 14:00:00,18.1,56,1017.0,Partly cloudy,5.305598000000001
+United Kingdom,London,2024-07-14 14:15:00,20.3,56,1011.0,Partly cloudy,3.6111400000000002
+United Kingdom,London,2024-07-15 14:00:00,17.9,72,1007.0,Light drizzle,3.6111400000000002
+United Kingdom,London,2024-07-16 13:45:00,20.3,68,1009.0,Light rain,6.111160000000001
+United Kingdom,London,2024-07-17 13:45:00,23.3,50,1021.0,Partly cloudy,2.50002
+United Kingdom,London,2024-07-18 13:45:00,25.3,50,1020.0,Patchy rain nearby,3.0000240000000007
+United Kingdom,London,2024-07-19 13:30:00,31.1,41,1015.0,Sunny,5.305598000000001
+United Kingdom,London,2024-07-20 13:45:00,22.2,73,1007.0,Partly cloudy,3.111136
+United Kingdom,London,2024-07-23 13:30:00,22.9,52,1018.0,Patchy rain nearby,3.388916
+United Kingdom,London,2024-07-24 13:45:00,22.2,61,1019.0,Patchy rain nearby,4.000032000000001
+United Kingdom,London,2024-07-25 13:15:00,20.9,78,1010.0,Patchy rain nearby,5.00004
+United Kingdom,London,2024-07-26 13:30:00,22.8,40,1011.0,Partly Cloudy,4.111144
+United Kingdom,London,2024-07-27 13:30:00,22.8,36,1014.0,Partly Cloudy,3.1944700000000004
+United Kingdom,London,2024-07-28 13:45:00,25.5,36,1025.0,Sunny,1.5000120000000003
+United Kingdom,London,2024-07-29 13:15:00,17.1,64,1024.0,Clear,1.8055700000000001
+United Kingdom,London,2024-07-30 13:15:00,29.2,34,1016.0,Sunny,1.8055700000000001
+United Kingdom,London,2024-07-31 13:15:00,27.7,43,1013.0,Sunny,4.694482

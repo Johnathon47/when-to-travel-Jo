@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Kuwait,Kuwait City,2025-07-01 12:00:00,43.7,7,996.0,Mist,11.694538000000001
+Kuwait,Kuwait City,2025-07-02 11:45:00,42.2,7,999.0,Sunny,6.194494000000001
+Kuwait,Kuwait City,2025-07-03 11:30:00,42.7,8,998.0,Mist,6.500052
+Kuwait,Kuwait City,2025-07-04 12:00:00,41.1,10,999.0,Sunny,10.69453
+Kuwait,Kuwait City,2025-07-05 11:45:00,41.2,7,999.0,Mist,10.305638000000002

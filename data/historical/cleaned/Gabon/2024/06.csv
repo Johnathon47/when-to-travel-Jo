@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Gabon,Libreville,2024-06-01 15:15:00,30.0,75,1011.0,Partly cloudy,4.194478
+Gabon,Libreville,2024-06-02 15:00:00,29.0,79,1011.0,Partly cloudy,3.111136
+Gabon,Libreville,2024-06-03 15:15:00,29.0,75,1012.0,Partly cloudy,3.111136
+Gabon,Libreville,2024-06-04 15:15:00,27.9,70,1012.0,Partly Cloudy,3.8889200000000006
+Gabon,Libreville,2024-06-05 15:15:00,28.0,79,1013.0,Partly cloudy,3.6111400000000002
+Gabon,Libreville,2024-06-06 15:00:00,28.0,68,1013.0,Partly Cloudy,4.194478
+Gabon,Libreville,2024-06-07 15:00:00,27.3,70,1013.0,Sunny,4.500036000000001
+Gabon,Libreville,2024-06-08 15:15:00,29.1,70,1012.0,Partly cloudy,4.694482
+Gabon,Libreville,2024-06-09 15:15:00,29.1,70,1012.0,Partly cloudy,4.194478
+Gabon,Libreville,2024-06-10 15:15:00,29.3,70,1012.0,Partly cloudy,3.111136
+Gabon,Libreville,2024-06-11 15:00:00,28.2,74,1013.0,Partly cloudy,3.111136
+Gabon,Libreville,2024-06-12 15:15:00,29.0,79,1010.0,Partly cloudy,4.194478
+Gabon,Libreville,2024-06-13 15:00:00,28.1,70,1010.0,Patchy rain nearby,5.111152
+Gabon,Libreville,2024-06-14 15:00:00,28.0,70,1011.0,Patchy rain nearby,2.6944660000000002
+Gabon,Libreville,2024-06-15 15:00:00,27.8,72,1010.0,Partly Cloudy,4.111144
+Gabon,Libreville,2024-06-16 14:45:00,27.9,66,1011.0,Partly Cloudy,3.1944700000000004
+Gabon,Libreville,2024-06-17 15:00:00,28.0,71,1010.0,Patchy rain nearby,2.3889080000000003
+Gabon,Libreville,2024-06-18 15:00:00,27.4,72,1010.0,Partly Cloudy,4.500036000000001
+Gabon,Libreville,2024-06-20 14:45:00,29.1,67,1010.0,Partly Cloudy,3.5000280000000004
+Gabon,Libreville,2024-06-21 14:30:00,27.1,79,1012.0,Partly cloudy,1.8889040000000001
+Gabon,Libreville,2024-06-22 14:45:00,28.2,66,1012.0,Partly cloudy,3.111136
+Gabon,Libreville,2024-06-23 14:45:00,27.5,71,1011.0,Sunny,4.611148000000001
+Gabon,Libreville,2024-06-24 14:45:00,27.1,72,1011.0,Partly Cloudy,4.111144
+Gabon,Libreville,2024-06-25 14:15:00,26.5,75,1011.0,Light rain shower,3.6944740000000005
+Gabon,Libreville,2024-06-26 14:30:00,28.2,79,1011.0,Partly cloudy,2.50002
+Gabon,Libreville,2024-06-27 14:00:00,29.2,75,1012.0,Partly cloudy,3.111136
+Gabon,Libreville,2024-06-28 14:15:00,28.4,74,1011.0,Partly cloudy,3.6111400000000002
+Gabon,Libreville,2024-06-29 13:45:00,26.5,75,1012.0,Patchy rain nearby,3.8889200000000006
+Gabon,Libreville,2024-06-30 14:30:00,26.4,69,1012.0,Sunny,4.611148000000001

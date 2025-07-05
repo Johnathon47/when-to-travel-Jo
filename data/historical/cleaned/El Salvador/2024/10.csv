@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+El Salvador,San Salvador,2024-10-01 04:00:00,24.3,100,1010.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-10-02 03:30:00,24.1,94,1009.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-10-03 03:30:00,24.2,100,1010.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-10-04 03:45:00,20.2,97,1012.0,Mist,1.0000080000000002
+El Salvador,San Salvador,2024-10-05 03:30:00,21.0,97,1013.0,Fog,1.0000080000000002
+El Salvador,San Salvador,2024-10-06 03:15:00,23.2,100,1011.0,Clear,1.0000080000000002
+El Salvador,San Salvador,2024-10-07 03:45:00,20.9,96,1010.0,Mist,1.0000080000000002
+El Salvador,San Salvador,2024-10-08 03:45:00,20.9,98,1010.0,Fog,1.0000080000000002
+El Salvador,San Salvador,2024-10-09 03:45:00,20.7,98,1011.0,Light rain shower,1.0000080000000002
+El Salvador,San Salvador,2024-10-10 03:45:00,20.6,97,1013.0,Fog,1.3055660000000002
+El Salvador,San Salvador,2024-10-11 03:45:00,20.6,97,1013.0,Fog,1.3055660000000002
+El Salvador,San Salvador,2024-10-12 03:45:00,19.7,84,1012.0,Partly Cloudy,1.5000120000000003
+El Salvador,San Salvador,2024-10-13 03:30:00,19.4,94,1013.0,Mist,1.5000120000000003
+El Salvador,San Salvador,2024-10-14 03:30:00,20.8,96,1014.0,Mist,1.3055660000000002
+El Salvador,San Salvador,2024-10-15 03:30:00,20.6,97,1014.0,Mist,1.5000120000000003
+El Salvador,San Salvador,2024-10-16 03:30:00,20.8,97,1012.0,Light rain shower,1.1944540000000001
+El Salvador,San Salvador,2024-10-17 03:30:00,20.6,98,1010.0,Light rain shower,1.0000080000000002
+El Salvador,San Salvador,2024-10-18 03:30:00,20.6,96,1011.0,Mist,1.1944540000000001
+El Salvador,San Salvador,2024-10-19 03:15:00,21.3,97,1010.0,Light rain shower,1.0000080000000002
+El Salvador,San Salvador,2024-10-20 03:30:00,20.3,99,1011.0,Moderate rain,1.0000080000000002
+El Salvador,San Salvador,2024-10-21 03:15:00,20.7,97,1011.0,Fog,1.1944540000000001
+El Salvador,San Salvador,2024-10-22 03:15:00,20.6,97,1012.0,Fog,1.11112
+El Salvador,San Salvador,2024-10-23 03:15:00,20.3,97,1013.0,Fog,1.3889
+El Salvador,San Salvador,2024-10-25 03:15:00,19.9,92,1012.0,Clear,1.3055660000000002
+El Salvador,San Salvador,2024-10-26 03:15:00,20.3,96,1013.0,Mist,1.611124
+El Salvador,San Salvador,2024-10-27 03:15:00,20.7,95,1012.0,Mist,1.694458
+El Salvador,San Salvador,2024-10-28 03:15:00,20.1,95,1011.0,Mist,1.694458
+El Salvador,San Salvador,2024-10-29 03:00:00,19.7,96,1011.0,Mist,1.5000120000000003
+El Salvador,San Salvador,2024-10-30 03:00:00,20.2,96,1012.0,Mist,1.3055660000000002
+El Salvador,San Salvador,2024-10-31 03:00:00,20.2,97,1011.0,Mist,1.1944540000000001

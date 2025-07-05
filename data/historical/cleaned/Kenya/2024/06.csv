@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Kenya,Nairobi,2024-06-01 17:15:00,24.0,57,1022.0,Partly cloudy,5.305598000000001
+Kenya,Nairobi,2024-06-02 17:00:00,25.0,54,1022.0,Partly cloudy,4.694482
+Kenya,Nairobi,2024-06-03 17:15:00,25.0,54,1021.0,Partly cloudy,1.0000080000000002
+Kenya,Nairobi,2024-06-04 17:15:00,22.0,61,1021.0,Moderate rain,5.611156
+Kenya,Nairobi,2024-06-05 17:15:00,24.0,57,1021.0,Partly cloudy,4.694482
+Kenya,Nairobi,2024-06-06 17:00:00,23.0,61,1023.0,Partly cloudy,1.0000080000000002
+Kenya,Nairobi,2024-06-07 17:00:00,25.3,54,1023.0,Partly cloudy,3.6111400000000002
+Kenya,Nairobi,2024-06-08 17:15:00,23.1,61,1023.0,Partly cloudy,4.194478
+Kenya,Nairobi,2024-06-09 17:15:00,19.1,73,1024.0,Partly cloudy,4.694482
+Kenya,Nairobi,2024-06-10 17:15:00,23.1,50,1024.0,Partly cloudy,4.194478
+Kenya,Nairobi,2024-06-11 17:00:00,19.3,71,1024.0,Partly cloudy,4.194478
+Kenya,Nairobi,2024-06-12 17:15:00,24.2,44,1024.0,Partly cloudy,3.111136
+Kenya,Nairobi,2024-06-13 17:00:00,24.3,47,1023.0,Partly cloudy,2.50002
+Kenya,Nairobi,2024-06-14 17:00:00,20.3,67,1014.0,Patchy rain nearby,1.11112
+Kenya,Nairobi,2024-06-15 17:00:00,19.7,75,1013.0,Light rain shower,2.111128
+Kenya,Nairobi,2024-06-16 16:45:00,21.6,58,1012.0,Patchy rain nearby,1.694458
+Kenya,Nairobi,2024-06-17 17:00:00,22.7,52,1014.0,Patchy rain nearby,3.5000280000000004
+Kenya,Nairobi,2024-06-18 17:00:00,24.3,44,1024.0,Partly cloudy,2.50002
+Kenya,Nairobi,2024-06-19 16:45:00,24.2,50,1022.0,Partly cloudy,1.0000080000000002
+Kenya,Nairobi,2024-06-20 16:45:00,16.3,89,1018.0,Light rain shower,2.8889120000000004
+Kenya,Nairobi,2024-06-21 16:30:00,22.1,50,1024.0,Partly cloudy,6.111160000000001
+Kenya,Nairobi,2024-06-22 16:45:00,22.2,46,1024.0,Partly cloudy,5.305598000000001
+Kenya,Nairobi,2024-06-23 16:45:00,22.2,46,1023.0,Partly cloudy,4.694482
+Kenya,Nairobi,2024-06-24 16:45:00,23.3,47,1023.0,Partly cloudy,4.694482
+Kenya,Mombasa,2024-06-25 16:15:00,26.8,65,1014.0,Sunny,9.111184
+Kenya,Nairobi,2024-06-25 16:15:00,19.9,54,1014.0,Partly Cloudy,2.805578
+Kenya,Nairobi,2024-06-26 16:30:00,22.1,43,1023.0,Partly cloudy,1.0000080000000002
+Kenya,Nairobi,2024-06-27 16:15:00,21.4,53,1025.0,Partly cloudy,5.611156
+Kenya,Nairobi,2024-06-28 16:15:00,22.3,46,1024.0,Partly cloudy,2.50002
+Kenya,Nairobi,2024-06-29 15:45:00,23.4,47,1022.0,Partly cloudy,1.0000080000000002
+Kenya,Nairobi,2024-06-30 16:30:00,22.3,50,1023.0,Partly cloudy,2.50002

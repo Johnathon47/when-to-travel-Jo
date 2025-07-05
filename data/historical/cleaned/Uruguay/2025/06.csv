@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Uruguay,Montevideo,2025-06-01 05:45:00,9.7,72,1023.0,Clear,3.5000280000000004
+Uruguay,Montevideo,2025-06-02 06:00:00,5.3,100,1021.0,Clear,4.888928000000001
+Uruguay,Montevideo,2025-06-03 06:00:00,6.4,100,1018.0,Clear,2.8889120000000004
+Uruguay,Montevideo,2025-06-04 06:00:00,10.3,94,1012.0,Partly Cloudy,3.3055820000000002
+Uruguay,Montevideo,2025-06-05 05:45:00,10.3,87,1016.0,Clear,4.388924
+Uruguay,Montevideo,2025-06-06 06:00:00,4.1,100,1021.0,Mist,3.6111400000000002
+Uruguay,Montevideo,2025-06-07 05:45:00,5.3,87,1020.0,Clear,2.6944660000000002
+Uruguay,Montevideo,2025-06-08 05:45:00,12.4,81,1020.0,Partly Cloudy,2.111128
+Uruguay,Montevideo,2025-06-09 05:45:00,9.2,81,1024.0,Overcast,2.3055740000000005
+Uruguay,Montevideo,2025-06-10 06:00:00,2.2,100,1024.0,Overcast,1.8055700000000001
+Uruguay,Montevideo,2025-06-11 06:00:00,4.1,100,1027.0,Fog,2.3889080000000003
+Uruguay,Montevideo,2025-06-12 05:45:00,7.0,100,1025.0,Clear,5.111152
+Uruguay,Montevideo,2025-06-13 06:00:00,10.2,87,1019.0,Clear,5.194486
+Uruguay,Montevideo,2025-06-14 06:00:00,13.3,88,1016.0,Light rain,1.8055700000000001
+Uruguay,Montevideo,2025-06-15 05:45:00,12.1,100,1011.0,Light rain,7.805618000000001
+Uruguay,Montevideo,2025-06-16 06:00:00,5.2,100,1016.0,Mist,4.611148000000001
+Uruguay,Montevideo,2025-06-17 06:00:00,9.0,100,1013.0,Mist,1.694458
+Uruguay,Montevideo,2025-06-18 06:15:00,6.2,93,1021.0,Clear,3.0000240000000007
+Uruguay,Montevideo,2025-06-19 06:00:00,3.2,100,1023.0,Fog,1.0000080000000002
+Uruguay,Montevideo,2025-06-20 06:00:00,4.3,100,1022.0,Clear,2.194462
+Uruguay,Montevideo,2025-06-21 05:45:00,6.1,93,1014.0,Mist,4.388924
+Uruguay,Montevideo,2025-06-22 05:45:00,10.3,94,1006.0,Partly Cloudy,4.388924
+Uruguay,Montevideo,2025-06-23 06:00:00,5.1,100,1005.0,Moderate rain,10.805642
+Uruguay,Montevideo,2025-06-24 05:45:00,7.3,81,1011.0,Partly cloudy,8.611180000000001
+Uruguay,Montevideo,2025-06-25 06:00:00,5.1,65,1012.0,Clear,6.888944000000001
+Uruguay,Montevideo,2025-06-26 06:00:00,2.0,100,1017.0,Partly Cloudy,3.111136
+Uruguay,Montevideo,2025-06-27 05:45:00,8.4,78,1021.0,Clear,4.3055900000000005
+Uruguay,Montevideo,2025-06-28 05:45:00,2.3,80,1021.0,Clear,2.50002
+Uruguay,Montevideo,2025-06-29 05:45:00,9.0,81,1023.0,Partly cloudy,8.111176
+Uruguay,Montevideo,2025-06-30 05:30:00,3.3,93,1027.0,Overcast,6.305606

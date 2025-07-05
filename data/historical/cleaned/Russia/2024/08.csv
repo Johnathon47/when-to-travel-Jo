@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Russia,Moscow,2024-08-01 15:15:00,19.6,62,1001.0,Patchy rain nearby,5.00004
+Russia,Moscow,2024-08-02 15:30:00,19.9,59,1003.0,Patchy rain nearby,4.611148000000001
+Russia,Moscow,2024-08-03 15:30:00,22.7,50,1004.0,Patchy rain nearby,3.1944700000000004
+Russia,Moscow,2024-08-04 15:30:00,24.4,42,1004.0,Thundery outbreaks in nearby,3.111136
+Russia,Moscow,2024-08-05 15:30:00,24.8,44,1006.0,Partly Cloudy,4.388924
+Russia,Moscow,2024-08-06 15:15:00,24.7,41,1008.0,Partly Cloudy,2.3889080000000003
+Russia,Moscow,2024-08-07 15:00:00,23.4,44,1009.0,Partly Cloudy,1.0000080000000002
+Russia,Moscow,2024-08-08 15:15:00,22.3,56,1009.0,Patchy rain nearby,4.000032000000001
+Russia,Moscow,2024-08-09 15:30:00,23.4,41,1011.0,Partly Cloudy,3.3055820000000002
+Russia,Moscow,2024-08-10 15:30:00,23.9,38,1010.0,Partly Cloudy,3.5000280000000004
+Russia,Moscow,2024-08-11 15:15:00,20.4,49,1003.0,Patchy rain nearby,5.305598000000001
+Russia,Moscow,2024-08-12 15:30:00,16.7,63,1003.0,Cloudy,5.805602
+Russia,Moscow,2024-08-13 15:45:00,17.4,73,1007.0,Patchy rain nearby,4.694482
+Russia,Moscow,2024-08-14 15:30:00,22.2,50,1011.0,Sunny,6.111160000000001
+Russia,Moscow,2024-08-15 15:15:00,21.1,43,1014.0,Sunny,7.194502
+Russia,Moscow,2024-08-16 15:15:00,23.3,44,1015.0,Sunny,8.305622
+Russia,Moscow,2024-08-17 15:15:00,22.1,69,1011.0,Partly cloudy,4.194478
+Russia,Moscow,2024-08-18 15:00:00,26.4,51,1011.0,Moderate or heavy rain with thunder,5.305598000000001
+Russia,Moscow,2024-08-19 15:30:00,28.4,42,1013.0,Sunny,4.194478
+Russia,Moscow,2024-08-20 15:15:00,21.2,83,1016.0,Partly cloudy,4.194478
+Russia,Moscow,2024-08-21 15:15:00,23.2,41,1016.0,Sunny,5.305598000000001
+Russia,Moscow,2024-08-22 15:00:00,24.3,54,1014.0,Sunny,6.111160000000001
+Russia,Moscow,2024-08-23 15:15:00,24.1,61,1013.0,Sunny,3.111136
+Russia,Moscow,2024-08-24 15:00:00,21.2,56,1019.0,Partly cloudy,3.111136
+Russia,Moscow,2024-08-25 15:00:00,26.1,51,1020.0,Partly cloudy,1.8889040000000001
+Russia,Moscow,2024-08-26 15:15:00,28.0,42,1021.0,Sunny,3.111136
+Russia,Moscow,2024-08-27 15:15:00,29.0,40,1022.0,Sunny,3.111136
+Russia,Moscow,2024-08-28 15:30:00,26.2,58,1025.0,Partly cloudy,4.194478
+Russia,Moscow,2024-08-29 15:00:00,25.2,44,1026.0,Sunny,3.111136
+Russia,Moscow,2024-08-30 15:15:00,25.0,44,1026.0,Sunny,1.8889040000000001
+Russia,Moscow,2024-08-31 15:00:00,27.1,42,1025.0,Sunny,4.194478

@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+China,Beijing,2025-07-01 17:00:00,31.3,66,1003.0,Sunny,4.611148000000001
+China,Beijing,2025-07-02 16:45:00,32.2,67,1004.0,Partly Cloudy,4.388924
+China,Beijing,2025-07-03 16:30:00,28.2,89,1001.0,Partly cloudy,1.3055660000000002
+China,Beijing,2025-07-04 17:00:00,34.2,63,998.0,Sunny,3.6944740000000005
+China,Beijing,2025-07-05 16:30:00,35.1,39,999.0,Sunny,5.305598000000001

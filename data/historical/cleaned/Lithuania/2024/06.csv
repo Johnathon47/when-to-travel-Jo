@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Lithuania,Vilnius,2024-06-01 17:30:00,23.0,57,1012.0,Partly cloudy,1.0000080000000002
+Lithuania,Vilnius,2024-06-02 17:00:00,24.0,50,1008.0,Moderate or heavy rain shower,3.6111400000000002
+Lithuania,Vilnius,2024-06-03 17:15:00,18.0,83,1009.0,Moderate or heavy rain with thunder,5.305598000000001
+Lithuania,Vilnius,2024-06-04 17:15:00,22.0,57,1011.0,Partly cloudy,3.111136
+Lithuania,Vilnius,2024-06-05 17:15:00,18.0,88,1009.0,Light rain,1.0000080000000002
+Lithuania,Vilnius,2024-06-06 17:00:00,20.0,46,1014.0,Partly cloudy,4.694482
+Lithuania,Vilnius,2024-06-07 17:00:00,20.3,49,1016.0,Partly cloudy,4.694482
+Lithuania,Vilnius,2024-06-08 17:15:00,18.3,45,1014.0,Partly cloudy,5.305598000000001
+Lithuania,Vilnius,2024-06-09 17:15:00,19.4,78,1005.0,Partly cloudy,4.694482
+Lithuania,Vilnius,2024-06-10 17:15:00,16.4,77,1006.0,Light rain,1.0000080000000002
+Lithuania,Vilnius,2024-06-11 17:00:00,22.3,53,1006.0,Partly cloudy,2.50002
+Lithuania,Vilnius,2024-06-12 17:15:00,20.2,37,1014.0,Partly cloudy,5.305598000000001
+Lithuania,Vilnius,2024-06-13 17:00:00,19.1,40,1016.0,Partly cloudy,1.8889040000000001
+Lithuania,Vilnius,2024-06-14 17:00:00,15.8,64,1016.0,Patchy rain nearby,2.805578
+Lithuania,Vilnius,2024-06-15 17:00:00,19.0,60,1015.0,Partly Cloudy,2.194462
+Lithuania,Vilnius,2024-06-16 16:45:00,23.8,51,1012.0,Partly Cloudy,1.8889040000000001
+Lithuania,Vilnius,2024-06-17 17:00:00,21.6,73,1011.0,Patchy rain nearby,4.888928000000001
+Lithuania,Vilnius,2024-06-18 17:00:00,25.2,47,1015.0,Partly cloudy,5.305598000000001
+Lithuania,Vilnius,2024-06-19 16:45:00,20.8,88,1007.0,Patchy rain nearby,6.000048000000001
+Lithuania,Vilnius,2024-06-20 16:45:00,21.1,49,1017.0,Partly cloudy,7.805618000000001
+Lithuania,Vilnius,2024-06-21 16:30:00,22.1,38,1016.0,Sunny,5.611156
+Lithuania,Vilnius,2024-06-22 16:45:00,21.2,69,1009.0,Sunny,4.194478
+Lithuania,Vilnius,2024-06-23 16:45:00,18.2,73,1010.0,Partly cloudy,5.611156
+Lithuania,Vilnius,2024-06-24 16:45:00,20.1,68,1016.0,Partly cloudy,3.6111400000000002
+Lithuania,Vilnius,2024-06-25 16:15:00,24.8,44,1020.0,Partly Cloudy,3.8055860000000004
+Lithuania,Vilnius,2024-06-26 16:30:00,26.2,42,1018.0,Sunny,3.111136
+Lithuania,Vilnius,2024-06-27 16:15:00,29.2,45,1016.0,Sunny,3.111136
+Lithuania,Vilnius,2024-06-28 16:15:00,31.2,36,1015.0,Sunny,3.6111400000000002
+Lithuania,Vilnius,2024-06-29 15:45:00,25.4,44,1017.0,Partly cloudy,5.305598000000001
+Lithuania,Vilnius,2024-06-30 16:30:00,28.4,37,1012.0,Sunny,4.194478

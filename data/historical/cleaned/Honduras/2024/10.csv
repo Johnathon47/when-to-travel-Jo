@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Honduras,Tegucigalpa,2024-10-01 04:00:00,19.2,94,1016.0,Mist,1.11112
+Honduras,Tegucigalpa,2024-10-02 03:30:00,19.3,94,1015.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-10-03 03:30:00,21.1,94,1015.0,Partly cloudy,1.3889
+Honduras,Tegucigalpa,2024-10-04 03:45:00,16.5,98,1013.0,Fog,1.1944540000000001
+Honduras,Tegucigalpa,2024-10-05 03:30:00,16.3,94,1014.0,Partly Cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-10-06 03:15:00,19.0,100,1018.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-10-07 03:45:00,16.2,93,1012.0,Partly Cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-10-08 03:45:00,16.6,96,1011.0,Light rain shower,1.3889
+Honduras,Tegucigalpa,2024-10-09 03:45:00,16.9,96,1013.0,Light rain shower,1.11112
+Honduras,Tegucigalpa,2024-10-10 03:45:00,16.2,96,1015.0,Mist,1.3889
+Honduras,Tegucigalpa,2024-10-11 03:45:00,16.1,98,1015.0,Fog,2.111128
+Honduras,Tegucigalpa,2024-10-12 03:45:00,13.6,98,1015.0,Fog,2.194462
+Honduras,Tegucigalpa,2024-10-13 03:30:00,16.0,97,1016.0,Fog,2.194462
+Honduras,Tegucigalpa,2024-10-14 03:30:00,19.0,88,1020.0,Partly cloudy,1.611124
+Honduras,Tegucigalpa,2024-10-15 03:30:00,15.7,99,1016.0,Fog,1.694458
+Honduras,Tegucigalpa,2024-10-16 03:30:00,16.0,95,1014.0,Mist,1.3889
+Honduras,Tegucigalpa,2024-10-17 03:30:00,15.8,97,1012.0,Mist,1.5000120000000003
+Honduras,Tegucigalpa,2024-10-18 03:30:00,17.2,98,1012.0,Fog,1.611124
+Honduras,Tegucigalpa,2024-10-19 03:30:00,20.2,94,1015.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-10-20 03:30:00,17.4,99,1013.0,Fog,1.5000120000000003
+Honduras,Tegucigalpa,2024-10-21 03:15:00,15.7,95,1013.0,Mist,1.611124
+Honduras,Tegucigalpa,2024-10-22 03:15:00,16.1,95,1014.0,Mist,1.5000120000000003
+Honduras,Tegucigalpa,2024-10-23 03:15:00,15.7,99,1015.0,Fog,1.694458
+Honduras,Tegucigalpa,2024-10-25 03:15:00,15.4,99,1014.0,Fog,2.111128
+Honduras,Tegucigalpa,2024-10-26 03:15:00,16.7,98,1015.0,Fog,2.3055740000000005
+Honduras,Tegucigalpa,2024-10-27 03:15:00,16.7,92,1015.0,Patchy rain nearby,3.0000240000000007
+Honduras,Tegucigalpa,2024-10-28 03:15:00,16.8,99,1014.0,Fog,2.3889080000000003
+Honduras,Tegucigalpa,2024-10-29 03:00:00,15.8,98,1014.0,Fog,2.194462
+Honduras,Tegucigalpa,2024-10-30 03:00:00,15.1,94,1014.0,Partly Cloudy,1.694458
+Honduras,Tegucigalpa,2024-10-31 03:00:00,14.9,98,1013.0,Fog,1.611124

@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Gabon,Libreville,2025-07-01 10:00:00,25.0,83,1015.0,Patchy rain nearby,1.611124
+Gabon,Libreville,2025-07-02 09:45:00,25.3,83,1016.0,Partly cloudy,2.6944660000000002
+Gabon,Libreville,2025-07-03 09:30:00,25.4,79,1016.0,Cloudy,3.6944740000000005
+Gabon,Libreville,2025-07-04 10:00:00,25.3,83,1016.0,Partly cloudy,3.5000280000000004
+Gabon,Libreville,2025-07-05 10:00:00,25.3,79,1016.0,Cloudy,3.3055820000000002

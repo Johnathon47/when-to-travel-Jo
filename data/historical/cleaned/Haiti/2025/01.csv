@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Haiti,Port-Au-Prince,2025-01-01 05:30:00,16.7,87,1015.0,Clear,1.11112
+Haiti,Port-Au-Prince,2025-01-02 04:45:00,22.2,89,1015.0,Cloudy,1.3889
+Haiti,Port-Au-Prince,2025-01-03 05:00:00,17.0,89,1016.0,Partly Cloudy,2.3889080000000003
+Haiti,Port-Au-Prince,2025-01-04 05:15:00,17.3,95,1016.0,Mist,1.694458
+Haiti,Port-Au-Prince,2025-01-05 04:45:00,19.0,94,1017.0,Partly Cloudy,2.50002
+Haiti,Port-Au-Prince,2025-01-06 05:15:00,15.7,94,1017.0,Partly Cloudy,2.805578
+Haiti,Port-Au-Prince,2025-01-08 05:15:00,16.9,93,1016.0,Partly Cloudy,1.3889
+Haiti,Port-Au-Prince,2025-01-09 05:00:00,18.5,96,1014.0,Mist,1.0000080000000002
+Haiti,Port-Au-Prince,2025-01-10 05:15:00,20.5,97,1014.0,Fog,1.8889040000000001
+Haiti,Port-Au-Prince,2025-01-11 04:45:00,15.0,94,1014.0,Partly Cloudy,1.1944540000000001
+Haiti,Port-Au-Prince,2025-01-12 05:30:00,18.1,90,1014.0,Clear,1.3055660000000002
+Haiti,Port-Au-Prince,2025-01-13 05:00:00,21.4,93,1017.0,Partly Cloudy,2.111128
+Haiti,Port-Au-Prince,2025-01-14 05:15:00,14.8,97,1018.0,Fog,1.611124
+Haiti,Port-Au-Prince,2025-01-15 05:30:00,20.3,96,1017.0,Cloudy,1.8055700000000001
+Haiti,Port-Au-Prince,2025-01-16 05:00:00,17.7,94,1017.0,Mist,2.111128
+Haiti,Port-Au-Prince,2025-01-17 04:45:00,22.2,92,1017.0,Partly Cloudy,1.0000080000000002
+Haiti,Port-Au-Prince,2025-01-18 04:30:00,17.9,94,1017.0,Clear,1.611124
+Haiti,Port-Au-Prince,2025-01-19 05:00:00,17.4,92,1018.0,Clear,1.694458
+Haiti,Port-Au-Prince,2025-01-20 04:45:00,16.9,90,1018.0,Clear,2.111128
+Haiti,Port-Au-Prince,2025-01-21 05:30:00,16.8,94,1018.0,Partly Cloudy,2.3055740000000005
+Haiti,Port-Au-Prince,2025-01-22 05:15:00,15.5,92,1017.0,Clear,1.11112
+Haiti,Port-Au-Prince,2025-01-23 05:30:00,15.5,88,1017.0,Clear,2.194462
+Haiti,Port-Au-Prince,2025-01-24 05:30:00,18.0,94,1017.0,Clear,1.611124
+Haiti,Port-Au-Prince,2025-01-25 05:30:00,18.7,93,1017.0,Partly Cloudy,1.0000080000000002
+Haiti,Port-Au-Prince,2025-01-26 05:15:00,17.8,94,1018.0,Partly Cloudy,2.50002
+Haiti,Port-Au-Prince,2025-01-27 05:30:00,16.3,87,1016.0,Clear,2.3889080000000003
+Haiti,Port-Au-Prince,2025-01-28 06:00:00,17.9,91,1016.0,Partly Cloudy,1.0000080000000002
+Haiti,Port-Au-Prince,2025-01-29 05:30:00,18.2,70,1016.0,Clear,1.3889
+Haiti,Port-Au-Prince,2025-01-30 05:15:00,16.9,88,1018.0,Clear,2.3055740000000005
+Haiti,Port-Au-Prince,2025-01-31 05:30:00,16.1,95,1018.0,Partly Cloudy,2.8889120000000004

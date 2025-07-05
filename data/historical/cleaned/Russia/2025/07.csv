@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Russia,Moscow,2025-07-01 12:00:00,12.0,94,996.0,Light rain,6.694498000000001
+Russia,Moscow,2025-07-02 11:45:00,16.2,72,1006.0,Partly cloudy,5.194486
+Russia,Moscow,2025-07-03 11:15:00,22.2,53,1012.0,Partly Cloudy,5.111152
+Russia,Moscow,2025-07-04 11:45:00,25.2,61,1010.0,Overcast,6.194494000000001
+Russia,Moscow,2025-07-05 12:00:00,18.0,49,1013.0,Partly Cloudy,5.305598000000001

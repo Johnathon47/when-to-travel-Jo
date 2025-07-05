@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Switzerland,Bern,2025-07-01 10:30:00,27.1,48,1019.0,Sunny,1.11112
+Switzerland,Bern,2025-07-02 11:00:00,26.3,58,1019.0,Partly Cloudy,1.1944540000000001
+Switzerland,Bern,2025-07-03 10:45:00,26.3,54,1023.0,Partly cloudy,1.1944540000000001
+Switzerland,Bern,2025-07-04 11:00:00,22.1,69,1026.0,Partly cloudy,2.0000160000000005
+Switzerland,Bern,2025-07-05 10:45:00,25.0,57,1019.0,Patchy rain nearby,1.5000120000000003

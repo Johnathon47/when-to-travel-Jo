@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Uruguay,Montevideo,2025-01-01 07:00:00,21.0,88,1010.0,Sunny,5.500044000000001
+Uruguay,Montevideo,2025-01-02 07:30:00,21.2,83,1006.0,Partly cloudy,4.3055900000000005
+Uruguay,Montevideo,2025-01-03 07:30:00,18.2,73,1008.0,Partly cloudy,6.694498000000001
+Uruguay,Montevideo,2025-01-04 07:15:00,19.1,73,1012.0,Partly cloudy,5.888936
+Uruguay,Montevideo,2025-01-05 07:15:00,19.1,68,1015.0,Partly cloudy,4.111144
+Uruguay,Montevideo,2025-01-06 08:15:00,18.9,68,1014.0,Sunny,3.3055820000000002
+Uruguay,Montevideo,2025-01-08 07:45:00,16.3,82,1016.0,Sunny,4.500036000000001
+Uruguay,Montevideo,2025-01-09 07:45:00,18.3,83,1014.0,Sunny,4.500036000000001
+Uruguay,Montevideo,2025-01-10 08:00:00,19.1,88,1014.0,Sunny,4.000032000000001
+Uruguay,Montevideo,2025-01-11 07:30:00,20.4,83,1016.0,Sunny,3.111136
+Uruguay,Montevideo,2025-01-12 07:30:00,18.3,88,1018.0,Sunny,2.8889120000000004
+Uruguay,Montevideo,2025-01-13 07:45:00,19.1,83,1014.0,Sunny,4.000032000000001
+Uruguay,Montevideo,2025-01-14 08:00:00,20.0,83,1012.0,Sunny,4.888928000000001
+Uruguay,Montevideo,2025-01-15 08:30:00,22.2,68,1012.0,Sunny,5.611156
+Uruguay,Montevideo,2025-01-16 07:15:00,22.4,88,1012.0,Sunny,4.3055900000000005
+Uruguay,Montevideo,2025-01-17 07:30:00,23.1,83,1012.0,Partly cloudy,3.1944700000000004
+Uruguay,Montevideo,2025-01-18 07:00:00,23.2,89,1014.0,Partly cloudy,5.694490000000001
+Uruguay,Montevideo,2025-01-19 07:00:00,22.1,100,1012.0,Partly cloudy,5.194486
+Uruguay,Montevideo,2025-01-20 07:30:00,19.2,83,1011.0,Moderate rain,7.50006
+Uruguay,Montevideo,2025-01-21 07:30:00,18.1,88,1011.0,Partly cloudy,2.50002
+Uruguay,Montevideo,2025-01-22 07:15:00,21.1,88,1013.0,Sunny,4.388924
+Uruguay,Montevideo,2025-01-23 07:30:00,22.0,88,1014.0,Sunny,2.3055740000000005
+Uruguay,Montevideo,2025-01-24 07:30:00,23.0,69,1010.0,Partly cloudy,4.805594000000001
+Uruguay,Montevideo,2025-01-25 07:30:00,23.3,78,1013.0,Partly cloudy,4.805594000000001
+Uruguay,Montevideo,2025-01-26 07:15:00,17.1,77,1017.0,Sunny,3.8055860000000004
+Uruguay,Montevideo,2025-01-27 07:30:00,20.4,68,1012.0,Sunny,7.194502
+Uruguay,Montevideo,2025-01-28 08:00:00,21.1,94,1013.0,Partly cloudy,1.3889
+Uruguay,Montevideo,2025-01-29 07:30:00,23.0,89,1016.0,Partly cloudy,2.6111320000000005
+Uruguay,Montevideo,2025-01-30 07:15:00,20.4,88,1017.0,Partly cloudy,4.000032000000001
+Uruguay,Montevideo,2025-01-31 07:30:00,19.4,88,1014.0,Partly cloudy,3.3055820000000002

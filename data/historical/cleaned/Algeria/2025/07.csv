@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Algeria,Algiers,2025-07-01 09:45:00,30.3,55,1015.0,Sunny,3.3055820000000002
+Algeria,Algiers,2025-07-02 09:45:00,29.1,66,1015.0,Partly cloudy,2.194462
+Algeria,Algiers,2025-07-03 09:30:00,28.2,74,1018.0,Partly cloudy,1.8889040000000001
+Algeria,Algiers,2025-07-04 09:30:00,29.4,62,1020.0,Sunny,2.805578
+Algeria,Algiers,2025-07-05 09:45:00,29.1,58,1018.0,Sunny,3.111136

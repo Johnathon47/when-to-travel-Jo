@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+El Salvador,San Salvador,2024-07-01 07:15:00,26.3,100,1011.0,Partly cloudy,1.694458
+El Salvador,San Salvador,2024-07-02 07:15:00,28.4,79,1010.0,Sunny,1.694458
+El Salvador,San Salvador,2024-07-03 07:00:00,24.4,100,1011.0,Sunny,1.8889040000000001
+El Salvador,San Salvador,2024-07-04 07:00:00,23.3,100,1010.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-07-05 06:45:00,24.2,100,1008.0,Partly cloudy,1.694458
+El Salvador,San Salvador,2024-07-06 07:15:00,23.2,100,1015.0,Light rain,1.11112
+El Salvador,San Salvador,2024-07-07 07:00:00,23.3,100,1010.0,Partly cloudy,1.694458
+El Salvador,San Salvador,2024-07-08 07:00:00,24.3,100,1010.0,Partly cloudy,1.694458
+El Salvador,San Salvador,2024-07-09 06:45:00,26.3,100,1010.0,Partly cloudy,1.0000080000000002
+El Salvador,San Salvador,2024-07-10 07:00:00,26.3,89,1010.0,Sunny,1.8889040000000001
+El Salvador,San Salvador,2024-07-11 06:45:00,25.2,89,1011.0,Partly cloudy,2.50002
+El Salvador,San Salvador,2024-07-12 07:00:00,25.4,100,1013.0,Sunny,1.0000080000000002
+El Salvador,San Salvador,2024-07-14 07:15:00,23.3,89,1017.0,Sunny,3.6111400000000002
+El Salvador,San Salvador,2024-07-15 07:00:00,22.3,86,1014.0,Partly Cloudy,1.611124
+El Salvador,San Salvador,2024-07-16 06:45:00,21.2,95,1014.0,Mist,1.611124
+El Salvador,San Salvador,2024-07-17 06:45:00,21.3,96,1013.0,Mist,1.3889
+El Salvador,San Salvador,2024-07-18 06:45:00,21.4,96,1014.0,Mist,1.0000080000000002
+El Salvador,San Salvador,2024-07-19 06:30:00,21.5,96,1014.0,Mist,1.1944540000000001
+El Salvador,San Salvador,2024-07-20 06:45:00,21.5,97,1013.0,Fog,1.1944540000000001
+El Salvador,San Salvador,2024-07-23 06:30:00,21.3,96,1013.0,Mist,1.1944540000000001
+El Salvador,San Salvador,2024-07-24 06:45:00,21.1,95,1015.0,Mist,1.3055660000000002
+El Salvador,San Salvador,2024-07-25 06:15:00,21.2,95,1015.0,Mist,1.1944540000000001
+El Salvador,San Salvador,2024-07-26 06:30:00,21.8,96,1013.0,Mist,1.3055660000000002
+El Salvador,San Salvador,2024-07-27 06:30:00,21.7,96,1012.0,Mist,1.1944540000000001
+El Salvador,San Salvador,2024-07-28 06:45:00,21.5,97,1013.0,Fog,1.0000080000000002
+El Salvador,San Salvador,2024-07-29 06:15:00,21.3,97,1013.0,Fog,1.3055660000000002
+El Salvador,San Salvador,2024-07-30 06:15:00,21.3,96,1013.0,Mist,1.3889
+El Salvador,San Salvador,2024-07-31 06:15:00,20.8,96,1013.0,Mist,1.5000120000000003

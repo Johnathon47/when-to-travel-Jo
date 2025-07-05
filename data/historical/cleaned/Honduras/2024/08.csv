@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Honduras,Tegucigalpa,2024-08-01 06:15:00,17.0,98,1017.0,Fog,2.111128
+Honduras,Tegucigalpa,2024-08-02 06:30:00,17.5,99,1017.0,Fog,1.8055700000000001
+Honduras,Tegucigalpa,2024-08-03 06:30:00,17.4,98,1015.0,Fog,1.3889
+Honduras,Tegucigalpa,2024-08-04 06:30:00,17.6,94,1015.0,Partly Cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-05 06:30:00,17.5,99,1017.0,Fog,1.1944540000000001
+Honduras,Tegucigalpa,2024-08-06 06:15:00,17.5,97,1018.0,Fog,1.611124
+Honduras,Tegucigalpa,2024-08-07 06:00:00,18.5,97,1015.0,Fog,1.8055700000000001
+Honduras,Tegucigalpa,2024-08-08 06:15:00,17.7,96,1013.0,Mist,1.1944540000000001
+Honduras,Tegucigalpa,2024-08-09 06:30:00,18.5,98,1015.0,Fog,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-10 06:30:00,18.0,95,1017.0,Mist,1.1944540000000001
+Honduras,Tegucigalpa,2024-08-11 06:15:00,17.9,96,1017.0,Mist,1.611124
+Honduras,Tegucigalpa,2024-08-12 06:30:00,17.2,98,1016.0,Fog,1.8889040000000001
+Honduras,Tegucigalpa,2024-08-13 06:45:00,17.8,99,1015.0,Fog,1.694458
+Honduras,Tegucigalpa,2024-08-14 06:30:00,19.1,94,1019.0,Partly cloudy,1.8889040000000001
+Honduras,Tegucigalpa,2024-08-15 06:15:00,20.3,94,1019.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-16 06:15:00,19.3,94,1018.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-17 06:15:00,21.1,88,1019.0,Partly cloudy,1.8889040000000001
+Honduras,Tegucigalpa,2024-08-18 06:00:00,20.1,83,1018.0,Partly cloudy,1.694458
+Honduras,Tegucigalpa,2024-08-19 06:30:00,19.3,88,1018.0,Partly cloudy,1.11112
+Honduras,Tegucigalpa,2024-08-20 06:15:00,21.1,88,1019.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-21 06:15:00,21.2,88,1020.0,Partly cloudy,2.50002
+Honduras,Tegucigalpa,2024-08-22 06:00:00,19.2,94,1020.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-23 06:15:00,20.3,88,1020.0,Partly cloudy,1.8889040000000001
+Honduras,Tegucigalpa,2024-08-24 06:00:00,20.0,94,1020.0,Overcast,5.305598000000001
+Honduras,Tegucigalpa,2024-08-25 06:00:00,19.1,94,1020.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-26 06:15:00,21.1,94,1020.0,Partly cloudy,1.11112
+Honduras,Tegucigalpa,2024-08-27 06:15:00,20.2,94,1020.0,Partly cloudy,1.11112
+Honduras,Tegucigalpa,2024-08-28 06:30:00,21.1,88,1020.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-29 06:00:00,20.3,94,1020.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-30 06:15:00,21.3,83,1020.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-08-31 06:00:00,20.0,94,1019.0,Partly cloudy,1.11112

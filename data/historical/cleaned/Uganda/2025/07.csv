@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Uganda,Kampala,2025-07-01 12:00:00,19.0,100,1021.0,Moderate rain,3.8889200000000006
+Uganda,Kampala,2025-07-02 11:45:00,21.4,88,1021.0,Patchy rain nearby,2.3055740000000005
+Uganda,Kampala,2025-07-03 11:15:00,24.4,74,1020.0,Patchy rain nearby,1.8889040000000001
+Uganda,Kampala,2025-07-04 11:30:00,22.3,83,1021.0,Partly cloudy,2.6111320000000005
+Uganda,Kampala,2025-07-05 12:00:00,26.4,70,1021.0,Sunny,1.0000080000000002

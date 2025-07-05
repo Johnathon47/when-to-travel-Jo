@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Panama,Panama City,2024-09-01 07:00:00,26.1,94,1011.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-09-02 07:15:00,24.4,94,1011.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-09-03 07:30:00,25.3,94,1011.0,Partly cloudy,1.8889040000000001
+Panama,Panama City,2024-09-04 07:00:00,26.1,94,1010.0,Heavy rain,1.0000080000000002
+Panama,Panama City,2024-09-05 07:00:00,25.2,100,1009.0,Partly cloudy,1.694458
+Panama,Panama City,2024-09-06 07:15:00,27.2,94,1009.0,Overcast,1.0000080000000002
+Panama,Panama City,2024-09-07 07:00:00,26.1,94,1008.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-09-08 07:15:00,26.2,94,1009.0,Overcast,1.11112
+Panama,Panama City,2024-09-09 07:30:00,26.0,94,1010.0,Partly cloudy,1.8889040000000001
+Panama,Panama City,2024-09-10 07:30:00,27.1,89,1010.0,Partly cloudy,1.694458
+Panama,Panama City,2024-09-11 07:15:00,27.3,94,1009.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-09-12 07:15:00,26.3,94,1010.0,Moderate or heavy rain with thunder,1.694458
+Panama,Panama City,2024-09-13 07:30:00,24.3,100,1011.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-09-14 07:30:00,26.1,89,1010.0,Partly cloudy,1.3889
+Panama,Panama City,2024-09-15 07:00:00,26.1,94,1009.0,Partly cloudy,1.611124
+Panama,Panama City,2024-09-16 06:15:00,26.0,94,1009.0,Partly cloudy,1.3889
+Panama,Panama City,2024-09-17 06:00:00,26.4,94,1008.0,Overcast,1.3055660000000002
+Panama,Panama City,2024-09-18 05:45:00,24.2,100,1007.0,Partly cloudy,1.5000120000000003
+Panama,Panama City,2024-09-19 05:45:00,26.1,100,1007.0,Overcast,1.3055660000000002
+Panama,Panama City,2024-09-20 05:45:00,24.5,94,1006.0,Light rain shower,1.694458
+Panama,Panama City,2024-09-21 06:00:00,27.0,89,1007.0,Overcast,2.805578
+Panama,Panama City,2024-09-22 05:30:00,26.0,84,1008.0,Partly cloudy,3.0000240000000007
+Panama,Panama City,2024-09-23 04:45:00,25.9,87,1008.0,Patchy rain nearby,3.6111400000000002
+Panama,Panama City,2024-09-24 04:45:00,27.1,89,1009.0,Partly cloudy,3.0000240000000007
+Panama,Panama City,2024-09-25 04:30:00,25.3,94,1009.0,Partly cloudy,1.8889040000000001
+Panama,Panama City,2024-09-26 04:45:00,26.2,89,1011.0,Overcast,1.1944540000000001
+Panama,Panama City,2024-09-27 05:00:00,26.3,94,1010.0,Partly cloudy,1.0000080000000002
+Panama,Panama City,2024-09-28 05:00:00,24.2,94,1010.0,Partly cloudy,2.194462
+Panama,Panama City,2024-09-29 04:30:00,26.3,89,1010.0,Overcast,2.50002
+Panama,Panama City,2024-09-30 04:30:00,26.0,84,1010.0,Partly cloudy,3.0000240000000007

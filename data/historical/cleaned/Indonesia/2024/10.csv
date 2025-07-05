@@ -1,0 +1,63 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Indonesia,Jakarta,2024-10-01 16:45:00,32.2,56,1006.0,Partly cloudy,5.00004
+Indonesia,Laos,2024-10-01 17:00:00,26.1,82,1010.0,Patchy rain nearby,2.111128
+Indonesia,Jakarta,2024-10-02 16:30:00,33.0,56,1007.0,Partly cloudy,5.194486
+Indonesia,Laos,2024-10-02 16:30:00,28.5,63,1010.0,Patchy rain nearby,2.111128
+Indonesia,Jakarta,2024-10-03 16:30:00,32.4,56,1007.0,Partly cloudy,3.388916
+Indonesia,Laos,2024-10-03 16:30:00,27.3,73,1010.0,Patchy rain nearby,2.805578
+Indonesia,Jakarta,2024-10-04 16:45:00,31.3,63,1008.0,Partly cloudy,3.6111400000000002
+Indonesia,Laos,2024-10-04 16:45:00,28.2,63,1010.0,Sunny,2.805578
+Indonesia,Jakarta,2024-10-05 16:30:00,31.2,63,1007.0,Partly cloudy,3.8055860000000004
+Indonesia,Laos,2024-10-05 16:30:00,28.3,69,1009.0,Patchy rain nearby,2.3055740000000005
+Indonesia,Jakarta,2024-10-06 16:15:00,32.3,63,1008.0,Partly cloudy,3.6944740000000005
+Indonesia,Laos,2024-10-06 16:15:00,27.8,73,1010.0,Patchy rain nearby,2.805578
+Indonesia,Jakarta,2024-10-07 16:45:00,30.8,60,1009.0,Sunny,4.611148000000001
+Indonesia,Laos,2024-10-07 16:45:00,28.5,67,1012.0,Patchy rain nearby,3.1944700000000004
+Indonesia,Jakarta,2024-10-08 16:45:00,32.4,59,1008.0,Partly cloudy,5.194486
+Indonesia,Laos,2024-10-08 16:45:00,28.4,65,1011.0,Patchy rain nearby,2.6944660000000002
+Indonesia,Jakarta,2024-10-09 16:45:00,32.2,56,1007.0,Partly cloudy,5.500044000000001
+Indonesia,Laos,2024-10-09 16:45:00,29.0,65,1009.0,Patchy rain nearby,2.50002
+Indonesia,Jakarta,2024-10-10 16:45:00,32.1,59,1007.0,Partly cloudy,5.00004
+Indonesia,Laos,2024-10-10 16:45:00,28.6,67,1009.0,Patchy rain nearby,2.805578
+Indonesia,Jakarta,2024-10-11 16:45:00,32.2,63,1006.0,Partly cloudy,4.888928000000001
+Indonesia,Laos,2024-10-11 16:45:00,29.1,66,1009.0,Patchy rain nearby,2.805578
+Indonesia,Jakarta,2024-10-12 16:45:00,32.3,63,1006.0,Partly cloudy,5.194486
+Indonesia,Laos,2024-10-12 16:45:00,29.0,70,1009.0,Patchy rain nearby,2.0000160000000005
+Indonesia,Jakarta,2024-10-13 16:30:00,33.4,48,1006.0,Sunny,6.6111640000000005
+Indonesia,Laos,2024-10-13 16:30:00,29.5,60,1009.0,Patchy rain nearby,2.6944660000000002
+Indonesia,Jakarta,2024-10-14 16:30:00,31.1,66,1006.0,Partly cloudy,5.305598000000001
+Indonesia,Laos,2024-10-14 16:30:00,28.9,60,1009.0,Sunny,2.50002
+Indonesia,Jakarta,2024-10-15 16:30:00,31.2,63,1008.0,Mist,4.000032000000001
+Indonesia,Laos,2024-10-15 16:30:00,27.6,67,1011.0,Patchy rain nearby,2.50002
+Indonesia,Jakarta,2024-10-16 16:30:00,32.1,56,1008.0,Partly cloudy,3.1944700000000004
+Indonesia,Laos,2024-10-16 16:30:00,27.7,62,1012.0,Patchy rain nearby,3.3055820000000002
+Indonesia,Jakarta,2024-10-17 16:30:00,33.6,38,1007.0,Sunny,4.694482
+Indonesia,Laos,2024-10-17 16:30:00,26.6,65,1011.0,Patchy rain nearby,3.111136
+Indonesia,Jakarta,2024-10-18 16:30:00,32.3,56,1008.0,Partly cloudy,5.500044000000001
+Indonesia,Laos,2024-10-18 16:30:00,27.0,73,1011.0,Light rain shower,2.50002
+Indonesia,Jakarta,2024-10-19 16:30:00,32.3,56,1008.0,Partly cloudy,6.111160000000001
+Indonesia,Laos,2024-10-19 16:30:00,27.6,72,1010.0,Light rain shower,2.6944660000000002
+Indonesia,Jakarta,2024-10-20 16:30:00,34.3,41,1009.0,Partly cloudy,6.388940000000001
+Indonesia,Laos,2024-10-20 16:30:00,26.9,73,1011.0,Patchy rain nearby,1.11112
+Indonesia,Jakarta,2024-10-21 16:15:00,33.3,44,1008.0,Partly cloudy,5.194486
+Indonesia,Laos,2024-10-21 16:15:00,26.3,78,1011.0,Light rain shower,2.3055740000000005
+Indonesia,Jakarta,2024-10-22 16:15:00,32.0,59,1007.0,Partly cloudy,6.805610000000001
+Indonesia,Laos,2024-10-22 16:15:00,28.1,69,1010.0,Patchy rain nearby,3.111136
+Indonesia,Jakarta,2024-10-23 16:15:00,32.4,63,1007.0,Partly cloudy,6.694498000000001
+Indonesia,Laos,2024-10-23 16:30:00,28.4,66,1009.0,Patchy rain nearby,3.0000240000000007
+Indonesia,Jakarta,2024-10-24 16:15:00,31.2,71,1007.0,Partly cloudy,6.805610000000001
+Indonesia,Laos,2024-10-24 16:15:00,27.4,73,1010.0,Light rain shower,2.6111320000000005
+Indonesia,Jakarta,2024-10-25 16:15:00,32.3,59,1007.0,Moderate or heavy rain with thunder,6.500052
+Indonesia,Laos,2024-10-25 16:15:00,27.5,69,1010.0,Patchy rain nearby,3.111136
+Indonesia,Jakarta,2024-10-26 16:15:00,34.1,50,1006.0,Partly cloudy,6.305606
+Indonesia,Laos,2024-10-26 16:15:00,28.8,64,1009.0,Patchy rain nearby,3.1944700000000004
+Indonesia,Jakarta,2024-10-27 16:15:00,32.2,59,1006.0,Partly cloudy,4.888928000000001
+Indonesia,Laos,2024-10-27 16:15:00,29.3,63,1008.0,Sunny,3.0000240000000007
+Indonesia,Jakarta,2024-10-28 16:15:00,33.3,59,1006.0,Partly cloudy,6.305606
+Indonesia,Laos,2024-10-28 16:15:00,29.2,62,1009.0,Sunny,2.6111320000000005
+Indonesia,Jakarta,2024-10-29 16:00:00,33.1,59,1007.0,Partly cloudy,5.694490000000001
+Indonesia,Laos,2024-10-29 16:00:00,29.6,63,1010.0,Sunny,3.1944700000000004
+Indonesia,Jakarta,2024-10-30 16:00:00,33.2,59,1007.0,Partly cloudy,6.194494000000001
+Indonesia,Laos,2024-10-30 16:00:00,29.1,68,1009.0,Patchy rain nearby,3.1944700000000004
+Indonesia,Jakarta,2024-10-31 16:00:00,32.1,63,1007.0,Partly cloudy,5.500044000000001
+Indonesia,Laos,2024-10-31 16:00:00,28.7,71,1009.0,Patchy rain nearby,2.111128

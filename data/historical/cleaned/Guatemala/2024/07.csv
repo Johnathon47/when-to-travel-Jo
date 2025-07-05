@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Guatemala,Guatemala City,2024-07-01 07:15:00,19.0,94,1021.0,Partly cloudy,5.305598000000001
+Guatemala,Guatemala City,2024-07-02 07:15:00,18.3,94,1021.0,Partly cloudy,4.194478
+Guatemala,Guatemala City,2024-07-03 07:00:00,17.2,94,1021.0,Partly cloudy,4.194478
+Guatemala,Guatemala City,2024-07-04 07:00:00,16.4,82,1020.0,Partly cloudy,4.194478
+Guatemala,Guatemala City,2024-07-05 06:45:00,18.2,83,1018.0,Partly cloudy,3.111136
+Guatemala,Guatemala City,2024-07-06 07:15:00,19.0,94,1021.0,Light drizzle,4.194478
+Guatemala,Guatemala City,2024-07-07 07:00:00,18.1,94,1019.0,Partly cloudy,3.111136
+Guatemala,Guatemala City,2024-07-08 07:00:00,17.6,97,1014.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-07-09 06:45:00,19.1,94,1021.0,Overcast,1.0000080000000002
+Guatemala,Guatemala City,2024-07-10 07:00:00,17.0,94,1020.0,Partly cloudy,3.111136
+Guatemala,Guatemala City,2024-07-11 06:45:00,17.2,88,1022.0,Partly cloudy,5.305598000000001
+Guatemala,Guatemala City,2024-07-12 07:00:00,17.3,94,1023.0,Partly cloudy,3.111136
+Guatemala,Guatemala City,2024-07-14 07:15:00,16.9,94,1019.0,Mist,2.0000160000000005
+Guatemala,Guatemala City,2024-07-15 07:00:00,19.2,83,1023.0,Partly cloudy,5.305598000000001
+Guatemala,Guatemala City,2024-07-16 06:45:00,16.4,97,1017.0,Fog,1.3889
+Guatemala,Guatemala City,2024-07-17 06:45:00,16.3,97,1017.0,Partly cloudy,4.194478
+Guatemala,Guatemala City,2024-07-18 06:45:00,17.0,88,1023.0,Partly cloudy,4.194478
+Guatemala,Guatemala City,2024-07-19 06:30:00,18.4,94,1022.0,Partly cloudy,4.194478
+Guatemala,Guatemala City,2024-07-20 06:45:00,18.1,94,1021.0,Partly cloudy,3.111136
+Guatemala,Guatemala City,2024-07-23 06:30:00,16.9,97,1017.0,Mist,1.11112
+Guatemala,Guatemala City,2024-07-24 06:45:00,16.0,98,1019.0,Fog,1.3055660000000002
+Guatemala,Guatemala City,2024-07-25 06:15:00,16.3,98,1019.0,Fog,1.3889
+Guatemala,Guatemala City,2024-07-26 06:30:00,17.7,98,1016.0,Fog,1.611124
+Guatemala,Guatemala City,2024-07-27 06:30:00,16.7,97,1016.0,Fog,1.11112
+Guatemala,Guatemala City,2024-07-28 06:45:00,17.0,99,1016.0,Fog,1.3055660000000002
+Guatemala,Guatemala City,2024-07-29 06:15:00,17.2,98,1016.0,Light rain shower,1.0000080000000002
+Guatemala,Guatemala City,2024-07-30 06:15:00,16.9,98,1017.0,Fog,1.8055700000000001
+Guatemala,Guatemala City,2024-07-31 06:15:00,15.6,98,1017.0,Fog,1.611124

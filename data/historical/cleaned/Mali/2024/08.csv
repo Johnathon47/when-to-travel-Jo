@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mali,Bamako,2024-08-01 12:15:00,30.3,64,1010.0,Patchy rain nearby,3.8889200000000006
+Mali,Bamako,2024-08-02 12:30:00,29.2,68,1011.0,Patchy rain nearby,3.6944740000000005
+Mali,Bamako,2024-08-03 12:30:00,28.1,71,1012.0,Light rain shower,5.805602
+Mali,Bamako,2024-08-04 12:30:00,27.5,73,1015.0,Light rain shower,4.194478
+Mali,Bamako,2024-08-05 12:30:00,24.4,86,1014.0,Patchy rain nearby,3.6944740000000005
+Mali,Bamako,2024-08-06 12:15:00,29.8,59,1011.0,Patchy rain nearby,2.111128
+Mali,Bamako,2024-08-07 12:00:00,29.4,66,1012.0,Patchy rain nearby,4.500036000000001
+Mali,Bamako,2024-08-08 12:15:00,20.2,98,1013.0,Moderate or heavy rain shower,3.5000280000000004
+Mali,Bamako,2024-08-09 12:30:00,24.5,89,1013.0,Light rain shower,1.0000080000000002
+Mali,Bamako,2024-08-10 12:30:00,29.0,69,1012.0,Partly Cloudy,3.1944700000000004
+Mali,Bamako,2024-08-11 12:15:00,29.0,70,1012.0,Patchy rain nearby,3.0000240000000007
+Mali,Bamako,2024-08-12 12:30:00,29.5,66,1012.0,Partly Cloudy,5.3889320000000005
+Mali,Bamako,2024-08-13 12:45:00,23.3,88,1012.0,Light rain shower,1.1944540000000001
+Mali,Bamako,2024-08-14 12:30:00,28.0,70,1013.0,Partly cloudy,1.8889040000000001
+Mali,Bamako,2024-08-15 12:15:00,28.1,70,1015.0,Partly cloudy,5.305598000000001
+Mali,Bamako,2024-08-16 12:15:00,31.1,63,1015.0,Partly cloudy,3.111136
+Mali,Bamako,2024-08-17 12:15:00,25.4,100,1013.0,Moderate rain,3.111136
+Mali,Bamako,2024-08-18 12:00:00,28.4,74,1014.0,Partly cloudy,5.611156
+Mali,Bamako,2024-08-19 12:30:00,30.3,62,1016.0,Partly cloudy,1.0000080000000002
+Mali,Bamako,2024-08-20 12:15:00,28.4,74,1015.0,Moderate or heavy rain with thunder,4.194478
+Mali,Bamako,2024-08-21 12:15:00,28.1,70,1015.0,Partly cloudy,3.111136
+Mali,Bamako,2024-08-22 12:00:00,28.3,74,1017.0,Partly cloudy,3.6111400000000002
+Mali,Bamako,2024-08-23 12:15:00,32.0,63,1013.0,Partly cloudy,3.111136
+Mali,Bamako,2024-08-24 12:00:00,26.2,84,1013.0,Partly cloudy,1.0000080000000002
+Mali,Bamako,2024-08-25 12:00:00,27.2,79,1016.0,Partly cloudy,5.305598000000001
+Mali,Bamako,2024-08-26 12:15:00,30.1,70,1015.0,Partly cloudy,4.694482
+Mali,Bamako,2024-08-27 12:15:00,29.3,75,1012.0,Partly cloudy,5.611156
+Mali,Bamako,2024-08-28 12:30:00,25.2,83,1014.0,Partly cloudy,4.694482
+Mali,Bamako,2024-08-29 12:00:00,27.1,70,1017.0,Partly cloudy,4.694482
+Mali,Bamako,2024-08-30 12:15:00,30.3,70,1014.0,Partly cloudy,2.50002
+Mali,Bamako,2024-08-31 12:00:00,29.1,75,1013.0,Partly cloudy,3.111136

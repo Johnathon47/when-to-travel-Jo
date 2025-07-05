@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Malaysia,Kuala Lumpur,2024-12-01 18:45:00,23.6,93,1007.0,Patchy rain nearby,2.6111320000000005
+Malaysia,Kuala Lumpur,2024-12-02 18:45:00,26.2,89,1007.0,Light rain,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-03 18:45:00,27.3,89,1007.0,Partly cloudy,1.3889
+Malaysia,Kuala Lumpur,2024-12-04 18:30:00,29.2,75,1008.0,Partly cloudy,1.8055700000000001
+Malaysia,Kuala Lumpur,2024-12-05 18:30:00,26.7,87,1006.0,Light rain shower,2.3889080000000003
+Malaysia,Kuala Lumpur,2024-12-06 19:00:00,29.0,79,1005.0,Partly cloudy,1.5000120000000003
+Malaysia,Kuala Lumpur,2024-12-07 19:00:00,26.8,83,1007.0,Sunny,1.611124
+Malaysia,Kuala Lumpur,2024-12-08 18:30:00,27.2,89,1007.0,Partly cloudy,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-09 19:00:00,26.2,89,1007.0,Light rain,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-10 19:00:00,24.1,88,1007.0,Cloudy,1.611124
+Malaysia,Kuala Lumpur,2024-12-11 18:45:00,29.4,75,1005.0,Partly cloudy,2.50002
+Malaysia,Kuala Lumpur,2024-12-12 18:45:00,30.0,75,1005.0,Partly cloudy,2.6944660000000002
+Malaysia,Kuala Lumpur,2024-12-13 19:00:00,24.1,94,1008.0,Mist,1.3055660000000002
+Malaysia,Kuala Lumpur,2024-12-14 19:00:00,26.4,81,1007.0,Partly Cloudy,1.8055700000000001
+Malaysia,Kuala Lumpur,2024-12-15 18:15:00,32.4,71,1006.0,Partly cloudy,2.111128
+Malaysia,Kuala Lumpur,2024-12-16 18:15:00,30.4,79,1008.0,Partly cloudy,2.3889080000000003
+Malaysia,Kuala Lumpur,2024-12-17 19:15:00,25.0,94,1009.0,Light rain,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-18 18:30:00,26.3,89,1007.0,Patchy light rain with thunder,2.0000160000000005
+Malaysia,Kuala Lumpur,2024-12-19 18:30:00,24.2,94,1009.0,Patchy rain nearby,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-20 19:15:00,25.5,82,1009.0,Partly Cloudy,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-21 18:45:00,26.7,86,1007.0,Light rain shower,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-22 18:15:00,26.5,87,1007.0,Patchy rain nearby,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-23 18:15:00,26.9,87,1007.0,Light rain shower,1.1944540000000001
+Malaysia,Kuala Lumpur,2024-12-24 18:15:00,27.0,85,1008.0,Patchy rain nearby,1.5000120000000003
+Malaysia,Kuala Lumpur,2024-12-25 18:15:00,25.9,90,1009.0,Light rain shower,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-26 18:30:00,28.4,74,1009.0,Patchy rain nearby,1.8889040000000001
+Malaysia,Kuala Lumpur,2024-12-27 18:45:00,26.4,94,1010.0,Moderate or heavy rain with thunder,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-28 18:45:00,26.1,89,1009.0,Patchy light rain with thunder,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-29 18:15:00,28.1,74,1009.0,Partly cloudy,1.1944540000000001
+Malaysia,Kuala Lumpur,2024-12-30 18:30:00,29.0,75,1009.0,Partly cloudy,1.0000080000000002
+Malaysia,Kuala Lumpur,2024-12-31 18:30:00,29.4,79,1009.0,Partly cloudy,1.11112

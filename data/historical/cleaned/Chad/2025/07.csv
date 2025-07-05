@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Chad,N'djamena,2025-07-01 09:30:00,30.3,62,1013.0,Sunny,3.5000280000000004
+Chad,N'djamena,2025-07-02 09:45:00,26.1,70,1015.0,Partly cloudy,5.194486
+Chad,N'djamena,2025-07-03 09:30:00,29.4,70,1013.0,Sunny,4.805594000000001
+Chad,N'djamena,2025-07-04 09:45:00,28.3,66,1014.0,Partly Cloudy,5.194486
+Chad,N'djamena,2025-07-05 09:30:00,29.4,66,1014.0,Cloudy,4.194478

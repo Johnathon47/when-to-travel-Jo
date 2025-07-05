@@ -1,0 +1,11 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Vietnam,Ban Lom,2025-07-01 16:00:00,25.4,96,1004.0,Light rain shower,1.0000080000000002
+Vietnam,Hanoi,2025-07-01 15:45:00,29.2,79,1003.0,Partly cloudy,2.805578
+Vietnam,Ban Lom,2025-07-02 15:30:00,26.9,94,1006.0,Light rain shower,1.8055700000000001
+Vietnam,Hanoi,2025-07-02 16:00:00,30.4,79,1005.0,Partly cloudy,3.388916
+Vietnam,Ban Lom,2025-07-03 15:45:00,29.5,79,1005.0,Light rain shower,2.0000160000000005
+Vietnam,Hanoi,2025-07-03 15:15:00,29.0,84,1006.0,Partly cloudy,2.6944660000000002
+Vietnam,Ban Lom,2025-07-04 15:45:00,28.7,86,1005.0,Light rain shower,1.694458
+Vietnam,Hanoi,2025-07-04 15:45:00,33.3,63,1003.0,Light rain,2.194462
+Vietnam,Ban Lom,2025-07-05 15:45:00,30.6,74,1003.0,Patchy rain nearby,1.0000080000000002
+Vietnam,Hanoi,2025-07-05 15:30:00,35.4,56,1001.0,Overcast,2.8889120000000004

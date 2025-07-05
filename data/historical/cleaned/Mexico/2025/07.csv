@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mexico,Mexico City,2025-07-01 03:00:00,15.1,82,1027.0,Partly cloudy,1.694458
+Mexico,Mexico City,2025-07-02 02:45:00,15.0,100,1018.0,Fog,1.5000120000000003
+Mexico,Mexico City,2025-07-03 02:30:00,17.1,72,1028.0,Partly cloudy,1.0000080000000002
+Mexico,Mexico City,2025-07-04 03:00:00,16.1,99,1018.0,Fog,1.0000080000000002
+Mexico,Mexico City,2025-07-05 02:30:00,17.2,72,1028.0,Fog,1.0000080000000002

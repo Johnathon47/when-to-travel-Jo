@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Denmark,Copenhagen,2024-05-16 10:45:00,16.0,55,1017.0,Sunny,8.611180000000001
+Denmark,Copenhagen,2024-05-16 16:00:00,18.0,42,1016.0,Sunny,9.694522000000001
+Denmark,Copenhagen,2024-05-17 18:00:00,19.0,37,1016.0,Sunny,7.194502
+Denmark,Copenhagen,2024-05-18 16:30:00,20.0,40,1014.0,Sunny,5.611156
+Denmark,Copenhagen,2024-05-19 16:00:00,20.0,53,1011.0,Sunny,3.6111400000000002
+Denmark,Copenhagen,2024-05-20 16:30:00,19.0,56,1015.0,Sunny,6.694498000000001
+Denmark,Copenhagen,2024-05-21 16:45:00,21.0,56,1016.0,Sunny,7.805618000000001
+Denmark,Copenhagen,2024-05-22 16:15:00,21.0,56,1012.0,Sunny,9.694522000000001
+Denmark,Copenhagen,2024-05-23 16:00:00,17.0,88,1012.0,Light rain,3.111136
+Denmark,Copenhagen,2024-05-24 16:30:00,18.0,64,1021.0,Sunny,4.694482
+Denmark,Copenhagen,2024-05-25 16:00:00,18.0,73,1019.0,Partly cloudy,4.694482
+Denmark,Copenhagen,2024-05-26 16:00:00,18.0,73,1019.0,Sunny,6.694498000000001
+Denmark,Copenhagen,2024-05-27 16:30:00,19.0,73,1017.0,Sunny,5.305598000000001
+Denmark,Copenhagen,2024-05-28 16:30:00,17.0,77,1014.0,Partly cloudy,6.694498000000001
+Denmark,Copenhagen,2024-05-29 16:00:00,16.0,82,1010.0,Light rain,8.305622
+Denmark,Copenhagen,2024-05-30 15:45:00,18.0,73,1007.0,Partly cloudy,3.6111400000000002
+Denmark,Copenhagen,2024-05-31 16:15:00,21.0,69,1010.0,Partly cloudy,2.50002

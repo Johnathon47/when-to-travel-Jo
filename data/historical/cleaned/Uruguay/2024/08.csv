@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Uruguay,Montevideo,2024-08-01 09:15:00,15.7,89,1014.0,Partly Cloudy,5.805602
+Uruguay,Montevideo,2024-08-02 09:30:00,20.7,64,1007.0,Sunny,9.000072000000001
+Uruguay,Montevideo,2024-08-03 09:30:00,13.4,90,1006.0,Patchy rain nearby,8.694514000000002
+Uruguay,Montevideo,2024-08-04 09:30:00,12.0,65,1022.0,Partly Cloudy,2.0000160000000005
+Uruguay,Montevideo,2024-08-05 09:30:00,11.4,75,1021.0,Sunny,5.805602
+Uruguay,Montevideo,2024-08-06 09:15:00,15.0,97,1012.0,Mist,2.8889120000000004
+Uruguay,Montevideo,2024-08-07 09:15:00,10.6,85,1012.0,Patchy rain nearby,7.6945060000000005
+Uruguay,Montevideo,2024-08-08 09:15:00,9.2,70,1014.0,Patchy rain nearby,4.805594000000001
+Uruguay,Montevideo,2024-08-09 09:30:00,9.7,81,1020.0,Cloudy,8.694514000000002
+Uruguay,Montevideo,2024-08-10 09:30:00,5.3,66,1020.0,Partly Cloudy,5.805602
+Uruguay,Montevideo,2024-08-11 09:30:00,10.7,65,1014.0,Sunny,8.388956
+Uruguay,Montevideo,2024-08-12 09:30:00,8.2,64,1025.0,Patchy rain nearby,7.305614000000001
+Uruguay,Montevideo,2024-08-13 09:45:00,7.0,70,1024.0,Sunny,5.3889320000000005
+Uruguay,Montevideo,2024-08-14 09:30:00,9.3,66,1020.0,Sunny,3.111136
+Uruguay,Montevideo,2024-08-15 09:15:00,12.2,67,1017.0,Sunny,3.111136
+Uruguay,Montevideo,2024-08-16 09:15:00,9.1,87,1020.0,Overcast,5.305598000000001
+Uruguay,Montevideo,2024-08-17 09:15:00,12.2,88,1021.0,Sunny,5.611156
+Uruguay,Montevideo,2024-08-18 09:00:00,12.2,94,1018.0,Partly cloudy,4.194478
+Uruguay,Montevideo,2024-08-19 09:30:00,12.1,100,1018.0,Mist,8.305622
+Uruguay,Montevideo,2024-08-20 09:15:00,10.2,94,1028.0,Partly cloudy,6.694498000000001
+Uruguay,Montevideo,2024-08-21 09:15:00,11.1,100,1012.0,Moderate or heavy rain with thunder,4.694482
+Uruguay,Montevideo,2024-08-22 09:00:00,9.4,93,1011.0,Overcast,6.111160000000001
+Uruguay,Montevideo,2024-08-23 09:15:00,7.4,93,1020.0,Light drizzle,1.8889040000000001
+Uruguay,Montevideo,2024-08-24 09:00:00,2.1,100,1025.0,Partly cloudy,1.0000080000000002
+Uruguay,Montevideo,2024-08-25 09:00:00,7.4,70,1029.0,Overcast,5.611156
+Uruguay,Montevideo,2024-08-26 09:15:00,10.2,87,1029.0,Partly cloudy,1.0000080000000002
+Uruguay,Montevideo,2024-08-27 09:30:00,7.3,100,1028.0,Fog,1.8889040000000001
+Uruguay,Montevideo,2024-08-28 09:30:00,11.2,82,1027.0,Sunny,3.6111400000000002
+Uruguay,Montevideo,2024-08-29 09:00:00,7.2,93,1024.0,Sunny,2.50002
+Uruguay,Montevideo,2024-08-30 09:15:00,12.1,82,1027.0,Partly cloudy,7.805618000000001
+Uruguay,Montevideo,2024-08-31 09:00:00,11.3,94,1018.0,Moderate rain,6.694498000000001

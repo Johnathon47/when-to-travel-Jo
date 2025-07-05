@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Chile,Santiago,2025-07-01 04:45:00,6.3,81,1019.0,Partly cloudy,1.0000080000000002
+Chile,Santiago,2025-07-02 04:30:00,4.2,87,1020.0,Clear,1.0000080000000002
+Chile,Santiago,2025-07-03 04:15:00,4.0,87,1016.0,Clear,1.8889040000000001
+Chile,Santiago,2025-07-04 05:00:00,6.3,81,1015.0,Clear,1.611124
+Chile,Santiago,2025-07-05 05:00:00,8.4,93,1017.0,Mist,1.0000080000000002

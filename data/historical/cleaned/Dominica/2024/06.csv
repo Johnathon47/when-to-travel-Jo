@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Dominica,Roseau,2024-06-01 10:15:00,30.0,79,1016.0,Partly cloudy,6.111160000000001
+Dominica,Roseau,2024-06-02 10:00:00,26.0,94,1014.0,Light rain,1.0000080000000002
+Dominica,Roseau,2024-06-03 10:15:00,31.0,59,1014.0,Partly cloudy,3.6111400000000002
+Dominica,Roseau,2024-06-04 10:15:00,28.0,84,1015.0,Partly cloudy,1.11112
+Dominica,Roseau,2024-06-05 10:15:00,31.0,75,1014.0,Partly cloudy,1.694458
+Dominica,Roseau,2024-06-06 10:00:00,31.0,55,1014.0,Partly cloudy,1.694458
+Dominica,Roseau,2024-06-07 10:00:00,31.1,59,1015.0,Partly cloudy,1.694458
+Dominica,Roseau,2024-06-08 10:15:00,33.2,56,1016.0,Partly cloudy,1.8889040000000001
+Dominica,Roseau,2024-06-09 10:15:00,32.3,59,1015.0,Partly cloudy,1.694458
+Dominica,Roseau,2024-06-10 10:15:00,32.2,56,1014.0,Partly cloudy,4.194478
+Dominica,Roseau,2024-06-11 10:00:00,31.4,59,1015.0,Partly cloudy,1.8889040000000001
+Dominica,Roseau,2024-06-12 10:15:00,35.3,50,1015.0,Partly cloudy,1.0000080000000002
+Dominica,Roseau,2024-06-13 10:00:00,30.0,66,1014.0,Partly cloudy,1.11112
+Dominica,Roseau,2024-06-14 10:00:00,28.1,73,1015.0,Patchy rain nearby,4.500036000000001
+Dominica,Roseau,2024-06-15 10:00:00,30.1,62,1015.0,Partly cloudy,1.11112
+Dominica,Roseau,2024-06-16 09:45:00,28.5,70,1016.0,Patchy rain nearby,4.194478
+Dominica,Roseau,2024-06-17 10:00:00,28.5,75,1014.0,Patchy rain nearby,3.3055820000000002
+Dominica,Roseau,2024-06-18 10:00:00,26.3,89,1013.0,Moderate or heavy rain with thunder,1.694458
+Dominica,Roseau,2024-06-19 09:45:00,28.3,76,1014.0,Light rain shower,6.388940000000001
+Dominica,Roseau,2024-06-20 09:45:00,28.5,71,1015.0,Patchy rain nearby,6.111160000000001
+Dominica,Roseau,2024-06-21 09:30:00,29.3,70,1013.0,Partly cloudy,1.694458
+Dominica,Roseau,2024-06-22 09:45:00,33.0,56,1013.0,Partly cloudy,1.11112
+Dominica,Roseau,2024-06-23 09:45:00,32.4,67,1013.0,Partly cloudy,1.0000080000000002
+Dominica,Roseau,2024-06-24 09:45:00,30.4,70,1014.0,Partly cloudy,3.111136
+Dominica,Roseau,2024-06-25 09:15:00,28.1,79,1017.0,Light rain shower,8.611180000000001
+Dominica,Roseau,2024-06-26 09:30:00,28.8,75,1016.0,Patchy rain nearby,5.305598000000001
+Dominica,Roseau,2024-06-27 09:15:00,28.0,75,1016.0,Patchy rain nearby,4.694482
+Dominica,Roseau,2024-06-28 09:15:00,31.2,59,1013.0,Partly cloudy,1.694458
+Dominica,Roseau,2024-06-29 08:45:00,30.1,59,1014.0,Partly cloudy,4.194478
+Dominica,Roseau,2024-06-30 09:30:00,28.3,79,1014.0,Light rain,3.111136

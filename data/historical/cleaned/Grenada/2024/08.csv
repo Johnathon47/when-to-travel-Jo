@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Grenada,Saint George's,2024-08-01 08:15:00,28.8,70,1016.0,Partly Cloudy,5.00004
+Grenada,Saint George's,2024-08-02 08:30:00,28.7,74,1015.0,Cloudy,3.388916
+Grenada,Saint George's,2024-08-03 08:30:00,27.7,81,1014.0,Patchy rain nearby,5.305598000000001
+Grenada,Saint George's,2024-08-04 08:30:00,28.6,76,1013.0,Partly Cloudy,6.194494000000001
+Grenada,Saint George's,2024-08-05 08:30:00,27.7,79,1013.0,Light rain shower,6.111160000000001
+Grenada,Saint George's,2024-08-06 08:15:00,27.5,81,1014.0,Patchy rain nearby,5.305598000000001
+Grenada,Saint George's,2024-08-07 08:00:00,27.5,80,1013.0,Light rain shower,4.194478
+Grenada,Saint George's,2024-08-08 08:15:00,27.8,79,1012.0,Patchy rain nearby,3.5000280000000004
+Grenada,Saint George's,2024-08-09 08:30:00,28.8,72,1013.0,Patchy rain nearby,5.305598000000001
+Grenada,Saint George's,2024-08-10 08:30:00,27.0,83,1014.0,Moderate or heavy rain shower,6.111160000000001
+Grenada,Saint George's,2024-08-11 08:15:00,27.8,73,1015.0,Sunny,2.8889120000000004
+Grenada,Saint George's,2024-08-12 08:30:00,27.0,85,1014.0,Light rain shower,4.194478
+Grenada,Saint George's,2024-08-13 08:45:00,26.9,84,1013.0,Patchy light rain,7.888952000000001
+Grenada,Saint George's,2024-08-14 08:30:00,30.1,75,1015.0,Partly cloudy,7.194502
+Grenada,Saint George's,2024-08-15 08:15:00,30.2,79,1014.0,Partly cloudy,3.6111400000000002
+Grenada,Saint George's,2024-08-16 08:15:00,30.3,79,1014.0,Overcast,1.0000080000000002
+Grenada,Saint George's,2024-08-17 08:15:00,29.3,79,1014.0,Partly cloudy,5.611156
+Grenada,Saint George's,2024-08-18 08:00:00,28.1,84,1014.0,Partly cloudy,1.0000080000000002
+Grenada,Saint George's,2024-08-19 08:30:00,30.1,79,1015.0,Overcast,1.694458
+Grenada,Saint George's,2024-08-20 08:15:00,28.6,74,1015.0,Patchy rain nearby,3.388916
+Grenada,Saint George's,2024-08-21 08:15:00,28.0,74,1013.0,Sunny,1.3889
+Grenada,Saint George's,2024-08-22 08:00:00,28.2,84,1012.0,Partly cloudy,1.0000080000000002
+Grenada,Saint George's,2024-08-23 08:15:00,31.4,75,1012.0,Overcast,4.194478
+Grenada,Saint George's,2024-08-24 08:00:00,28.4,84,1012.0,Partly cloudy,5.305598000000001
+Grenada,Saint George's,2024-08-25 08:00:00,26.4,94,1013.0,Overcast,6.111160000000001
+Grenada,Saint George's,2024-08-26 08:15:00,30.2,79,1015.0,Partly cloudy,5.611156
+Grenada,Saint George's,2024-08-27 08:15:00,27.1,89,1014.0,Partly cloudy,1.0000080000000002
+Grenada,Saint George's,2024-08-28 08:30:00,31.3,75,1014.0,Partly cloudy,1.0000080000000002
+Grenada,Saint George's,2024-08-29 08:00:00,29.1,79,1014.0,Overcast,5.305598000000001
+Grenada,Saint George's,2024-08-30 08:15:00,29.2,84,1014.0,Overcast,4.194478
+Grenada,Saint George's,2024-08-31 08:00:00,28.2,84,1012.0,Overcast,1.8889040000000001

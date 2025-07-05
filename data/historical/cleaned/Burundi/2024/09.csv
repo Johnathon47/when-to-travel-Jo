@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Burundi,Bujumbura,2024-09-01 14:00:00,27.9,43,1011.0,Sunny,3.1944700000000004
+Burundi,Bujumbura,2024-09-02 14:15:00,28.5,42,1011.0,Sunny,3.388916
+Burundi,Bujumbura,2024-09-03 14:15:00,28.8,43,1011.0,Sunny,3.5000280000000004
+Burundi,Bujumbura,2024-09-04 14:00:00,31.3,55,1014.0,Partly cloudy,7.194502
+Burundi,Bujumbura,2024-09-05 14:00:00,27.0,51,1011.0,Sunny,4.694482
+Burundi,Bujumbura,2024-09-06 14:15:00,31.0,55,1014.0,Partly cloudy,9.194518
+Burundi,Bujumbura,2024-09-07 14:00:00,30.2,39,1011.0,Sunny,1.8889040000000001
+Burundi,Bujumbura,2024-09-08 14:15:00,29.2,41,1012.0,Sunny,2.3055740000000005
+Burundi,Bujumbura,2024-09-09 14:30:00,31.0,46,1013.0,Partly cloudy,6.111160000000001
+Burundi,Bujumbura,2024-09-10 14:30:00,33.2,36,1013.0,Partly cloudy,3.111136
+Burundi,Bujumbura,2024-09-11 14:00:00,32.1,46,1012.0,Partly cloudy,11.388980000000002
+Burundi,Bujumbura,2024-09-12 14:15:00,30.6,33,1010.0,Sunny,3.8055860000000004
+Burundi,Bujumbura,2024-09-13 14:30:00,30.3,55,1014.0,Partly cloudy,3.3055820000000002
+Burundi,Bujumbura,2024-09-14 14:30:00,33.3,34,1013.0,Partly cloudy,3.6111400000000002
+Burundi,Bujumbura,2024-09-15 14:00:00,30.4,29,1010.0,Sunny,3.3055820000000002
+Burundi,Bujumbura,2024-09-16 13:00:00,29.3,43,1011.0,Partly cloudy,3.5000280000000004
+Burundi,Bujumbura,2024-09-17 13:00:00,32.1,36,1015.0,Sunny,4.194478
+Burundi,Bujumbura,2024-09-18 12:45:00,30.0,49,1015.0,Partly cloudy,2.50002
+Burundi,Bujumbura,2024-09-19 12:45:00,32.0,46,1012.0,Partly cloudy,4.111144
+Burundi,Bujumbura,2024-09-20 12:45:00,28.8,46,1010.0,Patchy rain nearby,1.8889040000000001
+Burundi,Bujumbura,2024-09-21 12:45:00,26.5,60,1012.0,Patchy rain nearby,3.0000240000000007
+Burundi,Bujumbura,2024-09-22 12:30:00,27.2,70,1015.0,Partly cloudy,2.3889080000000003
+Burundi,Bujumbura,2024-09-23 11:45:00,31.2,46,1016.0,Partly cloudy,3.8055860000000004
+Burundi,Bujumbura,2024-09-24 11:45:00,30.2,52,1015.0,Partly cloudy,2.805578
+Burundi,Bujumbura,2024-09-25 11:30:00,30.1,43,1016.0,Partly cloudy,3.0000240000000007
+Burundi,Bujumbura,2024-09-26 11:30:00,32.3,38,1014.0,Partly cloudy,2.8889120000000004
+Burundi,Bujumbura,2024-09-27 12:00:00,31.3,38,1014.0,Partly cloudy,3.6944740000000005
+Burundi,Bujumbura,2024-09-28 12:00:00,27.2,34,1009.0,Sunny,4.111144
+Burundi,Bujumbura,2024-09-29 11:30:00,30.9,32,1010.0,Sunny,2.0000160000000005
+Burundi,Bujumbura,2024-09-30 11:30:00,29.2,45,1011.0,Patchy rain nearby,3.0000240000000007

@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Eritrea,Asmara,2025-07-01 11:45:00,24.2,31,1013.0,Sunny,2.3889080000000003
+Eritrea,Asmara,2025-07-02 11:45:00,22.8,42,1014.0,Sunny,2.6944660000000002
+Eritrea,Asmara,2025-07-03 11:30:00,21.9,45,1015.0,Patchy rain nearby,1.3889
+Eritrea,Asmara,2025-07-04 11:30:00,22.5,42,1014.0,Patchy rain nearby,1.694458
+Eritrea,Asmara,2025-07-05 12:00:00,23.1,41,1013.0,Patchy rain nearby,2.3055740000000005

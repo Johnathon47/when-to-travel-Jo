@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Philippines,Manila,2025-05-01 17:00:00,36.1,47,1007.0,Sunny,4.888928000000001
+Philippines,Manila,2025-05-02 17:00:00,34.3,60,1006.0,Partly cloudy,5.3889320000000005
+Philippines,Manila,2025-05-03 17:00:00,35.4,53,1006.0,Partly cloudy,3.8055860000000004
+Philippines,Manila,2025-05-04 16:45:00,32.2,67,1006.0,Partly cloudy,5.805602
+Philippines,Manila,2025-05-05 17:00:00,33.2,63,1006.0,Partly cloudy,4.3055900000000005
+Philippines,Manila,2025-05-06 17:00:00,28.0,84,1007.0,Moderate or heavy rain with thunder,4.194478
+Philippines,Manila,2025-05-07 16:45:00,30.1,70,1006.0,Partly cloudy,3.6111400000000002
+Philippines,Manila,2025-05-08 16:45:00,34.1,60,1006.0,Partly cloudy,4.194478
+Philippines,Manila,2025-05-09 17:15:00,34.2,60,1007.0,Partly cloudy,1.3889
+Philippines,Manila,2025-05-10 17:00:00,36.4,42,1006.0,Partly Cloudy,1.611124
+Philippines,Manila,2025-05-11 16:45:00,31.1,71,1005.0,Partly cloudy,4.611148000000001
+Philippines,Manila,2025-05-12 17:00:00,32.2,63,1005.0,Partly cloudy,4.888928000000001
+Philippines,Manila,2025-05-13 17:15:00,34.1,56,1008.0,Partly cloudy,1.5000120000000003
+Philippines,Manila,2025-05-14 17:15:00,32.2,67,1009.0,Partly cloudy,4.888928000000001
+Philippines,Manila,2025-05-15 17:00:00,35.4,53,1009.0,Sunny,4.694482
+Philippines,Manila,2025-05-16 17:00:00,35.4,50,1008.0,Sunny,5.500044000000001
+Philippines,Manila,2025-05-17 16:45:00,35.2,53,1008.0,Partly cloudy,4.111144
+Philippines,Manila,2025-05-18 16:45:00,34.2,53,1008.0,Sunny,5.888936
+Philippines,Manila,2025-05-19 17:00:00,35.1,53,1006.0,Sunny,5.694490000000001
+Philippines,Manila,2025-05-20 17:00:00,35.3,47,1007.0,Sunny,6.500052
+Philippines,Manila,2025-05-21 16:45:00,35.3,47,1007.0,Sunny,5.611156
+Philippines,Manila,2025-05-22 16:45:00,35.3,53,1004.0,Sunny,6.111160000000001
+Philippines,Manila,2025-05-23 17:00:00,36.3,37,1004.0,Sunny,4.000032000000001
+Philippines,Manila,2025-05-24 16:45:00,35.3,53,1006.0,Sunny,3.8055860000000004
+Philippines,Manila,2025-05-25 16:30:00,35.3,56,1008.0,Partly cloudy,5.500044000000001
+Philippines,Manila,2025-05-26 17:00:00,34.2,53,1008.0,Partly Cloudy,5.305598000000001
+Philippines,Manila,2025-05-27 17:00:00,34.0,56,1007.0,Sunny,5.694490000000001
+Philippines,Manila,2025-05-28 16:45:00,32.4,67,1007.0,Light rain shower,4.805594000000001
+Philippines,Manila,2025-05-29 16:45:00,31.0,79,1009.0,Partly cloudy,5.3889320000000005
+Philippines,Manila,2025-05-30 16:45:00,31.2,71,1010.0,Partly cloudy,7.194502
+Philippines,Manila,2025-05-31 16:45:00,31.3,75,1008.0,Partly cloudy,4.194478

@@ -1,0 +1,11 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Thailand,Nan,2025-07-01 16:00:00,31.1,63,1004.0,Light rain shower,1.11112
+Thailand,Bangkok,2025-07-01 15:45:00,32.3,63,1004.0,Partly cloudy,4.194478
+Thailand,Nan,2025-07-02 15:45:00,26.3,100,1007.0,Light rain,1.11112
+Thailand,Bangkok,2025-07-02 16:00:00,31.0,66,1006.0,Patchy rain nearby,2.8889120000000004
+Thailand,Nan,2025-07-03 15:30:00,31.1,66,1006.0,Light rain shower,1.3055660000000002
+Thailand,Bangkok,2025-07-03 15:30:00,31.0,59,1007.0,Partly Cloudy,2.6944660000000002
+Thailand,Nan,2025-07-04 15:45:00,29.1,75,1005.0,Overcast,1.0000080000000002
+Thailand,Bangkok,2025-07-04 16:00:00,33.1,53,1005.0,Partly cloudy,4.888928000000001
+Thailand,Nan,2025-07-05 15:45:00,30.3,75,1003.0,Overcast,2.0000160000000005
+Thailand,Bangkok,2025-07-05 15:45:00,33.3,56,1004.0,Partly cloudy,4.000032000000001

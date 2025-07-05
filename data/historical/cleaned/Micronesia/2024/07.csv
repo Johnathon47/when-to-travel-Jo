@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Micronesia,Palikir,2024-07-01 00:30:00,28.4,84,1011.0,Overcast,2.50002
+Micronesia,Palikir,2024-07-02 00:15:00,26.0,94,1011.0,Overcast,1.8889040000000001
+Micronesia,Palikir,2024-07-03 00:15:00,27.0,94,1012.0,Overcast,1.0000080000000002
+Micronesia,Palikir,2024-07-04 00:00:00,26.4,94,1012.0,Overcast,1.694458
+Micronesia,Palikir,2024-07-05 00:15:00,25.4,100,1011.0,Partly cloudy,1.694458
+Micronesia,Palikir,2024-07-05 23:45:00,25.1,94,1011.0,Partly cloudy,1.8889040000000001
+Micronesia,Palikir,2024-07-07 00:15:00,27.1,89,1010.0,Overcast,1.0000080000000002
+Micronesia,Palikir,2024-07-08 00:00:00,25.3,100,1010.0,Overcast,1.694458
+Micronesia,Palikir,2024-07-09 00:00:00,29.4,84,1011.0,Partly cloudy,1.8889040000000001
+Micronesia,Palikir,2024-07-09 23:45:00,28.3,79,1011.0,Partly cloudy,1.8889040000000001
+Micronesia,Palikir,2024-07-11 00:00:00,27.2,94,1010.0,Overcast,1.11112
+Micronesia,Palikir,2024-07-11 23:45:00,26.3,94,1009.0,Overcast,1.694458
+Micronesia,Palikir,2024-07-13 00:00:00,28.4,84,1007.0,Overcast,3.111136
+Micronesia,Palikir,2024-07-14 00:00:00,28.7,79,1007.0,Light rain shower,7.388948000000001
+Micronesia,Palikir,2024-07-15 00:15:00,27.2,84,1010.0,Overcast,1.0000080000000002
+Micronesia,Palikir,2024-07-16 00:00:00,28.2,89,1010.0,Overcast,1.0000080000000002
+Micronesia,Palikir,2024-07-16 23:45:00,25.3,94,1011.0,Overcast,1.8889040000000001
+Micronesia,Palikir,2024-07-17 23:45:00,26.7,81,1012.0,Patchy rain nearby,5.611156
+Micronesia,Palikir,2024-07-18 23:45:00,25.4,100,1014.0,Overcast,1.11112
+Micronesia,Palikir,2024-07-19 23:30:00,27.2,89,1013.0,Overcast,1.694458
+Micronesia,Palikir,2024-07-20 23:45:00,28.3,84,1011.0,Partly cloudy,1.8889040000000001
+Micronesia,Palikir,2024-07-23 23:30:00,28.4,79,1009.0,Patchy rain nearby,3.8055860000000004
+Micronesia,Palikir,2024-07-24 23:45:00,25.5,87,1010.0,Patchy light drizzle,1.8055700000000001
+Micronesia,Palikir,2024-07-25 23:15:00,27.8,76,1010.0,Light rain shower,1.1944540000000001
+Micronesia,Palikir,2024-07-26 23:30:00,28.9,77,1011.0,Cloudy,7.305614000000001
+Micronesia,Palikir,2024-07-27 23:30:00,26.3,85,1011.0,Light rain shower,1.8889040000000001
+Micronesia,Palikir,2024-07-28 23:45:00,26.7,80,1011.0,Patchy rain nearby,5.3889320000000005
+Micronesia,Palikir,2024-07-29 23:15:00,28.6,74,1012.0,Partly Cloudy,3.8055860000000004
+Micronesia,Palikir,2024-07-30 23:15:00,28.8,72,1012.0,Partly Cloudy,2.0000160000000005
+Micronesia,Palikir,2024-07-31 23:15:00,28.6,72,1012.0,Partly Cloudy,1.694458

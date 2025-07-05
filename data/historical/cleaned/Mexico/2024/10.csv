@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mexico,Mexico City,2024-10-01 04:00:00,14.0,82,1025.0,Partly cloudy,2.194462
+Mexico,Mexico City,2024-10-02 03:30:00,12.0,94,1026.0,Overcast,3.0000240000000007
+Mexico,Mexico City,2024-10-03 03:30:00,12.2,58,1024.0,Partly cloudy,1.611124
+Mexico,Mexico City,2024-10-04 03:45:00,10.7,98,1017.0,Fog,1.8055700000000001
+Mexico,Mexico City,2024-10-05 03:30:00,10.9,82,1020.0,Overcast,1.8889040000000001
+Mexico,Mexico City,2024-10-06 03:15:00,14.2,100,1026.0,Light rain,1.1944540000000001
+Mexico,Mexico City,2024-10-07 03:45:00,13.3,94,1028.0,Partly cloudy,1.11112
+Mexico,Mexico City,2024-10-08 03:45:00,14.4,82,1025.0,Overcast,1.8889040000000001
+Mexico,Mexico City,2024-10-09 03:45:00,13.2,96,1018.0,Mist,2.0000160000000005
+Mexico,Mexico City,2024-10-10 03:45:00,9.4,97,1022.0,Fog,1.694458
+Mexico,Mexico City,2024-10-11 03:45:00,7.3,93,1032.0,Clear,1.8055700000000001
+Mexico,Mexico City,2024-10-12 03:45:00,10.3,66,1030.0,Clear,2.111128
+Mexico,Mexico City,2024-10-13 03:30:00,10.3,87,1030.0,Clear,1.8889040000000001
+Mexico,Mexico City,2024-10-14 03:30:00,14.4,72,1031.0,Partly cloudy,1.694458
+Mexico,Mexico City,2024-10-15 03:30:00,11.3,98,1022.0,Fog,1.5000120000000003
+Mexico,Mexico City,2024-10-16 03:30:00,10.3,87,1030.0,Partly cloudy,1.0000080000000002
+Mexico,Mexico City,2024-10-17 03:30:00,11.4,71,1028.0,Partly cloudy,2.3055740000000005
+Mexico,Mexico City,2024-10-18 03:30:00,11.4,87,1027.0,Partly cloudy,1.8055700000000001
+Mexico,Mexico City,2024-10-19 03:30:00,12.7,95,1021.0,Mist,2.6944660000000002
+Mexico,Mexico City,2024-10-20 03:30:00,10.5,86,1024.0,Overcast,2.6944660000000002
+Mexico,Mexico City,2024-10-21 03:15:00,13.0,88,1030.0,Overcast,2.3055740000000005
+Mexico,Mexico City,2024-10-22 03:15:00,14.4,88,1028.0,Partly cloudy,2.0000160000000005
+Mexico,Mexico City,2024-10-23 03:30:00,11.1,94,1031.0,Partly cloudy,1.694458
+Mexico,Mexico City,2024-10-25 03:15:00,11.2,82,1027.0,Clear,1.3889
+Mexico,Mexico City,2024-10-26 03:15:00,11.2,82,1031.0,Partly cloudy,2.194462
+Mexico,Mexico City,2024-10-27 03:15:00,13.3,72,1031.0,Overcast,2.50002
+Mexico,Mexico City,2024-10-28 03:15:00,13.3,72,1028.0,Partly cloudy,2.194462
+Mexico,Mexico City,2024-10-29 03:00:00,12.3,88,1026.0,Partly cloudy,1.5000120000000003
+Mexico,Mexico City,2024-10-30 03:00:00,11.8,94,1019.0,Cloudy,1.0000080000000002
+Mexico,Mexico City,2024-10-31 03:00:00,14.3,93,1018.0,Cloudy,1.0000080000000002

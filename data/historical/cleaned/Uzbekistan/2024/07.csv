@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Uzbekistan,Tashkent,2024-07-01 18:15:00,31.1,21,1006.0,Sunny,3.111136
+Uzbekistan,Tashkent,2024-07-02 18:15:00,30.3,17,1007.0,Sunny,4.194478
+Uzbekistan,Tashkent,2024-07-03 18:00:00,34.2,12,1005.0,Sunny,5.305598000000001
+Uzbekistan,Tashkent,2024-07-04 18:15:00,35.4,13,1005.0,Sunny,5.305598000000001
+Uzbekistan,Tashkent,2024-07-05 17:45:00,36.2,16,1002.0,Sunny,3.111136
+Uzbekistan,Tashkent,2024-07-06 18:15:00,35.3,15,1001.0,Sunny,1.8889040000000001
+Uzbekistan,Tashkent,2024-07-07 18:00:00,32.4,28,1003.0,Partly cloudy,3.111136
+Uzbekistan,Tashkent,2024-07-08 18:00:00,33.3,26,1007.0,Partly cloudy,4.194478
+Uzbekistan,Tashkent,2024-07-09 17:45:00,36.4,19,1008.0,Sunny,3.111136
+Uzbekistan,Tashkent,2024-07-10 18:00:00,36.3,16,1008.0,Sunny,6.111160000000001
+Uzbekistan,Tashkent,2024-07-11 17:45:00,36.3,18,1005.0,Sunny,4.194478
+Uzbekistan,Tashkent,2024-07-12 18:00:00,35.2,22,1000.0,Sunny,4.194478
+Uzbekistan,Tashkent,2024-07-13 18:00:00,35.3,22,1000.0,Sunny,5.305598000000001
+Uzbekistan,Tashkent,2024-07-14 18:15:00,32.4,26,1002.0,Sunny,4.194478
+Uzbekistan,Tashkent,2024-07-15 18:00:00,31.6,21,1005.0,Sunny,5.694490000000001
+Uzbekistan,Tashkent,2024-07-16 17:45:00,33.0,23,1008.0,Sunny,5.305598000000001
+Uzbekistan,Tashkent,2024-07-17 17:45:00,34.3,23,1005.0,Sunny,5.305598000000001
+Uzbekistan,Tashkent,2024-07-18 17:45:00,34.4,23,1004.0,Sunny,3.111136
+Uzbekistan,Tashkent,2024-07-19 17:30:00,34.1,23,1003.0,Sunny,4.194478
+Uzbekistan,Tashkent,2024-07-20 17:45:00,35.1,20,1004.0,Sunny,3.111136
+Uzbekistan,Tashkent,2024-07-23 17:30:00,38.9,12,999.0,Sunny,3.6944740000000005
+Uzbekistan,Tashkent,2024-07-24 17:45:00,39.1,11,996.0,Sunny,4.805594000000001
+Uzbekistan,Tashkent,2024-07-25 17:30:00,40.7,9,995.0,Sunny,4.694482
+Uzbekistan,Tashkent,2024-07-26 17:30:00,39.6,16,999.0,Sunny,8.805626
+Uzbekistan,Tashkent,2024-07-27 17:30:00,40.6,12,1000.0,Sunny,5.500044000000001
+Uzbekistan,Tashkent,2024-07-28 17:45:00,40.4,12,1001.0,Sunny,7.388948000000001
+Uzbekistan,Tashkent,2024-07-29 17:15:00,39.4,11,1000.0,Sunny,6.805610000000001
+Uzbekistan,Tashkent,2024-07-30 17:30:00,39.8,10,1000.0,Sunny,3.6111400000000002
+Uzbekistan,Tashkent,2024-07-31 17:15:00,41.0,10,998.0,Sunny,1.8889040000000001

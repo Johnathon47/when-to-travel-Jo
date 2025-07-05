@@ -1,0 +1,30 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Costa Rica,San Ignacio,2024-06-01 08:15:00,24.0,74,1017.0,Partly cloudy,6.694498000000001
+Costa Rica,San Ignacio,2024-06-02 08:00:00,25.0,65,1017.0,Sunny,3.111136
+Costa Rica,San Ignacio,2024-06-03 08:15:00,24.0,78,1018.0,Partly cloudy,2.50002
+Costa Rica,San Ignacio,2024-06-04 08:15:00,23.0,73,1018.0,Sunny,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-05 08:15:00,24.0,74,1018.0,Partly cloudy,1.8889040000000001
+Costa Rica,San Ignacio,2024-06-06 08:00:00,22.0,100,1017.0,Partly cloudy,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-07 08:00:00,23.3,73,1017.0,Sunny,2.50002
+Costa Rica,San Ignacio,2024-06-08 08:15:00,24.1,74,1020.0,Partly cloudy,1.694458
+Costa Rica,San Ignacio,2024-06-09 08:15:00,22.4,78,1020.0,Partly cloudy,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-10 08:15:00,24.0,69,1018.0,Partly cloudy,2.50002
+Costa Rica,San Ignacio,2024-06-11 08:00:00,23.1,83,1017.0,Partly cloudy,3.111136
+Costa Rica,San Ignacio,2024-06-12 08:15:00,23.0,83,1019.0,Partly cloudy,1.694458
+Costa Rica,San Ignacio,2024-06-13 08:00:00,24.2,69,1018.0,Sunny,1.8889040000000001
+Costa Rica,San Ignacio,2024-06-14 08:00:00,20.0,100,1018.0,Partly cloudy,1.11112
+Costa Rica,San Ignacio,2024-06-15 08:00:00,19.2,96,1014.0,Light drizzle,1.3889
+Costa Rica,San Ignacio,2024-06-16 07:45:00,18.1,93,1014.0,Patchy rain nearby,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-17 08:00:00,21.1,94,1017.0,Partly cloudy,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-18 08:00:00,22.5,82,1013.0,Partly Cloudy,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-19 07:45:00,19.1,96,1013.0,Mist,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-20 07:45:00,21.1,78,1016.0,Partly cloudy,1.8889040000000001
+Costa Rica,San Ignacio,2024-06-21 07:30:00,22.3,78,1017.0,Sunny,1.11112
+Costa Rica,San Ignacio,2024-06-22 07:45:00,22.1,73,1017.0,Sunny,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-23 07:45:00,25.2,65,1017.0,Partly cloudy,5.305598000000001
+Costa Rica,San Ignacio,2024-06-24 07:45:00,21.2,88,1017.0,Partly cloudy,3.6111400000000002
+Costa Rica,San Ignacio,2024-06-26 07:30:00,20.2,100,1019.0,Partly cloudy,1.694458
+Costa Rica,San Ignacio,2024-06-27 07:15:00,20.0,100,1018.0,Fog,1.694458
+Costa Rica,San Ignacio,2024-06-28 07:15:00,19.0,100,1018.0,Sunny,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-29 06:45:00,19.2,100,1019.0,Mist,1.0000080000000002
+Costa Rica,San Ignacio,2024-06-30 07:30:00,22.3,73,1018.0,Partly cloudy,5.305598000000001

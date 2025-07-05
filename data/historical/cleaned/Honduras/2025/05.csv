@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Honduras,Tegucigalpa,2025-05-01 02:45:00,23.3,65,1019.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-02 03:00:00,22.4,78,1018.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-03 03:00:00,22.1,78,1018.0,Partly cloudy,1.11112
+Honduras,Tegucigalpa,2025-05-04 02:45:00,20.2,94,1018.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-05 03:00:00,20.2,100,1019.0,Overcast,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-06 03:00:00,21.0,83,1019.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-07 02:45:00,20.2,94,1018.0,Clear,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-08 02:45:00,22.1,83,1019.0,Patchy rain nearby,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-09 03:15:00,22.0,78,1018.0,Patchy rain nearby,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-10 03:00:00,23.3,78,1018.0,Partly cloudy,1.1944540000000001
+Honduras,Tegucigalpa,2025-05-11 02:45:00,21.1,83,1019.0,Partly Cloudy,1.8889040000000001
+Honduras,Tegucigalpa,2025-05-12 03:00:00,21.1,83,1022.0,Partly cloudy,2.6944660000000002
+Honduras,Tegucigalpa,2025-05-13 03:15:00,20.3,88,1020.0,Partly cloudy,1.8889040000000001
+Honduras,Tegucigalpa,2025-05-14 03:15:00,21.3,88,1020.0,Partly Cloudy,1.5000120000000003
+Honduras,Tegucigalpa,2025-05-15 03:00:00,17.7,80,1013.0,Partly Cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-16 03:00:00,20.4,88,1020.0,Clear,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-17 02:45:00,20.3,88,1021.0,Patchy rain nearby,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-18 02:45:00,22.0,83,1019.0,Patchy rain nearby,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-19 03:00:00,22.2,83,1019.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2025-05-20 03:00:00,21.0,88,1018.0,Partly Cloudy,1.3889
+Honduras,Tegucigalpa,2025-05-22 02:45:00,20.1,83,1017.0,Clear,1.5000120000000003
+Honduras,Tegucigalpa,2025-05-23 03:00:00,22.0,78,1017.0,Partly cloudy,1.8055700000000001
+Honduras,Tegucigalpa,2025-05-24 02:45:00,22.3,78,1019.0,Mist,2.0000160000000005
+Honduras,Tegucigalpa,2025-05-25 02:30:00,21.4,73,1020.0,Clear,1.694458
+Honduras,Tegucigalpa,2025-05-26 03:00:00,20.0,78,1020.0,Partly Cloudy,1.694458
+Honduras,Tegucigalpa,2025-05-27 03:00:00,19.1,83,1020.0,Clear,1.5000120000000003
+Honduras,Tegucigalpa,2025-05-28 02:45:00,23.0,73,1019.0,Partly cloudy,1.3055660000000002
+Honduras,Tegucigalpa,2025-05-29 02:45:00,22.2,73,1021.0,Partly cloudy,1.5000120000000003
+Honduras,Tegucigalpa,2025-05-30 02:45:00,22.4,73,1020.0,Clear,1.611124
+Honduras,Tegucigalpa,2025-05-31 02:45:00,20.2,78,1019.0,Clear,1.3889

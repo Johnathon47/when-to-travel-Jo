@@ -1,0 +1,18 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+France,Paris,2024-05-16 10:45:00,15.0,72,1006.0,Partly cloudy,4.694482
+France,Paris,2024-05-16 16:00:00,18.0,52,1006.0,Partly cloudy,3.111136
+France,Paris,2024-05-17 18:00:00,18.0,56,1010.0,Moderate rain,1.0000080000000002
+France,Paris,2024-05-18 16:30:00,19.0,64,1011.0,Patchy light rain with thunder,5.611156
+France,Paris,2024-05-19 16:00:00,19.0,64,1012.0,Light rain,1.0000080000000002
+France,Paris,2024-05-20 16:45:00,21.0,56,1008.0,Partly cloudy,4.694482
+France,Paris,2024-05-21 16:45:00,19.0,56,1007.0,Light rain,4.194478
+France,Paris,2024-05-22 16:15:00,18.0,77,1012.0,Moderate or heavy rain with thunder,1.694458
+France,Paris,2024-05-23 16:00:00,19.0,52,1016.0,Moderate rain,3.111136
+France,Paris,2024-05-24 16:30:00,18.0,64,1018.0,Moderate or heavy rain with thunder,3.6111400000000002
+France,Paris,2024-05-25 16:00:00,19.0,60,1017.0,Partly cloudy,2.50002
+France,Paris,2024-05-26 16:00:00,22.0,50,1014.0,Moderate rain,4.194478
+France,Paris,2024-05-27 16:30:00,13.0,88,1018.0,Moderate rain,1.0000080000000002
+France,Paris,2024-05-28 16:30:00,14.2,94,1017.0,Overcast,4.611148000000001
+France,Paris,2024-05-29 16:00:00,15.0,100,1012.0,Light rain,3.6111400000000002
+France,Paris,2024-05-30 15:45:00,14.0,82,1010.0,Moderate or heavy rain with thunder,4.694482
+France,Paris,2024-05-31 16:15:00,15.0,82,1015.0,Light rain,3.6111400000000002

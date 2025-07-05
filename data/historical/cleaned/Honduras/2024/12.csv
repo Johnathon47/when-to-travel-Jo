@@ -1,0 +1,32 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Honduras,Tegucigalpa,2024-12-01 04:30:00,18.3,94,1019.0,Partly cloudy,3.111136
+Honduras,Tegucigalpa,2024-12-02 04:45:00,18.1,100,1020.0,Partly cloudy,2.50002
+Honduras,Tegucigalpa,2024-12-03 04:45:00,17.0,83,1022.0,Partly cloudy,4.194478
+Honduras,Tegucigalpa,2024-12-04 04:30:00,17.2,88,1022.0,Partly cloudy,4.388924
+Honduras,Tegucigalpa,2024-12-05 04:30:00,18.1,83,1020.0,Partly cloudy,3.111136
+Honduras,Tegucigalpa,2024-12-06 04:45:00,18.3,100,1020.0,Moderate rain,2.50002
+Honduras,Tegucigalpa,2024-12-07 04:30:00,18.4,94,1019.0,Light rain,3.3055820000000002
+Honduras,Tegucigalpa,2024-12-08 04:30:00,18.4,100,1021.0,Light rain,2.8889120000000004
+Honduras,Tegucigalpa,2024-12-09 05:00:00,19.2,94,1020.0,Overcast,2.805578
+Honduras,Tegucigalpa,2024-12-10 05:00:00,14.2,98,1015.0,Fog,2.111128
+Honduras,Tegucigalpa,2024-12-11 04:45:00,13.7,98,1016.0,Fog,2.111128
+Honduras,Tegucigalpa,2024-12-12 04:45:00,15.0,94,1017.0,Patchy rain nearby,4.194478
+Honduras,Tegucigalpa,2024-12-13 04:45:00,18.3,94,1022.0,Light rain,3.8055860000000004
+Honduras,Tegucigalpa,2024-12-14 04:30:00,15.6,91,1016.0,Partly Cloudy,4.111144
+Honduras,Tegucigalpa,2024-12-15 04:15:00,18.0,77,1020.0,Partly cloudy,3.111136
+Honduras,Tegucigalpa,2024-12-16 05:00:00,13.7,96,1016.0,Mist,2.6944660000000002
+Honduras,Tegucigalpa,2024-12-17 04:45:00,12.6,95,1016.0,Mist,2.50002
+Honduras,Tegucigalpa,2024-12-18 04:00:00,14.2,98,1017.0,Fog,2.6111320000000005
+Honduras,Tegucigalpa,2024-12-19 04:30:00,15.5,94,1017.0,Patchy rain nearby,3.0000240000000007
+Honduras,Tegucigalpa,2024-12-20 04:45:00,15.5,90,1016.0,Cloudy,3.0000240000000007
+Honduras,Tegucigalpa,2024-12-21 04:45:00,14.1,94,1017.0,Overcast,3.5000280000000004
+Honduras,Tegucigalpa,2024-12-22 04:15:00,13.3,96,1018.0,Mist,3.1944700000000004
+Honduras,Tegucigalpa,2024-12-23 04:45:00,11.9,96,1018.0,Mist,2.6944660000000002
+Honduras,Tegucigalpa,2024-12-24 04:45:00,15.6,94,1018.0,Mist,2.6111320000000005
+Honduras,Tegucigalpa,2024-12-25 03:45:00,15.0,98,1015.0,Fog,2.0000160000000005
+Honduras,Tegucigalpa,2024-12-26 04:30:00,14.6,96,1014.0,Mist,1.694458
+Honduras,Tegucigalpa,2024-12-27 04:45:00,14.4,95,1014.0,Mist,1.3055660000000002
+Honduras,Tegucigalpa,2024-12-28 04:15:00,14.8,97,1014.0,Mist,1.0000080000000002
+Honduras,Tegucigalpa,2024-12-29 04:15:00,17.4,94,1018.0,Partly cloudy,1.0000080000000002
+Honduras,Tegucigalpa,2024-12-30 04:30:00,15.8,96,1014.0,Mist,1.694458
+Honduras,Tegucigalpa,2024-12-31 04:30:00,15.3,98,1014.0,Fog,1.5000120000000003

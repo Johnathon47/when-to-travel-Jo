@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Costa Rica,San Ignacio,2025-04-01 03:30:00,21.3,73,1014.0,Clear,1.694458
+Costa Rica,San Ignacio,2025-04-02 03:00:00,20.3,73,1015.0,Partly cloudy,2.194462
+Costa Rica,San Ignacio,2025-04-03 03:00:00,20.4,73,1015.0,Partly cloudy,2.111128
+Costa Rica,San Ignacio,2025-04-04 03:15:00,21.2,73,1015.0,Partly cloudy,2.194462
+Costa Rica,San Ignacio,2025-04-05 03:00:00,22.4,73,1016.0,Partly cloudy,2.3055740000000005
+Costa Rica,San Ignacio,2025-04-06 03:00:00,23.2,73,1014.0,Partly cloudy,1.8889040000000001
+Costa Rica,San Ignacio,2025-04-07 03:15:00,17.7,95,1012.0,Mist,1.611124
+Costa Rica,San Ignacio,2025-04-08 03:15:00,20.2,68,1013.0,Clear,1.5000120000000003
+Costa Rica,San Ignacio,2025-04-09 03:15:00,21.3,73,1016.0,Clear,2.111128
+Costa Rica,San Ignacio,2025-04-10 03:15:00,21.2,73,1016.0,Partly cloudy,2.6944660000000002
+Costa Rica,San Ignacio,2025-04-11 03:15:00,22.2,69,1017.0,Partly cloudy,2.0000160000000005
+Costa Rica,San Ignacio,2025-04-12 03:15:00,20.1,73,1015.0,Partly cloudy,2.50002
+Costa Rica,San Ignacio,2025-04-13 03:00:00,21.1,73,1015.0,Partly cloudy,2.194462
+Costa Rica,San Ignacio,2025-04-14 03:30:00,22.3,78,1014.0,Partly cloudy,2.3055740000000005
+Costa Rica,San Ignacio,2025-04-15 03:15:00,22.0,73,1014.0,Partly cloudy,2.6944660000000002
+Costa Rica,San Ignacio,2025-04-16 03:00:00,23.3,73,1014.0,Partly cloudy,2.805578
+Costa Rica,San Ignacio,2025-04-17 02:45:00,22.2,69,1014.0,Partly cloudy,3.0000240000000007
+Costa Rica,San Ignacio,2025-04-18 03:15:00,22.4,69,1013.0,Partly cloudy,2.6944660000000002
+Costa Rica,San Ignacio,2025-04-19 03:00:00,22.2,65,1013.0,Clear,2.6944660000000002
+Costa Rica,San Ignacio,2025-04-20 02:45:00,23.1,73,1014.0,Partly Cloudy,2.805578
+Costa Rica,San Ignacio,2025-04-21 03:15:00,22.4,78,1014.0,Partly cloudy,1.8055700000000001
+Costa Rica,San Ignacio,2025-04-22 03:15:00,21.2,78,1013.0,Mist,2.194462
+Costa Rica,San Ignacio,2025-04-23 03:00:00,21.2,69,1014.0,Partly cloudy,1.611124
+Costa Rica,San Ignacio,2025-04-24 03:00:00,22.1,61,1014.0,Partly cloudy,1.5000120000000003
+Costa Rica,San Ignacio,2025-04-25 03:00:00,21.2,69,1014.0,Clear,1.694458
+Costa Rica,San Ignacio,2025-04-26 03:00:00,22.1,53,1014.0,Partly Cloudy,1.611124
+Costa Rica,San Ignacio,2025-04-27 02:45:00,22.2,65,1015.0,Partly cloudy,1.8055700000000001
+Costa Rica,San Ignacio,2025-04-28 03:30:00,22.1,65,1015.0,Partly cloudy,2.3055740000000005
+Costa Rica,San Ignacio,2025-04-29 02:45:00,21.4,83,1016.0,Partly cloudy,1.3055660000000002
+Costa Rica,San Ignacio,2025-04-30 02:45:00,14.4,95,1013.0,Mist,1.694458

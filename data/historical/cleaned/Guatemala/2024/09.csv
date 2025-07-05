@@ -1,0 +1,31 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Guatemala,Guatemala City,2024-09-01 06:00:00,17.1,94,1021.0,Sunny,1.0000080000000002
+Guatemala,Guatemala City,2024-09-02 06:15:00,17.0,100,1020.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-03 06:15:00,17.0,100,1020.0,Partly cloudy,1.8889040000000001
+Guatemala,Guatemala City,2024-09-04 06:00:00,18.0,100,1020.0,Partly cloudy,3.111136
+Guatemala,Guatemala City,2024-09-05 06:00:00,19.3,94,1020.0,Overcast,5.305598000000001
+Guatemala,Guatemala City,2024-09-06 06:15:00,19.3,100,1019.0,Mist,1.0000080000000002
+Guatemala,Guatemala City,2024-09-07 06:00:00,17.4,99,1011.0,Mist,3.111136
+Guatemala,Guatemala City,2024-09-08 06:15:00,17.2,94,1017.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-09 06:30:00,18.0,94,1020.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-10 06:30:00,16.7,97,1015.0,Mist,4.194478
+Guatemala,Guatemala City,2024-09-11 06:00:00,16.5,93,1014.0,Fog,1.0000080000000002
+Guatemala,Guatemala City,2024-09-12 06:15:00,18.4,94,1019.0,Mist,1.0000080000000002
+Guatemala,Guatemala City,2024-09-13 06:30:00,19.0,94,1020.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-14 06:30:00,18.1,100,1020.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-15 06:00:00,19.2,94,1019.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-16 05:00:00,18.1,94,1019.0,Partly cloudy,1.1944540000000001
+Guatemala,Guatemala City,2024-09-17 05:00:00,18.0,100,1019.0,Partly cloudy,1.3055660000000002
+Guatemala,Guatemala City,2024-09-18 04:45:00,16.3,96,1013.0,Fog,1.0000080000000002
+Guatemala,Guatemala City,2024-09-19 04:45:00,19.3,88,1018.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-20 04:45:00,19.1,88,1017.0,Partly cloudy,1.3055660000000002
+Guatemala,Guatemala City,2024-09-21 04:45:00,19.1,94,1017.0,Moderate rain,1.0000080000000002
+Guatemala,Guatemala City,2024-09-22 04:30:00,17.3,100,1018.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-23 03:45:00,17.0,100,1017.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-24 03:45:00,18.3,94,1017.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-25 03:30:00,17.0,97,1010.0,Mist,1.0000080000000002
+Guatemala,Guatemala City,2024-09-26 03:30:00,18.1,88,1018.0,Mist,1.0000080000000002
+Guatemala,Guatemala City,2024-09-27 04:00:00,16.8,98,1013.0,Mist,1.0000080000000002
+Guatemala,Guatemala City,2024-09-28 04:00:00,19.1,88,1019.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-29 03:30:00,18.3,94,1019.0,Partly cloudy,1.0000080000000002
+Guatemala,Guatemala City,2024-09-30 03:30:00,17.2,100,1019.0,Partly cloudy,1.0000080000000002

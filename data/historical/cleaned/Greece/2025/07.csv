@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Greece,Athens,2025-07-01 11:45:00,35.0,25,1010.0,Sunny,6.000048000000001
+Greece,Athens,2025-07-02 11:30:00,32.0,24,1015.0,Sunny,7.611172000000001
+Greece,Athens,2025-07-03 11:45:00,32.2,23,1017.0,Sunny,8.111176
+Greece,Athens,2025-07-04 11:45:00,33.2,23,1016.0,Sunny,8.500068
+Greece,Athens,2025-07-05 11:45:00,34.3,23,1014.0,Sunny,6.500052

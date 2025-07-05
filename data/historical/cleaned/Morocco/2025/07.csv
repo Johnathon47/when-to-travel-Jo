@@ -1,0 +1,6 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Morocco,Rabat,2025-07-01 09:45:00,25.3,89,1011.0,Mist,2.111128
+Morocco,Rabat,2025-07-02 10:00:00,26.0,74,1013.0,Mist,4.500036000000001
+Morocco,Rabat,2025-07-03 09:30:00,23.4,89,1015.0,Mist,2.50002
+Morocco,Rabat,2025-07-04 09:45:00,23.1,78,1018.0,Overcast,2.50002
+Morocco,Rabat,2025-07-05 09:45:00,24.3,65,1018.0,Partly cloudy,2.194462

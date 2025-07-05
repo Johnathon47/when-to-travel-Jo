@@ -1,0 +1,29 @@
+﻿Pays,Ville,Date,Température (°C),Humidité (%),Pression (hPa),Description,Vent (m/s)
+Mexico,Mexico City,2024-07-01 07:15:00,15.2,94,1023.0,Light drizzle,3.6111400000000002
+Mexico,Mexico City,2024-07-02 07:15:00,16.2,82,1026.0,Partly cloudy,1.0000080000000002
+Mexico,Mexico City,2024-07-03 07:00:00,16.3,77,1027.0,Partly cloudy,3.6111400000000002
+Mexico,Mexico City,2024-07-04 07:15:00,14.3,94,1027.0,Partly cloudy,3.111136
+Mexico,Mexico City,2024-07-05 06:45:00,16.2,82,1026.0,Mist,1.8889040000000001
+Mexico,Mexico City,2024-07-06 07:15:00,13.4,88,1027.0,Sunny,2.50002
+Mexico,Mexico City,2024-07-07 07:00:00,14.0,88,1026.0,Sunny,4.194478
+Mexico,Mexico City,2024-07-08 07:00:00,18.1,64,1024.0,Partly cloudy,2.50002
+Mexico,Mexico City,2024-07-09 06:45:00,16.3,77,1025.0,Overcast,1.694458
+Mexico,Mexico City,2024-07-10 07:00:00,16.3,82,1025.0,Partly cloudy,2.50002
+Mexico,Mexico City,2024-07-11 06:45:00,14.4,94,1026.0,Partly cloudy,1.11112
+Mexico,Mexico City,2024-07-12 07:00:00,16.3,77,1028.0,Partly cloudy,3.111136
+Mexico,Mexico City,2024-07-14 07:15:00,15.3,67,1031.0,Partly cloudy,2.50002
+Mexico,Mexico City,2024-07-15 07:00:00,14.4,88,1021.0,Patchy rain nearby,1.0000080000000002
+Mexico,Mexico City,2024-07-16 06:45:00,12.7,80,1019.0,Clear,1.0000080000000002
+Mexico,Mexico City,2024-07-17 06:45:00,13.1,81,1018.0,Clear,1.0000080000000002
+Mexico,Mexico City,2024-07-18 06:45:00,15.4,88,1029.0,Overcast,1.694458
+Mexico,Mexico City,2024-07-19 06:30:00,15.3,94,1028.0,Partly cloudy,1.8889040000000001
+Mexico,Mexico City,2024-07-20 06:45:00,14.3,94,1028.0,Partly cloudy,2.50002
+Mexico,Mexico City,2024-07-23 06:30:00,14.3,85,1017.0,Patchy rain nearby,1.0000080000000002
+Mexico,Mexico City,2024-07-24 06:45:00,13.2,87,1020.0,Patchy rain nearby,1.0000080000000002
+Mexico,Mexico City,2024-07-25 06:15:00,13.8,90,1020.0,Light rain shower,1.0000080000000002
+Mexico,Mexico City,2024-07-26 06:30:00,14.3,89,1019.0,Patchy rain nearby,1.0000080000000002
+Mexico,Mexico City,2024-07-27 06:30:00,14.2,83,1017.0,Patchy rain nearby,1.0000080000000002
+Mexico,Mexico City,2024-07-28 06:45:00,13.8,89,1018.0,Light rain shower,1.0000080000000002
+Mexico,Mexico City,2024-07-29 06:15:00,14.3,92,1019.0,Patchy rain nearby,1.3889
+Mexico,Mexico City,2024-07-30 06:15:00,15.4,88,1018.0,Patchy rain nearby,1.1944540000000001
+Mexico,Mexico City,2024-07-31 06:15:00,13.9,91,1019.0,Patchy rain nearby,1.0000080000000002
