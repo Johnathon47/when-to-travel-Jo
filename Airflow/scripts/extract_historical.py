@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 # Charder un aperçu du fichier CSV uploadé
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "/home/wesley/Documents/code/python/when-to-travel-Jo/"))
 file_path = os.path.join(base_dir, "data", "historical","raw", "Global_weather_repository.csv")
 df = pd.read_csv(file_path)
 

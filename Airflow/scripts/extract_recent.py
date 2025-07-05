@@ -5,7 +5,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "/home/wesley/Documents/code/python/when-to-travel-Jo/"))
 DATA_DIR = os.path.join(BASE_DIR, "data", "recent")
 
 # Dictionnaire pour traduire certains noms de pays
